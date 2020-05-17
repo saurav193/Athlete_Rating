@@ -1,0 +1,61 @@
+Athlete_Comp_ID,Athlete_name,Gender,age_yrs,Nation,Judge_1_Score,Judge_2_Score,Judge_3_Score,Judge_4_Score,Judge_5_Score,Judge_6_Score_1,Judge_7_Score_1,Major_Finalist,Major_Medalist,Olympic_Finalist,Olympic_Medalist,Temp_Snow,Temp_Air,Wind,Season,Season_Comp,Round,Score_Metric,Finish_Rank
+MALHERBE Malica - CAN - Canada Cup 2 - 2019 - Final 1,MALHERBE Malica - CAN,Women,,CAN,13.0,12.6,13.0,12.9,12.7,5.5,5.7,0,0,0,0,0.0,0.0,0.0,2019,2019-Canada Cup 2,Final 1,32.44,9
+YANAGIMOTO Rino - JPN - Canadian Selections 1 - 2019 - Final 1,YANAGIMOTO Rino - JPN,Women,20.0,JPN,17.7,16.7,16.3,16.7,17.2,5.4,5.8,0,0,0,0,0.0,0.0,0.0,2019,2019-Canadian Selections 1,Final 1,64.65,5
+LINTON Jessica - CAN - Canada Cup 2 - 2019 - Final 1,LINTON Jessica - CAN,Women,,CAN,14.8,14.9,16.6,14.4,15.0,7.0,7.1,0,0,0,0,0.0,0.0,0.0,2019,2019-Canada Cup 2,Final 1,66.23,2
+ITO Miki - JPN - Canadian Selections 1 - 2019 - Final 1,ITO Miki - JPN,Women,33.0,JPN,17.8,16.8,16.2,16.7,17.0,4.3,6.2,1,1,0,0,0.0,0.0,0.0,2019,2019-Canadian Selections 1,Final 1,72.37,3
+SCHWINGHAMER Mackenzie - CAN - Canada Cup 1 - 2019 - Final 1,SCHWINGHAMER Mackenzie - CAN,Women,,CAN,16.0,16.3,16.0,16.3,16.0,7.8,8.0,0,0,0,0,0.0,-22.0,0.0,2019,2019-Canada Cup 1,Final 1,73.42,1
+BERGEVIN Mikela - CAN - Canadian Selections 1 - 2019 - Final 1,BERGEVIN Mikela - CAN,Women,22.0,CAN,14.9,15.4,15.8,15.3,16.6,4.3,4.0,0,0,0,0,0.0,0.0,0.0,2019,2019-Canadian Selections 1,Final 1,62.76,7
+BUTTERWORTH Cassidy - CAN - Canada Cup 1 - 2019 - Final 1,BUTTERWORTH Cassidy - CAN,Women,,CAN,14.5,14.6,14.9,14.7,14.8,5.8,5.5,0,0,0,0,0.0,-22.0,0.0,2019,2019-Canada Cup 1,Final 1,59.06,6
+TODD Kassidy - CAN - Canadian Selections 1 - 2019 - Final 1,TODD Kassidy - CAN,Women,22.0,CAN,16.1,16.2,14.8,15.3,14.9,5.5,5.7,0,0,0,0,0.0,0.0,0.0,2019,2019-Canadian Selections 1,Final 1,63.0,6
+KOEHLER Kaylee - CAN - Canadian Selections 1 - 2019 - Final 1,KOEHLER Kaylee - CAN,Women,17.0,CAN,15.0,15.2,15.6,15.0,16.0,5.7,6.0,0,0,0,0,0.0,0.0,0.0,2019,2019-Canadian Selections 1,Final 1,59.14,10
+MIYAMOTO Juri - JPN - Canadian Selections 1 - 2019 - Final 1,MIYAMOTO Juri - JPN,Women,19.0,JPN,15.7,15.0,14.6,14.7,15.2,4.5,4.3,0,0,0,0,0.0,0.0,0.0,2019,2019-Canadian Selections 1,Final 1,49.94,12
+CLEGG Sina - CAN - Canada Cup 2 - 2019 - Final 1,CLEGG Sina - CAN,Women,,CAN,13.6,12.4,14.7,11.9,13.5,1.7,1.8,0,0,0,0,0.0,0.0,0.0,2019,2019-Canada Cup 2,Final 1,19.36,10
+LINTON Jessica - CAN - Canada Cup 1 - 2019 - Final 1,LINTON Jessica - CAN,Women,,CAN,15.0,15.2,15.3,14.9,15.0,6.4,6.5,0,0,0,0,0.0,-22.0,0.0,2019,2019-Canada Cup 1,Final 1,62.89,4
+SCHWINGHAMER Mackenzie - CAN - Canadian Selections 1 - 2019 - Final 1,SCHWINGHAMER Mackenzie - CAN,Women,21.0,CAN,15.2,14.7,15.2,15.9,16.8,5.0,4.5,0,0,0,0,0.0,0.0,0.0,2019,2019-Canadian Selections 1,Final 1,62.36,8
+ENGLISH Karisa - CAN - Canada Cup 2 - 2019 - Final 1,ENGLISH Karisa - CAN,Women,,CAN,15.1,14.8,13.5,15.3,14.3,6.7,6.9,0,0,0,0,0.0,0.0,0.0,2019,2019-Canada Cup 2,Final 1,54.85,7
+GODBOUT Rowanne - CAN - Canada Cup 2 - 2019 - Final 1,GODBOUT Rowanne - CAN,Women,,CAN,14.5,14.2,15.9,13.8,14.9,6.5,6.4,0,0,0,0,0.0,0.0,0.0,2019,2019-Canada Cup 2,Final 1,59.27,5
+CAPICIK Chase - CAN - Canada Cup 2 - 2019 - Final 1,CAPICIK Chase - CAN,Women,,CAN,15.4,15.6,15.7,15.8,15.7,7.2,7.3,0,0,0,0,0.0,0.0,0.0,2019,2019-Canada Cup 2,Final 1,64.85,3
+TAKAHASHI Shiori - JPN - Canadian Selections 1 - 2019 - Final 1,TAKAHASHI Shiori - JPN,Women,17.0,JPN,15.6,14.4,14.7,15.7,15.3,4.3,3.8,0,0,0,0,0.0,0.0,0.0,2019,2019-Canadian Selections 1,Final 1,56.03,11
+WHITFORD Elisabeth - CAN - Canada Cup 1 - 2019 - Final 1,WHITFORD Elisabeth - CAN,Women,,CAN,15.1,15.7,15.0,15.2,15.3,7.5,7.2,0,0,0,0,0.0,-22.0,0.0,2019,2019-Canada Cup 1,Final 1,62.03,5
+OGIHARA Nagi - JPN - Canadian Selections 1 - 2019 - Final 1,OGIHARA Nagi - JPN,Women,22.0,JPN,18.1,17.3,17.3,16.7,18.2,4.3,5.1,0,0,0,0,0.0,0.0,0.0,2019,2019-Canadian Selections 1,Final 1,74.43,1
+TODD Kassidy - CAN - Canada Cup 1 - 2019 - Final 1,TODD Kassidy - CAN,Women,,CAN,15.6,15.0,15.1,14.8,15.2,6.0,5.8,0,0,0,0,0.0,-22.0,0.0,2019,2019-Canada Cup 1,Final 1,56.3,8
+SCHWINGHAMMER Maia - CAN - Canadian Selections 1 - 2019 - Final 1,SCHWINGHAMMER Maia - CAN,Women,19.0,CAN,17.6,17.2,16.6,16.6,16.0,6.8,7.0,0,0,0,0,0.0,0.0,0.0,2019,2019-Canadian Selections 1,Final 1,73.65,2
+DELSAME Florence - CAN - Canadian Selections 1 - 2019 - Final 1,DELSAME Florence - CAN,Women,19.0,CAN,17.4,15.6,16.0,17.0,16.8,5.3,5.8,0,0,0,0,0.0,0.0,0.0,2019,2019-Canadian Selections 1,Final 1,66.06,4
+MIKKELSEN Maya - CAN - Canada Cup 1 - 2019 - Final 1,MIKKELSEN Maya - CAN,Women,,CAN,15.6,15.9,15.8,15.4,15.8,7.7,7.8,0,0,0,0,0.0,-22.0,0.0,2019,2019-Canada Cup 1,Final 1,72.51,2
+WALKER Leda - CAN - Canada Cup 2 - 2019 - Final 1,WALKER Leda - CAN,Women,,CAN,14.9,14.9,13.0,15.1,13.5,6.6,6.8,0,0,0,0,0.0,0.0,0.0,2019,2019-Canada Cup 2,Final 1,59.47,4
+KOEHLER Kaylee - CAN - Canada Cup 1 - 2019 - Final 1,KOEHLER Kaylee - CAN,Women,,CAN,16.4,16.0,16.2,15.5,16.0,7.0,7.2,0,0,0,0,0.0,-22.0,0.0,2019,2019-Canada Cup 1,Final 1,71.99,3
+GIBSON Olivia - CAN - Canada Cup 2 - 2019 - Final 1,GIBSON Olivia - CAN,Women,,CAN,14.4,14.2,14.3,11.9,13.0,5.2,5.7,0,0,0,0,0.0,0.0,0.0,2019,2019-Canada Cup 2,Final 1,42.33,8
+GIBSON Olivia - CAN - Canada Cup 1 - 2019 - Final 1,GIBSON Olivia - CAN,Women,,CAN,15.6,15.2,15.4,14.5,14.6,5.0,5.2,0,0,0,0,0.0,-22.0,0.0,2019,2019-Canada Cup 1,Final 1,46.1,9
+GODBOUT Rowanne - CAN - Canada Cup 1 - 2019 - Final 1,GODBOUT Rowanne - CAN,Women,,CAN,14.0,14.8,14.5,15.2,15.1,6.0,6.1,0,0,0,0,0.0,-22.0,0.0,2019,2019-Canada Cup 1,Final 1,57.97,7
+KOEHLER Kaylee - CAN - Canada Cup 2 - 2019 - Final 1,KOEHLER Kaylee - CAN,Women,,CAN,16.3,15.8,17.3,16.2,16.0,7.1,7.2,0,0,0,0,0.0,0.0,0.0,2019,2019-Canada Cup 2,Final 1,70.48,1
+PERNITSKY Lillian - CAN - Canada Cup 2 - 2019 - Final 1,PERNITSKY Lillian - CAN,Women,,CAN,14.5,14.3,14.9,14.1,15.6,6.4,6.3,0,0,0,0,0.0,0.0,0.0,2019,2019-Canada Cup 2,Final 1,57.18,6
+DESMARAIS GILBERT Laurianne - CAN - Canadian Selections 1 - 2019 - Final 1,DESMARAIS GILBERT Laurianne - CAN,Women,23.0,CAN,17.3,15.6,16.0,16.3,16.7,6.0,6.0,0,0,0,0,0.0,0.0,0.0,2019,2019-Canadian Selections 1,Final 1,60.82,9
+FORGET Emilie - CAN - Canada Cup 2 - 2018 - Final 1,FORGET Emilie - CAN,Women,,CAN,15.8,15.8,16.3,16.9,16.5,6.8,6.6,0,0,0,0,0.0,0.0,0.0,2018,2018-Canada Cup 2,Final 1,69.98,5
+ROBICHAUD Audrey - CAN - Canadian Championships - 2018 - Final 1,ROBICHAUD Audrey - CAN,Women,32.0,CAN,16.6,16.6,16.9,17.3,17.3,9.2,9.0,0,0,0,0,0.0,0.0,0.0,2018,2018-Canadian Championships,Final 1,80.32,1
+KOEHLER Ashley - CAN - Canada Cup 2 - 2018 - Final 1,KOEHLER Ashley - CAN,Women,,CAN,17.6,18.1,17.8,17.2,18.0,7.9,7.5,0,0,0,0,0.0,0.0,0.0,2018,2018-Canada Cup 2,Final 1,66.78,8
+SCHWINGHAMER Mackenzie - CAN - Canada Cup 2 - 2018 - Final 1,SCHWINGHAMER Mackenzie - CAN,Women,,CAN,18.6,18.5,18.2,18.6,17.6,7.8,7.9,0,0,0,0,0.0,0.0,0.0,2018,2018-Canada Cup 2,Final 1,81.09,1
+DESMARAIS GILBERT Laurianne - CAN - Canadian Championships - 2018 - Final 1,DESMARAIS GILBERT Laurianne - CAN,Women,23.0,CAN,16.1,15.7,15.6,16.0,15.9,8.5,7.7,0,0,0,0,0.0,0.0,0.0,2018,2018-Canadian Championships,Final 1,71.42,7
+CHICK Alexa - CAN - Canada Cup 3 - 2018 - Final 1,CHICK Alexa - CAN,Women,,CAN,14.9,14.5,15.4,14.1,15.2,6.6,6.3,0,0,0,0,0.0,-17.0,0.0,2018,2018-Canada Cup 3,Final 1,59.42,9
+MARKLE Searik - CAN - Canada Cup 3 - 2018 - Final 1,MARKLE Searik - CAN,Women,,CAN,18.0,17.4,16.6,17.0,16.9,7.7,7.6,0,0,0,0,0.0,-17.0,0.0,2018,2018-Canada Cup 3,Final 1,74.92,1
+TODD Kassidy - CAN - Canada Cup 3 - 2018 - Final 1,TODD Kassidy - CAN,Women,,CAN,15.0,15.8,15.5,15.8,16.2,7.3,7.6,0,0,0,0,0.0,-17.0,0.0,2018,2018-Canada Cup 3,Final 1,65.34,4
+SCHWINGHAMMER Maia - CAN - Canada Cup 3 - 2018 - Final 1,SCHWINGHAMMER Maia - CAN,Women,,CAN,16.3,16.9,16.1,16.5,16.8,7.7,7.2,0,0,0,0,0.0,-17.0,0.0,2018,2018-Canada Cup 3,Final 1,73.92,3
+VAILLANCOURT Sandrine - CAN - Canada Cup 3 - 2018 - Final 1,VAILLANCOURT Sandrine - CAN,Women,,CAN,15.2,16.1,15.5,16.0,15.4,7.4,7.6,0,0,0,0,0.0,-17.0,0.0,2018,2018-Canada Cup 3,Final 1,64.37,5
+LINTON Jessica - CAN - Canada Cup 3 - 2018 - Final 1,LINTON Jessica - CAN,Women,,CAN,14.3,14.7,15.7,14.4,14.5,6.3,6.2,0,0,0,0,0.0,-17.0,0.0,2018,2018-Canada Cup 3,Final 1,61.61,8
+GAGNON Sofiane - CAN - Canadian Championships - 2018 - Final 1,GAGNON Sofiane - CAN,Women,21.0,CAN,16.4,16.2,16.1,16.3,16.3,7.1,7.0,0,0,0,0,0.0,0.0,0.0,2018,2018-Canadian Championships,Final 1,72.45,6
+KOEHLER Kaylee - CAN - Canada Cup 2 - 2018 - Final 1,KOEHLER Kaylee - CAN,Women,,CAN,16.8,16.2,15.5,15.1,16.0,6.8,6.1,0,0,0,0,0.0,0.0,0.0,2018,2018-Canada Cup 2,Final 1,25.4,9
+MIKKELSEN Maya - CAN - Canada Cup 3 - 2018 - Final 1,MIKKELSEN Maya - CAN,Women,,CAN,14.9,15.9,15.9,15.8,15.9,5.0,5.2,0,0,0,0,0.0,-17.0,0.0,2018,2018-Canada Cup 3,Final 1,55.48,11
+MILLETTE Ode - CAN - Canada Cup 3 - 2018 - Final 1,MILLETTE Ode - CAN,Women,17.0,CAN,15.1,15.1,15.2,15.1,15.9,6.4,6.5,0,0,0,0,0.0,-17.0,0.0,2018,2018-Canada Cup 3,Final 1,61.64,7
+PARKER Madison - CAN - Canada Cup 3 - 2018 - Final 1,PARKER Madison - CAN,Women,,CAN,14.6,14.8,15.2,14.2,14.9,7.0,7.2,0,0,0,0,0.0,-17.0,0.0,2018,2018-Canada Cup 3,Final 1,59.11,10
+PARKER Madison - CAN - Canada Cup 2 - 2018 - Final 1,PARKER Madison - CAN,Women,,CAN,16.5,15.6,16.1,16.9,15.8,7.2,7.3,0,0,0,0,0.0,0.0,0.0,2018,2018-Canada Cup 2,Final 1,69.15,7
+DESAUTELS Mia - CAN - Canada Cup 2 - 2018 - Final 1,DESAUTELS Mia - CAN,Women,,CAN,15.8,16.3,16.0,16.0,16.8,7.7,7.6,0,0,0,0,0.0,0.0,0.0,2018,2018-Canada Cup 2,Final 1,69.58,6
+GILBERT Valerie - CAN - Canadian Championships - 2018 - Final 1,GILBERT Valerie - CAN,Women,22.0,CAN,16.4,16.4,16.5,16.8,16.4,8.3,8.7,0,0,0,0,0.0,0.0,0.0,2018,2018-Canadian Championships,Final 1,76.43,3
+VAILLANCOURT Sandrine - CAN - Canadian Championships - 2018 - Final 1,VAILLANCOURT Sandrine - CAN,Women,19.0,CAN,15.9,15.6,15.3,15.8,15.8,7.1,6.8,0,0,0,0,0.0,0.0,0.0,2018,2018-Canadian Championships,Final 1,67.81,9
+MARKLE Searik - CAN - Canadian Championships - 2018 - Final 1,MARKLE Searik - CAN,Women,23.0,CAN,16.0,15.8,15.5,15.9,15.0,7.2,6.3,0,0,0,0,0.0,0.0,0.0,2018,2018-Canadian Championships,Final 1,68.01,8
+VAILLANCOURT Sandrine - CAN - Canada Cup 2 - 2018 - Final 1,VAILLANCOURT Sandrine - CAN,Women,,CAN,16.8,16.0,17.6,18.2,17.0,7.4,7.1,0,0,0,0,0.0,0.0,0.0,2018,2018-Canada Cup 2,Final 1,73.25,4
+DELSAME Florence - CAN - Canada Cup 2 - 2018 - Final 1,DELSAME Florence - CAN,Women,,CAN,17.2,17.0,17.2,18.0,17.2,6.0,6.8,0,0,0,0,0.0,0.0,0.0,2018,2018-Canada Cup 2,Final 1,74.18,3
+GAGNON Alex Anne - CAN - Canadian Championships - 2018 - Final 1,GAGNON Alex Anne - CAN,Women,25.0,CAN,16.3,16.5,16.4,16.5,16.7,6.9,7.1,0,0,0,0,0.0,0.0,0.0,2018,2018-Canadian Championships,Final 1,75.0,4
+SCHWINGHAMMER Maia - CAN - Canadian Championships - 2018 - Final 1,SCHWINGHAMMER Maia - CAN,Women,19.0,CAN,15.9,16.2,16.2,16.2,16.6,6.5,7.0,0,0,0,0,0.0,0.0,0.0,2018,2018-Canadian Championships,Final 1,72.96,5
+SCHWINGHAMER Mackenzie - CAN - Canada Cup 3 - 2018 - Final 1,SCHWINGHAMER Mackenzie - CAN,Women,,CAN,16.6,17.1,16.5,16.6,17.2,7.9,8.0,0,0,0,0,0.0,-17.0,0.0,2018,2018-Canada Cup 3,Final 1,73.98,2
+DESMARAIS GILBERT Laurianne - CAN - Canada Cup 2 - 2018 - Final 1,DESMARAIS GILBERT Laurianne - CAN,Women,,CAN,17.4,18.1,16.8,18.0,17.6,7.8,7.5,0,0,0,0,0.0,0.0,0.0,2018,2018-Canada Cup 2,Final 1,74.33,2
+BROWN Berkley - CAN - Canadian Championships - 2018 - Final 1,BROWN Berkley - CAN,Women,20.0,CAN,16.5,16.0,15.8,17.5,16.5,9.1,8.2,0,0,0,0,0.0,0.0,0.0,2018,2018-Canadian Championships,Final 1,78.69,2
+KOBER Chloe - CAN - Canada Cup 3 - 2018 - Final 1,KOBER Chloe - CAN,Women,,CAN,15.0,15.6,15.3,15.0,15.3,6.6,6.3,0,0,0,0,0.0,-17.0,0.0,2018,2018-Canada Cup 3,Final 1,63.38,6
