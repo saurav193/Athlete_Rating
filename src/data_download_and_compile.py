@@ -17,6 +17,7 @@ for year in years:
     df=pd.read_csv(res.raw)
     final_df = pd.concat([df,final_df])
 
+print("data download complete!")
 #selecting required columns
 filtered_data = final_df.loc[:, ['Athlete/Comp','Metric', 'Score','Finish','Gender','Temp - Air','Judge 1 Score','Judge 2 Score',
                           'Judge 3 Score','Judge 4 Score','Judge 5 Score','Judge 6 Score - 1','Judge 7 Score - 1',
@@ -28,6 +29,9 @@ filtered_data['age_yrs'] = 2020 - final_df['yob']
 filtered_data['Athlete_name'] =  final_df['Athlete/Comp'].str.extract(r"(.*-....).-", expand=False)
 
 filtered_data = filtered_data.reset_index(drop = True)
+
+#Dealing with unwanted characters in column names
+filtered_data.columns = filtered_data.columns.str.replace("/","_").str.replace("\ -\ ","_").str.replace("\ ","_")
 
 #Updating old scores in same scale as new score metric for scores before 2014
 filtered_data['Metric'] = [round(filtered_data.loc[i,'Score']/30*100, 2) if filtered_data.loc[i, 'Metric'] != filtered_data.loc[i,'Score']\
@@ -94,19 +98,19 @@ print("data downloaded and stored locally.. uploading to dropbox")
 
 #uploading the processed files to Dropbox
 files = ['tier_1_comp_data_men.csv', 'tier_2_comp_data_men.csv', 'tier_3_comp_data_men.csv',
-         'tier_1_comp_data_women.csv', 'tier_2_comp_data_women.csv', 'tier_3_comp_data_women.csv']
+        'tier_1_comp_data_women.csv', 'tier_2_comp_data_women.csv', 'tier_3_comp_data_women.csv']
 
 local_path = "../data/"
 dest_path= "/Saurav/data/compiled_data/"
 
-for file in files:
-    filepath = local_path+file
+for filename in files:
+    filepath = local_path+filename
     
     with open(filepath, "rb") as f:
        # we want to overwite any previous version of the file
         try:
-            dbx.files_upload(f.read(), dest_path+file, mode=dropbox.files.WriteMode("overwrite"))
-            print(file+" uploaded")
+            dbx.files_upload(f.read(), dest_path+filename, mode=dropbox.files.WriteMode("overwrite"))
+            print(filename+" uploaded")
         except ApiError as err:
             # This checks for the specific error where a user doesn't have enough Dropbox space quota to upload this file
             if (err.error.is_path() and
