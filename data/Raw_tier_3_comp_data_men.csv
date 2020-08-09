@@ -1,0 +1,785 @@
+Athlete_Comp,Metric,Finish,Gender,Judge_1_Score,Judge_2_Score,Judge_3_Score,Judge_4_Score,Judge_5_Score,Judge_6_Score_1,Judge_7_Score_1,Round_Group,Season,Season_Comp,Round,Wind,Athlete_name
+MYSKO Alex - CAN - Canada Cup 1 - 2019 - Qualification 1,66.93,18,Men,15.4,15.8,15.8,15.5,15.5,7.8,8.0,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,MYSKO Alex - CAN
+DESAUTELS Mats - CAN - Canada Cup 1 - 2019 - Qualification 1,73.33,4,Men,15.8,15.9,15.4,16.1,15.0,8.0,8.2,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,DESAUTELS Mats - CAN
+RICE Lewis - CAN - Canadian Selections 1 - 2019 - Qualification 2,51.74,21,Men,12.9,12.9,14.7,15.2,14.8,5.4,5.6,Qualification,2019,2019-Canadian Selections 1,Qualification 2,0.0,RICE Lewis - CAN
+KOBER Jordan - CAN - Canadian Selections 1 - 2019 - Final 1,74.89,4,Men,17.7,17.7,18.6,17.8,17.4,5.6,5.4,Finals,2019,2019-Canadian Selections 1,Final 1,0.0,KOBER Jordan - CAN
+RICE Lewis - CAN - Canada Cup 1 - 2019 - Qualification 1,62.86,28,Men,15.2,15.9,15.8,14.9,16.4,8.0,7.8,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,RICE Lewis - CAN
+CORDELL Sam - CAN - Canadian Selections 1 - 2019 - Final 1,68.96,9,Men,17.8,16.9,16.4,17.2,16.6,5.1,4.2,Finals,2019,2019-Canadian Selections 1,Final 1,0.0,CORDELL Sam - CAN
+CHALIFOUX Louis David - CAN - Canadian Selections 1 - 2019 - Qualification 1,77.64,1,Men,18.8,18.4,18.0,17.7,18.2,7.3,7.0,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,CHALIFOUX Louis David - CAN
+PARSONS Jackson - CAN - Canadian Selections 1 - 2019 - Qualification 2,49.89,22,Men,14.1,14.0,13.6,14.6,15.5,5.7,6.0,Qualification,2019,2019-Canadian Selections 1,Qualification 2,0.0,PARSONS Jackson - CAN
+BELLUCCI Massimo - CAN - Canada Cup 2 - 2019 - Qualification 1,72.44,3,Men,18.0,17.1,17.4,17.2,17.4,7.9,7.8,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,BELLUCCI Massimo - CAN
+DUBUC Jeremy - CAN - Canada Cup 1 - 2019 - Qualification 1,69.02,12,Men,15.3,15.8,15.7,16.4,15.4,7.5,7.4,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,DUBUC Jeremy - CAN
+BURNYEAT Brian - CAN - Canada Cup 2 - 2019 - Qualification 1,20.68,32,Men,12.2,12.6,11.9,9.1,10.1,5.0,5.0,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,BURNYEAT Brian - CAN
+ALLARD Jesse - CAN - Canada Cup 1 - 2019 - Qualification 1,60.27,32,Men,14.6,15.1,14.9,13.0,13.8,6.0,5.8,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,ALLARD Jesse - CAN
+MATTHEWS Aidan - CAN - Canada Cup 1 - 2019 - Qualification 2,58.45,24,Men,15.0,13.8,15.0,15.2,13.7,7.8,7.8,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,MATTHEWS Aidan - CAN
+LEBLANC Gage - CAN - Canada Cup 2 - 2019 - Qualification 2,25.45,19,Men,10.2,10.4,9.4,9.6,9.6,4.0,3.9,Qualification,2019,2019-Canada Cup 2,Qualification 2,0.0,LEBLANC Gage - CAN
+GENEST Florent - CAN - Canada Cup 1 - 2019 - Qualification 2,46.28,35,Men,13.0,13.9,14.5,13.7,13.1,1.9,1.8,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,GENEST Florent - CAN
+DAWSON Quinn - CAN - Canada Cup 2 - 2019 - Qualification 1,64.39,7,Men,18.0,16.5,15.9,15.7,15.8,4.8,4.9,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,DAWSON Quinn - CAN
+GOODISON Samuel - CAN - Canada Cup 2 - 2019 - Final 1,68.91,3,Men,16.6,16.5,16.6,15.7,17.1,8.6,8.9,Finals,2019,2019-Canada Cup 2,Final 1,0.0,GOODISON Samuel - CAN
+BESSEL Ben - CAN - Canada Cup 1 - 2019 - Qualification 1,56.31,35,Men,14.3,13.1,15.2,13.6,14.2,7.5,7.4,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,BESSEL Ben - CAN
+MYSKO Alex - CAN - Canadian Selections 1 - 2019 - Qualification 2,61.76,10,Men,15.7,16.0,14.9,15.5,15.5,5.4,5.7,Qualification,2019,2019-Canadian Selections 1,Qualification 2,0.0,MYSKO Alex - CAN
+DESAUTELS Mats - CAN - Canada Cup 1 - 2019 - Final 1,74.95,5,Men,16.9,17.1,16.4,16.4,15.8,7.9,8.0,Finals,2019,2019-Canada Cup 1,Final 1,0.0,DESAUTELS Mats - CAN
+GANNON Daniel - CAN - Canada Cup 2 - 2019 - Qualification 2,49.47,3,Men,14.5,15.0,13.8,13.3,13.0,5.3,5.2,Qualification,2019,2019-Canada Cup 2,Qualification 2,0.0,GANNON Daniel - CAN
+RICE Lewis - CAN - Canadian Selections 1 - 2019 - Qualification 1,50.49,30,Men,14.3,14.8,14.9,14.3,15.4,3.2,3.0,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,RICE Lewis - CAN
+CHALIFOUX Louis David - CAN - Canadian Selections 1 - 2019 - Final 1,40.12,19,Men,18.3,17.4,17.1,15.9,18.8,7.6,7.4,Finals,2019,2019-Canadian Selections 1,Final 1,0.0,CHALIFOUX Louis David - CAN
+ISHIDA Shoya - JPN - Canadian Selections 1 - 2019 - Qualification 1,60.06,21,Men,14.6,16.0,15.4,15.3,13.0,6.4,6.2,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,ISHIDA Shoya - JPN
+MAGA Joshua - CAN - Canadian Selections 1 - 2019 - Qualification 2,40.07,25,Men,14.6,15.6,14.0,14.1,15.8,4.4,4.7,Qualification,2019,2019-Canadian Selections 1,Qualification 2,0.0,MAGA Joshua - CAN
+MYSKO Alex - CAN - Canadian Selections 1 - 2019 - Qualification 1,41.07,34,Men,14.7,14.2,13.7,14.0,14.8,5.4,6.0,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,MYSKO Alex - CAN
+TANNER Daniel - CAN - Canadian Selections 1 - 2019 - Qualification 1,74.81,6,Men,19.0,18.6,18.2,17.4,18.2,4.8,3.9,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,TANNER Daniel - CAN
+FRECHETTE Christian - CAN - Canada Cup 1 - 2019 - Final 1,30.01,20,Men,14.5,16.2,16.0,16.3,16.1,8.1,7.9,Finals,2019,2019-Canada Cup 1,Final 1,0.0,FRECHETTE Christian - CAN
+GAGNON Louis - CAN - Canada Cup 2 - 2019 - Final 1,65.45,7,Men,15.6,16.2,16.2,17.6,16.9,7.0,7.1,Finals,2019,2019-Canada Cup 2,Final 1,0.0,GAGNON Louis - CAN
+CORDELL Sam - CAN - Canada Cup 1 - 2019 - Qualification 1,70.19,10,Men,15.6,17.0,16.5,16.4,16.4,6.9,7.2,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,CORDELL Sam - CAN
+PHILLIPS Ethan - CAN - Canadian Selections 1 - 2019 - Qualification 2,43.22,24,Men,13.6,13.3,14.1,14.8,14.2,6.9,7.2,Qualification,2019,2019-Canadian Selections 1,Qualification 2,0.0,PHILLIPS Ethan - CAN
+PARADIS Louis - CAN - Canada Cup 1 - 2019 - Qualification 2,65.8,9,Men,15.4,15.7,15.6,14.4,14.4,7.0,6.9,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,PARADIS Louis - CAN
+BERTRAND Felix - CAN - Canadian Selections 1 - 2019 - Final 1,75.74,3,Men,18.0,18.1,18.1,17.7,17.8,6.3,6.2,Finals,2019,2019-Canadian Selections 1,Final 1,0.0,BERTRAND Felix - CAN
+BEAULIEU Charles - CAN - Canada Cup 1 - 2019 - Qualification 2,67.39,4,Men,14.6,15.0,14.1,15.4,15.2,8.0,7.8,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,BEAULIEU Charles - CAN
+ANDISON Robbie - CAN - Canadian Selections 1 - 2019 - Qualification 1,76.15,2,Men,18.6,18.0,17.9,17.6,17.4,6.0,6.0,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,ANDISON Robbie - CAN
+KANG Phillip - KOR - Canadian Selections 1 - 2019 - Qualification 1,59.95,23,Men,16.3,16.2,15.7,15.6,15.9,4.9,5.5,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,KANG Phillip - KOR
+PARSONS Jackson - CAN - Canadian Selections 1 - 2019 - Qualification 1,25.39,37,Men,12.6,13.4,14.2,14.9,15.8,5.6,5.8,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,PARSONS Jackson - CAN
+GILBERT Benoit - CAN - Canada Cup 1 - 2019 - Qualification 1,65.07,23,Men,14.3,14.6,15.1,16.1,16.3,7.9,7.9,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,GILBERT Benoit - CAN
+GAGNON Louis - CAN - Canada Cup 1 - 2019 - Qualification 1,67.58,14,Men,15.4,14.9,15.9,16.1,16.0,5.0,4.7,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,GAGNON Louis - CAN
+MATTHEWS Aidan - CAN - Canadian Selections 1 - 2019 - Qualification 2,53.06,18,Men,14.3,11.2,14.2,15.0,15.0,5.7,5.9,Qualification,2019,2019-Canadian Selections 1,Qualification 2,0.0,MATTHEWS Aidan - CAN
+NADEAU Jean Christophe - CAN - Canadian Selections 1 - 2019 - Qualification 1,7.12,40,Men,15.5,16.0,15.0,13.0,14.8,7.8,7.2,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,NADEAU Jean Christophe - CAN
+RICE Lewis - CAN - Canada Cup 2 - 2019 - Qualification 1,62.17,9,Men,15.2,15.5,16.2,15.1,15.3,6.8,6.8,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,RICE Lewis - CAN
+GAGNON Louis - CAN - Canada Cup 2 - 2019 - Qualification 2,61.81,2,Men,15.4,14.3,15.8,16.9,15.6,7.0,7.0,Qualification,2019,2019-Canada Cup 2,Qualification 2,0.0,GAGNON Louis - CAN
+GARBY Noah - CAN - Canada Cup 1 - 2019 - Qualification 2,8.5,44,Men,13.8,12.0,11.0,12.1,12.0,1.9,1.9,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,GARBY Noah - CAN
+CLOUTIER ASSELIN Felix - CAN - Canadian Selections 1 - 2019 - Qualification 1,33.66,35,Men,16.9,15.0,16.4,13.0,17.2,5.3,5.2,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,CLOUTIER ASSELIN Felix - CAN
+THIBAULT Olivier - CAN - Canada Cup 1 - 2019 - Final 1,71.9,8,Men,16.0,15.9,16.2,16.2,16.4,8.0,8.2,Finals,2019,2019-Canada Cup 1,Final 1,0.0,THIBAULT Olivier - CAN
+TAKAKU Keisuke - JPN - Canadian Selections 1 - 2019 - Qualification 1,58.83,25,Men,12.9,14.8,14.8,15.2,15.8,6.3,6.5,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,TAKAKU Keisuke - JPN
+GADBOIS Alexis - CAN - Canada Cup 1 - 2019 - Qualification 1,61.09,31,Men,16.0,14.9,14.7,14.9,14.8,6.8,7.0,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,GADBOIS Alexis - CAN
+GILBERT Benoit - CAN - Canada Cup 1 - 2019 - Qualification 2,66.81,5,Men,15.0,15.4,15.2,15.3,15.3,7.8,8.1,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,GILBERT Benoit - CAN
+NISHIZAWA Taketo - JPN - Canadian Selections 1 - 2019 - Final 1,64.25,15,Men,16.4,13.0,15.1,13.0,16.1,7.3,7.6,Finals,2019,2019-Canadian Selections 1,Final 1,0.0,NISHIZAWA Taketo - JPN
+VAN DER MERWE Dylan - CAN - Canada Cup 1 - 2019 - Final 1,35.01,19,Men,15.0,14.2,14.8,15.9,16.0,1.9,1.9,Finals,2019,2019-Canada Cup 1,Final 1,0.0,VAN DER MERWE Dylan - CAN
+GAUTHIER Julien - CAN - Canada Cup 2 - 2019 - Qualification 1,73.06,1,Men,17.0,17.4,16.2,16.6,16.7,8.3,8.2,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,GAUTHIER Julien - CAN
+GREANYA Aiden - CAN - Canada Cup 1 - 2019 - Qualification 2,55.85,31,Men,12.8,12.6,13.8,13.1,12.4,7.8,7.7,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,GREANYA Aiden - CAN
+VAN DER MERWE Dylan - CAN - Canadian Selections 1 - 2019 - Qualification 2,14.44,30,Men,12.9,14.0,14.7,14.3,12.2,1.0,1.0,Qualification,2019,2019-Canadian Selections 1,Qualification 2,0.0,VAN DER MERWE Dylan - CAN
+PERNISIE Wylie - CAN - Canada Cup 1 - 2019 - Qualification 1,52.57,39,Men,13.2,13.1,13.4,14.8,15.3,3.8,4.2,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,PERNISIE Wylie - CAN
+MAGA Joshua - CAN - Canada Cup 2 - 2019 - Final 1,68.69,4,Men,16.0,16.4,16.1,17.4,17.1,7.2,7.3,Finals,2019,2019-Canada Cup 2,Final 1,0.0,MAGA Joshua - CAN
+LATREILLE Kolten - CAN - Canada Cup 1 - 2019 - Qualification 2,16.1,43,Men,12.9,11.8,11.0,11.9,11.4,4.0,4.0,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,LATREILLE Kolten - CAN
+BEAULIEU Charles - CAN - Canadian Selections 1 - 2019 - Qualification 2,52.91,19,Men,13.7,15.0,13.9,14.0,15.1,5.5,5.9,Qualification,2019,2019-Canadian Selections 1,Qualification 2,0.0,BEAULIEU Charles - CAN
+BURNYEAT Thomas - CAN - Canada Cup 2 - 2019 - Qualification 1,11.71,38,Men,15.5,14.5,10.9,12.7,12.5,6.8,6.9,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,BURNYEAT Thomas - CAN
+UKRAINETZ Josh - CAN - Canada Cup 2 - 2019 - Qualification 1,50.53,16,Men,14.4,14.6,14.3,12.4,12.5,6.5,6.6,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,UKRAINETZ Josh - CAN
+GAGNON Thomas - CAN - Canada Cup 2 - 2019 - Qualification 1,34.2,26,Men,15.8,15.9,15.7,15.4,15.0,2.6,3.8,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,GAGNON Thomas - CAN
+MAGA Joshua - CAN - Canada Cup 2 - 2019 - Qualification 1,68.47,6,Men,16.4,16.5,16.0,15.8,16.0,7.6,7.9,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,MAGA Joshua - CAN
+CHARLAND Loic - CAN - Canada Cup 1 - 2019 - Qualification 2,58.07,27,Men,15.0,14.7,13.9,14.4,14.0,5.5,5.4,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,CHARLAND Loic - CAN
+THIVIERGE Charles Olivier - CAN - Canadian Selections 1 - 2019 - Final 1,66.69,11,Men,15.1,16.3,16.2,16.6,15.6,6.0,5.9,Finals,2019,2019-Canadian Selections 1,Final 1,0.0,THIVIERGE Charles Olivier - CAN
+MASON Shawn - CAN - Canada Cup 2 - 2019 - Qualification 1,17.55,34,Men,12.5,12.8,11.0,13.4,13.0,5.2,5.0,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,MASON Shawn - CAN
+DELISLE Simon - CAN - Canada Cup 1 - 2019 - Qualification 1,63.63,26,Men,14.7,14.2,14.4,15.1,14.9,7.5,7.8,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,DELISLE Simon - CAN
+DAWSON Quinn - CAN - Canada Cup 1 - 2019 - Qualification 1,71.5,8,Men,14.0,15.6,16.0,16.8,16.7,7.0,7.3,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,DAWSON Quinn - CAN
+THIVIERGE Charles  Olivier - CAN - Canada Cup 1 - 2019 - Qualification 1,73.46,3,Men,17.0,16.6,16.7,16.5,16.8,7.8,7.4,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,THIVIERGE Charles  Olivier - CAN
+DUBUC Jeremy - CAN - Canada Cup 1 - 2019 - Final 1,65.98,18,Men,15.0,16.1,15.9,15.7,15.8,7.0,7.3,Finals,2019,2019-Canada Cup 1,Final 1,0.0,DUBUC Jeremy - CAN
+HURRY Conner - CAN - Canada Cup 2 - 2019 - Qualification 1,39.76,20,Men,14.5,14.1,13.3,12.6,12.6,5.6,5.2,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,HURRY Conner - CAN
+GOODISON Samuel - CAN - Canada Cup 1 - 2019 - Qualification 2,68.08,1,Men,15.1,15.4,15.7,15.5,15.7,7.3,7.5,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,GOODISON Samuel - CAN
+KANG Phillip - CAN - Canada Cup 2 - 2019 - Final 1,61.61,9,Men,16.9,17.0,15.4,14.6,14.7,3.7,3.9,Finals,2019,2019-Canada Cup 2,Final 1,0.0,KANG Phillip - CAN
+GENEST Florent - CAN - Canada Cup 1 - 2019 - Qualification 1,53.53,37,Men,13.0,14.7,14.0,14.1,13.1,4.2,4.1,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,GENEST Florent - CAN
+HURRY Conner - CAN - Canada Cup 2 - 2019 - Qualification 2,35.19,13,Men,12.8,13.0,13.8,12.7,12.1,6.0,5.8,Qualification,2019,2019-Canada Cup 2,Qualification 2,0.0,HURRY Conner - CAN
+PHIPPS Koleton - CAN - Canadian Selections 1 - 2019 - Final 1,73.63,5,Men,17.8,17.5,16.9,17.4,18.0,5.6,5.4,Finals,2019,2019-Canadian Selections 1,Final 1,0.0,PHIPPS Koleton - CAN
+UKRAINETZ Josh - CAN - Canada Cup 2 - 2019 - Final 1,52.6,14,Men,14.4,14.8,14.6,13.1,14.1,6.4,6.6,Finals,2019,2019-Canada Cup 2,Final 1,0.0,UKRAINETZ Josh - CAN
+BOUCHARD Mathis - CAN - Canada Cup 1 - 2019 - Qualification 1,67.11,16,Men,14.8,15.2,14.6,15.0,15.3,7.9,8.1,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,BOUCHARD Mathis - CAN
+NISHIZAWA Taketo - JPN - Canadian Selections 1 - 2019 - Qualification 1,70.67,11,Men,14.9,16.4,17.7,16.1,14.1,7.2,6.8,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,NISHIZAWA Taketo - JPN
+TREMBLAY Alexis - CAN - Canada Cup 1 - 2019 - Qualification 2,52.41,32,Men,12.9,12.4,12.8,11.2,11.7,6.5,6.9,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,TREMBLAY Alexis - CAN
+GAGNON Louis - CAN - Canadian Selections 1 - 2019 - Qualification 1,55.98,26,Men,14.2,14.4,14.0,14.3,13.4,5.4,5.7,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,GAGNON Louis - CAN
+ROBERGE Felix - CAN - Canada Cup 1 - 2019 - Qualification 2,55.99,30,Men,14.1,14.4,14.4,13.5,13.2,5.8,5.7,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,ROBERGE Felix - CAN
+THIBAULT Olivier - CAN - Canadian Selections 1 - 2019 - Final 1,66.1,13,Men,14.9,14.8,16.7,16.4,16.6,5.7,5.4,Finals,2019,2019-Canadian Selections 1,Final 1,0.0,THIBAULT Olivier - CAN
+BELLUCCI Massimo - CAN - Canadian Selections 1 - 2019 - Qualification 1,60.0,22,Men,17.6,17.3,16.4,15.7,16.0,5.3,5.1,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,BELLUCCI Massimo - CAN
+GAUTHIER Julien - CAN - Canadian Selections 1 - 2019 - Qualification 1,66.63,16,Men,16.7,15.9,16.3,16.0,15.0,6.1,5.9,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,GAUTHIER Julien - CAN
+GAUTHIER Julien - CAN - Canadian Selections 1 - 2019 - Final 1,62.16,16,Men,15.7,14.9,15.9,16.8,17.0,5.3,6.2,Finals,2019,2019-Canadian Selections 1,Final 1,0.0,GAUTHIER Julien - CAN
+PARADIS Louis - CAN - Canada Cup 1 - 2019 - Qualification 1,45.87,43,Men,10.5,12.0,12.1,11.0,11.5,4.7,4.8,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,PARADIS Louis - CAN
+TANNER Marc - CAN - Canada Cup 2 - 2019 - Qualification 1,72.53,2,Men,17.5,16.9,17.3,16.0,16.5,7.3,7.1,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,TANNER Marc - CAN
+BELLUCCI Massimo - CAN - Canada Cup 1 - 2019 - Qualification 1,72.63,6,Men,17.2,15.9,16.4,16.4,16.6,8.1,8.2,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,BELLUCCI Massimo - CAN
+DUBUC Jeremy - CAN - Canada Cup 1 - 2019 - Qualification 2,66.48,6,Men,15.0,13.8,15.4,15.7,15.3,7.5,8.0,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,DUBUC Jeremy - CAN
+LATREILLE Kolten - CAN - Canada Cup 2 - 2019 - Qualification 2,10.51,25,Men,11.5,12.6,10.9,9.9,12.0,5.0,5.2,Qualification,2019,2019-Canada Cup 2,Qualification 2,0.0,LATREILLE Kolten - CAN
+CAREY Cole - CAN - Canada Cup 2 - 2019 - Qualification 1,50.75,15,Men,15.4,14.3,13.7,13.8,13.7,6.5,6.7,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,CAREY Cole - CAN
+MATTHEWS Aidan - CAN - Canada Cup 1 - 2019 - Qualification 1,59.38,34,Men,14.8,14.9,15.5,15.3,14.1,7.5,7.8,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,MATTHEWS Aidan - CAN
+ROY Jeremie - CAN - Canada Cup 1 - 2019 - Qualification 1,67.02,17,Men,14.8,14.9,15.0,15.1,14.2,7.8,7.2,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,ROY Jeremie - CAN
+KANG Phillip - KOR - Canadian Selections 1 - 2019 - Qualification 2,56.28,13,Men,15.6,16.2,15.5,15.0,15.8,5.3,5.0,Qualification,2019,2019-Canadian Selections 1,Qualification 2,0.0,KANG Phillip - KOR
+CHALIFOUX Louis David - CAN - Canada Cup 1 - 2019 - Qualification 1,80.21,1,Men,17.4,18.0,18.9,17.8,17.5,8.0,8.3,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,CHALIFOUX Louis David - CAN
+HENDERSON Alexander - CAN - Canadian Selections 1 - 2019 - Qualification 2,53.59,16,Men,12.3,14.2,14.0,14.1,14.4,5.4,5.8,Qualification,2019,2019-Canadian Selections 1,Qualification 2,0.0,HENDERSON Alexander - CAN
+MAGA Joshua - CAN - Canada Cup 1 - 2019 - Qualification 1,65.18,22,Men,15.2,14.9,16.1,15.1,15.9,8.3,7.7,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,MAGA Joshua - CAN
+SHIMAKAWA Takuya - JPN - Canadian Selections 1 - 2019 - Final 1,61.17,17,Men,18.4,16.2,17.2,16.0,18.2,7.1,7.3,Finals,2019,2019-Canadian Selections 1,Final 1,0.0,SHIMAKAWA Takuya - JPN
+GOODISON Samuel - CAN - Canadian Selections 1 - 2019 - Qualification 1,21.94,38,Men,14.0,14.6,13.6,14.9,13.8,5.5,5.3,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,GOODISON Samuel - CAN
+DESAUTELS Mats - CAN - Canadian Selections 1 - 2019 - Final 1,68.58,10,Men,15.9,16.1,16.5,16.0,16.0,6.9,6.8,Finals,2019,2019-Canadian Selections 1,Final 1,0.0,DESAUTELS Mats - CAN
+BRAUCHT Ethan - CAN - Canada Cup 2 - 2019 - Qualification 1,36.52,22,Men,11.0,10.6,8.5,11.6,11.5,5.2,5.2,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,BRAUCHT Ethan - CAN
+BELLUCCI Massimo - CAN - Canadian Selections 1 - 2019 - Final 1,69.35,8,Men,15.9,17.5,16.4,16.6,17.6,5.5,5.8,Finals,2019,2019-Canadian Selections 1,Final 1,0.0,BELLUCCI Massimo - CAN
+GAUTHIER Julien - CAN - Canada Cup 1 - 2019 - Qualification 2,66.02,8,Men,15.8,15.3,15.9,15.1,15.1,6.7,7.0,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,GAUTHIER Julien - CAN
+NADON Benjamin - CAN - Canada Cup 1 - 2019 - Qualification 2,67.57,3,Men,14.9,15.3,14.8,15.2,14.6,7.9,8.1,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,NADON Benjamin - CAN
+HONORE Pierre Henri - CAN - Canada Cup 1 - 2019 - Qualification 2,61.38,17,Men,15.5,14.8,15.1,13.6,14.3,6.4,6.7,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,HONORE Pierre Henri - CAN
+DUPRAY Adam - CAN - Canada Cup 2 - 2019 - Qualification 2,48.78,5,Men,14.5,14.4,14.0,11.4,11.5,7.2,7.2,Qualification,2019,2019-Canada Cup 2,Qualification 2,0.0,DUPRAY Adam - CAN
+MYSKO Alex - CAN - Canada Cup 1 - 2019 - Qualification 2,59.96,23,Men,14.6,14.6,14.8,15.4,15.2,8.0,8.1,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,MYSKO Alex - CAN
+KIMOTO Masahiro - JPN - Canadian Selections 1 - 2019 - Qualification 1,63.82,20,Men,15.8,15.8,15.3,14.9,15.0,3.6,3.4,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,KIMOTO Masahiro - JPN
+BOBYN George - CAN - Canada Cup 2 - 2019 - Final 1,58.25,12,Men,14.2,15.6,15.1,14.4,15.1,6.2,6.0,Finals,2019,2019-Canada Cup 2,Final 1,0.0,BOBYN George - CAN
+ROY Jeremie - CAN - Canada Cup 1 - 2019 - Final 1,69.39,14,Men,15.6,15.4,15.6,15.0,14.6,7.7,7.5,Finals,2019,2019-Canada Cup 1,Final 1,0.0,ROY Jeremie - CAN
+BEAULIEU Charles - CAN - Canadian Selections 1 - 2019 - Qualification 1,30.12,36,Men,14.7,14.5,14.3,14.0,12.8,6.2,6.4,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,BEAULIEU Charles - CAN
+BESSEL Ben - CAN - Canadian Selections 1 - 2019 - Qualification 1,46.52,32,Men,12.3,13.4,13.4,14.4,10.4,5.4,5.7,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,BESSEL Ben - CAN
+TREMBLAY Alexis - CAN - Canada Cup 1 - 2019 - Qualification 1,26.24,47,Men,13.0,13.9,13.9,12.8,11.0,4.1,4.0,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,TREMBLAY Alexis - CAN
+LEE Xander - CAN - Canada Cup 1 - 2019 - Qualification 1,6.47,51,Men,11.3,12.0,12.9,13.2,13.8,6.4,6.0,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,LEE Xander - CAN
+GADBOIS Alexis - CAN - Canada Cup 1 - 2019 - Qualification 2,62.83,15,Men,14.8,15.0,14.2,15.1,14.3,6.9,7.2,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,GADBOIS Alexis - CAN
+GOODISON Samuel - CAN - Canada Cup 2 - 2019 - Qualification 1,72.38,4,Men,18.2,16.9,16.7,17.0,17.2,8.5,8.6,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,GOODISON Samuel - CAN
+DAWSON Quinn - CAN - Canadian Selections 1 - 2019 - Final 1,72.14,6,Men,15.7,18.0,16.6,16.9,16.7,6.3,6.2,Finals,2019,2019-Canadian Selections 1,Final 1,0.0,DAWSON Quinn - CAN
+VAN DER MERWE Dylan - CAN - Canada Cup 2 - 2019 - Final 1,71.13,2,Men,16.9,16.8,16.5,17.0,17.0,7.0,7.0,Finals,2019,2019-Canada Cup 2,Final 1,0.0,VAN DER MERWE Dylan - CAN
+CAMIRE Vincent - CAN - Canada Cup 1 - 2019 - Qualification 2,64.86,12,Men,15.1,14.3,15.2,15.2,15.0,7.8,7.7,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,CAMIRE Vincent - CAN
+VIEL Julien - CAN - Canadian Selections 1 - 2019 - Final 1,71.74,7,Men,17.9,17.2,17.1,17.0,17.8,6.1,6.7,Finals,2019,2019-Canadian Selections 1,Final 1,0.0,VIEL Julien - CAN
+GAGNON Thomas - CAN - Canadian Selections 1 - 2019 - Qualification 1,54.85,27,Men,12.1,13.2,13.7,14.5,14.5,5.0,4.4,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,GAGNON Thomas - CAN
+PHIPPS Koleton - CAN - Canadian Selections 1 - 2019 - Qualification 1,73.8,8,Men,17.4,17.7,17.5,16.6,16.8,7.0,7.4,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,PHIPPS Koleton - CAN
+PARSONS Jackson - CAN - Canada Cup 2 - 2019 - Final 1,59.15,11,Men,14.3,14.4,15.6,14.5,14.7,7.5,7.9,Finals,2019,2019-Canada Cup 2,Final 1,0.0,PARSONS Jackson - CAN
+GAUTHIER Julien - CAN - Canadian Selections 1 - 2019 - Qualification 2,61.92,8,Men,15.1,14.4,15.8,15.7,16.0,5.6,5.8,Qualification,2019,2019-Canadian Selections 1,Qualification 2,0.0,GAUTHIER Julien - CAN
+GAGNON Thomas - CAN - Canada Cup 1 - 2019 - Qualification 1,62.65,29,Men,15.3,15.8,14.8,14.8,14.7,4.0,4.3,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,GAGNON Thomas - CAN
+ISHIDA Shoya - JPN - Canadian Selections 1 - 2019 - Qualification 2,53.33,17,Men,14.2,15.2,14.8,15.0,14.1,7.0,6.6,Qualification,2019,2019-Canadian Selections 1,Qualification 2,0.0,ISHIDA Shoya - JPN
+NIXON Andrew - CAN - Canada Cup 2 - 2019 - Qualification 1,32.59,27,Men,12.7,13.7,13.6,11.4,11.0,3.6,3.8,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,NIXON Andrew - CAN
+BEAULIEU Charles - CAN - Canada Cup 1 - 2019 - Final 1,71.1,10,Men,16.2,16.2,16.1,16.3,16.2,8.0,8.1,Finals,2019,2019-Canada Cup 1,Final 1,0.0,BEAULIEU Charles - CAN
+TAKAGISHI Gaku - JPN - Canadian Selections 1 - 2019 - Qualification 2,22.38,28,Men,15.0,15.5,16.0,13.0,16.1,5.6,5.7,Qualification,2019,2019-Canadian Selections 1,Qualification 2,0.0,TAKAGISHI Gaku - JPN
+WENZLAWE Kale - CAN - Canada Cup 2 - 2019 - Qualification 2,30.82,15,Men,11.3,12.9,12.0,10.2,10.5,4.6,4.9,Qualification,2019,2019-Canada Cup 2,Qualification 2,0.0,WENZLAWE Kale - CAN
+GARDINER Reno - CAN - Canada Cup 2 - 2019 - Qualification 2,4.46,29,Men,10.5,11.1,8.9,8.4,9.9,1.6,1.8,Qualification,2019,2019-Canada Cup 2,Qualification 2,0.0,GARDINER Reno - CAN
+MAGA Joshua - CAN - Canada Cup 1 - 2019 - Qualification 2,64.75,13,Men,15.1,15.7,15.3,15.3,15.1,8.0,8.0,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,MAGA Joshua - CAN
+MAGA Joshua - CAN - Canadian Selections 1 - 2019 - Qualification 1,59.27,24,Men,14.9,15.8,13.9,16.0,14.2,5.6,5.9,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,MAGA Joshua - CAN
+GAGNON Thomas - CAN - Canada Cup 1 - 2019 - Qualification 2,65.46,10,Men,14.6,15.1,14.9,14.6,14.7,7.7,8.2,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,GAGNON Thomas - CAN
+THIBAULT Olivier - CAN - Canada Cup 1 - 2019 - Qualification 1,71.25,9,Men,15.6,15.7,16.1,15.9,15.4,7.8,7.9,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,THIBAULT Olivier - CAN
+GAGNON Louis - CAN - Canada Cup 1 - 2019 - Final 1,71.25,9,Men,15.9,16.4,16.6,16.4,16.2,7.5,7.3,Finals,2019,2019-Canada Cup 1,Final 1,0.0,GAGNON Louis - CAN
+NADON Benjamin - CAN - Canada Cup 1 - 2019 - Qualification 1,66.9,19,Men,15.3,14.9,16.1,15.1,14.2,8.2,8.0,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,NADON Benjamin - CAN
+RETZER Mathew - CZE - Canadian Selections 1 - 2019 - Final 1,64.85,14,Men,17.3,15.3,15.7,16.2,16.8,5.7,5.7,Finals,2019,2019-Canadian Selections 1,Final 1,0.0,RETZER Mathew - CZE
+SHIMAKAWA Takuya - JPN - Canadian Selections 1 - 2019 - Qualification 1,74.13,7,Men,18.6,17.8,18.0,16.9,18.0,6.3,5.6,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,SHIMAKAWA Takuya - JPN
+CAMIRE Vincent - CAN - Canada Cup 1 - 2019 - Qualification 1,66.13,20,Men,15.0,15.4,15.4,16.3,15.8,7.9,7.6,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,CAMIRE Vincent - CAN
+VAN DER MERWE Dylan - CAN - Canada Cup 1 - 2019 - Qualification 2,67.68,2,Men,16.4,15.8,15.3,15.9,15.2,7.5,8.1,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,VAN DER MERWE Dylan - CAN
+HONORE Pierre Henri - CAN - Canadian Selections 1 - 2019 - Qualification 2,11.49,31,Men,13.0,12.8,13.4,12.0,12.8,3.2,3.8,Qualification,2019,2019-Canadian Selections 1,Qualification 2,0.0,HONORE Pierre Henri - CAN
+HONORE Pierre Henri - CAN - Canada Cup 1 - 2019 - Qualification 1,62.08,30,Men,15.1,14.2,15.9,14.6,15.1,5.9,5.9,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,HONORE Pierre Henri - CAN
+TANNER Marc - CAN - Canadian Selections 1 - 2019 - Qualification 2,65.64,5,Men,15.8,13.8,16.4,16.7,15.8,6.2,6.0,Qualification,2019,2019-Canadian Selections 1,Qualification 2,0.0,TANNER Marc - CAN
+BESSEL Ben - CAN - Canadian Selections 1 - 2019 - Qualification 2,20.12,29,Men,12.9,10.9,12.1,13.5,10.2,4.8,5.0,Qualification,2019,2019-Canadian Selections 1,Qualification 2,0.0,BESSEL Ben - CAN
+THUNDER Jericho - CAN - Canada Cup 2 - 2019 - Qualification 1,40.88,19,Men,13.5,13.6,12.2,10.3,11.5,4.2,4.2,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,THUNDER Jericho - CAN
+DELISLE Simon - CAN - Canada Cup 1 - 2019 - Qualification 2,60.11,22,Men,14.9,13.4,14.3,14.4,14.2,6.4,6.0,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,DELISLE Simon - CAN
+CHALIFOUX Louis David - CAN - Canada Cup 1 - 2019 - Final 1,81.05,1,Men,18.0,18.4,18.4,18.2,18.0,8.0,8.2,Finals,2019,2019-Canada Cup 1,Final 1,0.0,CHALIFOUX Louis David - CAN
+DIONNE Justin - CAN - Canada Cup 1 - 2019 - Qualification 1,55.89,36,Men,14.2,14.9,14.3,15.0,14.3,4.9,5.3,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,DIONNE Justin - CAN
+DUPRAY Adam - CAN - Canada Cup 2 - 2019 - Qualification 1,22.93,30,Men,13.6,13.6,12.6,12.4,12.5,6.6,6.5,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,DUPRAY Adam - CAN
+TANNER Marc - CAN - Canadian Selections 1 - 2019 - Final 1,28.07,20,Men,16.1,16.2,15.1,16.0,16.8,5.2,5.6,Finals,2019,2019-Canadian Selections 1,Final 1,0.0,TANNER Marc - CAN
+VIEL Julien - CAN - Canada Cup 1 - 2019 - Qualification 1,74.52,2,Men,16.4,17.5,16.8,16.8,17.3,7.9,8.3,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,VIEL Julien - CAN
+MYSKO Alex - CAN - Canada Cup 2 - 2019 - Qualification 2,48.85,4,Men,15.0,14.0,14.5,13.8,13.9,6.6,6.7,Qualification,2019,2019-Canada Cup 2,Qualification 2,0.0,MYSKO Alex - CAN
+BESSEL Ben - CAN - Canada Cup 1 - 2019 - Qualification 2,23.63,42,Men,15.0,13.8,15.0,13.7,13.4,6.0,5.9,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,BESSEL Ben - CAN
+KOBER Jordan - CAN - Canadian Selections 1 - 2019 - Qualification 2,71.91,1,Men,17.1,16.8,17.8,17.3,16.5,5.3,5.0,Qualification,2019,2019-Canadian Selections 1,Qualification 2,0.0,KOBER Jordan - CAN
+GAGNON Louis - CAN - Canada Cup 1 - 2019 - Qualification 2,41.95,37,Men,15.0,14.7,14.6,15.5,15.2,3.0,2.8,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,GAGNON Louis - CAN
+BERTRAND Felix - CAN - Canadian Selections 1 - 2019 - Qualification 1,74.88,5,Men,17.8,17.2,18.0,17.0,16.2,7.6,6.8,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,BERTRAND Felix - CAN
+PARSONS Jackson - CAN - Canada Cup 1 - 2019 - Qualification 2,58.44,25,Men,14.9,14.4,15.4,15.0,14.2,7.0,6.8,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,PARSONS Jackson - CAN
+CLOUTIER ASSELIN Felix - CAN - Canada Cup 1 - 2019 - Final 1,75.83,3,Men,16.8,16.6,16.6,16.5,16.8,7.8,8.1,Finals,2019,2019-Canada Cup 1,Final 1,0.0,CLOUTIER ASSELIN Felix - CAN
+BELLUCCI Massimo - CAN - Canadian Selections 1 - 2019 - Qualification 2,69.0,3,Men,16.3,17.2,16.8,16.4,16.0,5.4,5.8,Qualification,2019,2019-Canadian Selections 1,Qualification 2,0.0,BELLUCCI Massimo - CAN
+GAGNON Thomas - CAN - Canadian Selections 1 - 2019 - Qualification 2,57.8,12,Men,12.7,11.8,14.2,15.7,11.8,6.6,7.0,Qualification,2019,2019-Canadian Selections 1,Qualification 2,0.0,GAGNON Thomas - CAN
+THIVIERGE Charles  Olivier - CAN - Canada Cup 2 - 2019 - Final 1,68.41,5,Men,16.6,16.6,16.4,16.2,16.0,5.3,5.2,Finals,2019,2019-Canada Cup 2,Final 1,0.0,THIVIERGE Charles  Olivier - CAN
+KANG Phillip - CAN - Canada Cup 2 - 2019 - Qualification 1,63.32,8,Men,16.4,16.1,14.9,15.9,15.3,3.1,3.9,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,KANG Phillip - CAN
+DESAUTELS Mats - CAN - Canadian Selections 1 - 2019 - Qualification 1,64.33,19,Men,16.1,14.0,14.0,15.9,16.8,5.4,5.6,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,DESAUTELS Mats - CAN
+KURODA Brayden - CAN - Canadian Selections 1 - 2019 - Final 1,66.58,12,Men,17.2,16.4,15.9,16.6,17.4,7.1,7.0,Finals,2019,2019-Canadian Selections 1,Final 1,0.0,KURODA Brayden - CAN
+CARRIER Malcom - CAN - Canada Cup 1 - 2019 - Qualification 1,49.06,41,Men,13.5,14.1,14.5,14.4,14.0,5.0,4.4,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,CARRIER Malcom - CAN
+MATTHEWS Aidan - CAN - Canadian Selections 1 - 2019 - Qualification 1,14.09,39,Men,12.7,9.0,12.3,13.1,12.0,5.2,5.1,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,MATTHEWS Aidan - CAN
+PARSONS Jackson - CAN - Canada Cup 2 - 2019 - Qualification 1,59.23,11,Men,15.5,15.5,15.5,16.9,16.5,6.7,6.9,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,PARSONS Jackson - CAN
+GAUTHIER Julien - CAN - Canada Cup 2 - 2019 - Final 1,61.86,8,Men,16.4,16.8,15.4,14.4,14.5,7.0,7.1,Finals,2019,2019-Canada Cup 2,Final 1,0.0,GAUTHIER Julien - CAN
+GARDINER Reno - CAN - Canada Cup 2 - 2019 - Qualification 1,21.39,31,Men,9.5,10.2,11.6,9.8,9.9,4.6,4.6,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,GARDINER Reno - CAN
+STRYDHORST Zachery - CAN - Canada Cup 2 - 2019 - Qualification 2,9.49,26,Men,9.5,11.0,10.9,8.8,10.0,1.4,1.6,Qualification,2019,2019-Canada Cup 2,Qualification 2,0.0,STRYDHORST Zachery - CAN
+GAGNON Louis - CAN - Canada Cup 2 - 2019 - Qualification 1,54.8,13,Men,14.0,13.6,15.5,15.5,15.0,4.6,4.8,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,GAGNON Louis - CAN
+GOODISON Samuel - CAN - Canadian Selections 1 - 2019 - Qualification 2,52.85,20,Men,13.6,13.6,13.9,15.3,14.4,4.2,4.3,Qualification,2019,2019-Canadian Selections 1,Qualification 2,0.0,GOODISON Samuel - CAN
+TANNER Marc - CAN - Canadian Selections 1 - 2019 - Qualification 1,70.43,12,Men,17.1,16.3,17.6,17.7,17.2,5.4,5.7,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,TANNER Marc - CAN
+BURNYEAT Brian - CAN - Canada Cup 2 - 2019 - Qualification 2,27.66,17,Men,12.4,12.5,10.9,8.9,9.9,4.7,4.9,Qualification,2019,2019-Canada Cup 2,Qualification 2,0.0,BURNYEAT Brian - CAN
+MILLER CLARKE Reece - CAN - Canadian Selections 1 - 2019 - Qualification 1,47.99,31,Men,13.6,14.0,14.0,12.0,16.0,6.6,6.7,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,MILLER CLARKE Reece - CAN
+THIVIERGE Charles Olivier - CAN - Canadian Selections 1 - 2019 - Qualification 1,65.33,18,Men,15.0,17.2,14.9,16.2,12.0,6.9,7.0,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,THIVIERGE Charles Olivier - CAN
+BOUCHARD Mathis - CAN - Canada Cup 1 - 2019 - Qualification 2,62.91,14,Men,13.3,14.3,14.4,14.9,15.1,7.5,7.6,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,BOUCHARD Mathis - CAN
+PATTON Cole - CAN - Canada Cup 2 - 2019 - Qualification 2,44.93,7,Men,13.2,13.6,13.2,13.7,12.0,6.7,6.9,Qualification,2019,2019-Canada Cup 2,Qualification 2,0.0,PATTON Cole - CAN
+VAILLANCOURT Elliot - CAN - Canadian Selections 1 - 2019 - Qualification 1,75.71,4,Men,18.3,18.2,18.2,18.3,17.2,5.7,5.8,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,VAILLANCOURT Elliot - CAN
+CHRISTIAN Tyler - CAN - Canada Cup 2 - 2019 - Qualification 2,25.07,20,Men,10.0,11.0,14.6,12.5,11.4,6.2,6.4,Qualification,2019,2019-Canada Cup 2,Qualification 2,0.0,CHRISTIAN Tyler - CAN
+MASON Shawn - CAN - Canada Cup 2 - 2019 - Qualification 2,35.78,12,Men,12.6,11.4,10.9,11.6,11.6,3.8,3.7,Qualification,2019,2019-Canada Cup 2,Qualification 2,0.0,MASON Shawn - CAN
+PARSONS Jackson - CAN - Canada Cup 2 - 2019 - Qualification 2,18.66,23,Men,13.5,14.0,13.7,12.2,13.0,5.0,5.2,Qualification,2019,2019-Canada Cup 2,Qualification 2,0.0,PARSONS Jackson - CAN
+PARSONS Nathan - CAN - Canada Cup 2 - 2019 - Qualification 2,41.6,9,Men,15.3,15.3,13.6,11.7,11.7,5.0,5.0,Qualification,2019,2019-Canada Cup 2,Qualification 2,0.0,PARSONS Nathan - CAN
+PERNISIE Wylie - CAN - Canada Cup 1 - 2019 - Qualification 2,31.43,39,Men,12.5,13.4,13.0,14.3,13.1,7.9,7.6,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,PERNISIE Wylie - CAN
+THIBAULT Olivier - CAN - Canadian Selections 1 - 2019 - Qualification 2,66.34,4,Men,15.3,16.2,14.9,15.8,15.2,6.7,7.2,Qualification,2019,2019-Canadian Selections 1,Qualification 2,0.0,THIBAULT Olivier - CAN
+BOBYN George - CAN - Canada Cup 2 - 2019 - Qualification 2,40.19,11,Men,13.2,13.2,13.3,12.4,12.4,5.3,5.1,Qualification,2019,2019-Canada Cup 2,Qualification 2,0.0,BOBYN George - CAN
+BOUCHER Frederic - CAN - Canada Cup 1 - 2019 - Qualification 2,65.43,11,Men,14.6,15.7,14.8,15.1,14.4,7.5,7.1,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,BOUCHER Frederic - CAN
+UKRAINETZ Josh - CAN - Canada Cup 2 - 2019 - Qualification 2,20.91,22,Men,14.0,13.6,12.0,13.2,12.0,6.6,6.7,Qualification,2019,2019-Canada Cup 2,Qualification 2,0.0,UKRAINETZ Josh - CAN
+THIVIERGE Frederic - CAN - Canada Cup 1 - 2019 - Qualification 1,53.18,38,Men,14.7,13.8,14.2,13.8,13.6,5.9,5.6,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,THIVIERGE Frederic - CAN
+TANNER Marc - CAN - Canada Cup 1 - 2019 - Qualification 2,60.52,21,Men,15.5,14.8,15.2,15.4,14.3,4.0,4.0,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,TANNER Marc - CAN
+WENZLAWE Kale - CAN - Canada Cup 2 - 2019 - Qualification 1,38.36,21,Men,13.0,11.8,10.6,11.6,11.4,4.9,5.6,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,WENZLAWE Kale - CAN
+GOODISON Samuel - CAN - Canada Cup 1 - 2019 - Final 1,70.42,12,Men,16.0,16.5,16.2,16.3,15.9,7.8,8.1,Finals,2019,2019-Canada Cup 1,Final 1,0.0,GOODISON Samuel - CAN
+MILLER CLARKE Reece - CAN - Canada Cup 1 - 2019 - Qualification 1,63.69,25,Men,15.6,15.6,15.7,16.1,16.6,7.8,8.1,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,MILLER CLARKE Reece - CAN
+PATTON Cole - CAN - Canada Cup 2 - 2019 - Qualification 1,11.94,37,Men,14.0,13.9,14.2,11.5,11.6,1.4,1.4,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,PATTON Cole - CAN
+ROY Jeremie - CAN - Canada Cup 1 - 2019 - Qualification 2,66.03,7,Men,15.6,15.0,15.1,15.0,14.9,7.0,7.2,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,ROY Jeremie - CAN
+LEE Xander - CAN - Canada Cup 2 - 2019 - Qualification 1,55.1,12,Men,15.3,15.4,15.2,14.0,13.9,6.9,6.8,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,LEE Xander - CAN
+FRECHETTE Christian - CAN - Canada Cup 1 - 2019 - Qualification 1,72.28,7,Men,15.8,17.2,16.1,16.8,17.0,6.8,7.3,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,FRECHETTE Christian - CAN
+RETZER Mathew - CZE - Canadian Selections 1 - 2019 - Qualification 1,68.28,14,Men,15.9,17.4,17.4,15.6,17.0,6.7,6.8,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,RETZER Mathew - CZE
+GARBY Noah - CAN - Canada Cup 1 - 2019 - Qualification 1,20.94,48,Men,11.8,13.0,11.7,12.4,12.2,4.0,4.8,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,GARBY Noah - CAN
+SADLER Jack - CAN - Canada Cup 2 - 2019 - Qualification 1,15.01,36,Men,13.3,13.7,16.0,12.5,12.5,1.4,1.4,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,SADLER Jack - CAN
+DUBUC Joey - CAN - Canada Cup 1 - 2019 - Qualification 1,65.94,21,Men,14.0,15.6,15.1,16.2,15.8,7.8,7.8,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,DUBUC Joey - CAN
+CHRISTIAN Tyler - CAN - Canada Cup 2 - 2019 - Qualification 1,7.91,39,Men,12.6,11.9,12.2,12.2,12.0,7.0,7.0,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,CHRISTIAN Tyler - CAN
+BEAULIEU Charles - CAN - Canada Cup 2 - 2019 - Qualification 2,32.29,14,Men,15.7,12.0,15.5,15.4,15.5,8.2,8.4,Qualification,2019,2019-Canada Cup 2,Qualification 2,0.0,BEAULIEU Charles - CAN
+BEAULIEU Charles - CAN - Canada Cup 2 - 2019 - Qualification 1,31.54,28,Men,14.4,14.2,14.6,15.8,15.0,8.1,8.2,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,BEAULIEU Charles - CAN
+LATREILLE Kolten - CAN - Canada Cup 1 - 2019 - Qualification 1,17.67,49,Men,11.5,11.3,11.4,13.0,12.5,5.4,5.2,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,LATREILLE Kolten - CAN
+VIEL Julien - CAN - Canadian Selections 1 - 2019 - Qualification 1,71.11,10,Men,14.9,13.8,16.0,16.3,16.4,7.9,7.8,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,VIEL Julien - CAN
+PERNISIE Wylie - CAN - Canada Cup 2 - 2019 - Qualification 1,15.95,35,Men,13.0,12.0,12.0,13.1,12.5,7.0,7.1,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,PERNISIE Wylie - CAN
+THUNDER Jericho - CAN - Canada Cup 2 - 2019 - Qualification 2,5.47,28,Men,9.0,11.8,10.6,9.0,10.0,5.0,5.1,Qualification,2019,2019-Canada Cup 2,Qualification 2,0.0,THUNDER Jericho - CAN
+BEAULIEU Charles - CAN - Canada Cup 1 - 2019 - Qualification 1,63.22,27,Men,14.9,14.8,14.0,15.6,15.2,7.9,8.0,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,BEAULIEU Charles - CAN
+LEBLANC Gage - CAN - Canada Cup 2 - 2019 - Qualification 1,36.32,23,Men,11.2,11.0,10.7,11.2,11.3,5.2,5.1,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,LEBLANC Gage - CAN
+MILLER CLARKE Reece - CAN - Canadian Selections 1 - 2019 - Qualification 2,61.77,9,Men,13.9,14.4,14.2,16.1,15.2,5.9,5.2,Qualification,2019,2019-Canadian Selections 1,Qualification 2,0.0,MILLER CLARKE Reece - CAN
+COTE Pierre Olivier - CAN - Canada Cup 1 - 2019 - Qualification 2,61.33,18,Men,14.3,14.4,14.8,14.7,15.1,8.0,7.8,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,COTE Pierre Olivier - CAN
+DROUIN Xavier - CAN - Canada Cup 1 - 2019 - Qualification 1,69.68,11,Men,14.5,15.9,15.7,16.2,15.8,8.1,8.2,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,DROUIN Xavier - CAN
+MILLER CLARKE Reece - CAN - Canada Cup 1 - 2019 - Qualification 2,60.87,19,Men,13.8,14.0,14.2,15.8,14.9,7.8,8.1,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,MILLER CLARKE Reece - CAN
+NADEAU Jean Christophe - CAN - Canadian Selections 1 - 2019 - Qualification 2,24.15,27,Men,16.0,16.0,16.1,12.0,14.8,6.8,6.4,Qualification,2019,2019-Canadian Selections 1,Qualification 2,0.0,NADEAU Jean Christophe - CAN
+VAN DER MERWE Dylan - CAN - Canada Cup 2 - 2019 - Qualification 2,29.58,16,Men,13.5,14.3,13.9,10.4,13.0,6.0,5.7,Qualification,2019,2019-Canada Cup 2,Qualification 2,0.0,VAN DER MERWE Dylan - CAN
+GAGNON Thomas - CAN - Canada Cup 2 - 2019 - Final 1,66.45,6,Men,15.6,16.1,15.7,15.9,15.5,6.6,6.7,Finals,2019,2019-Canada Cup 2,Final 1,0.0,GAGNON Thomas - CAN
+HENDERSON Alexander - CAN - Canadian Selections 1 - 2019 - Qualification 1,54.48,28,Men,15.3,15.9,14.4,14.6,13.4,4.6,5.6,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,HENDERSON Alexander - CAN
+DUBUC Joey - CAN - Canada Cup 1 - 2019 - Qualification 2,56.74,28,Men,13.0,12.6,13.4,15.6,14.4,8.1,8.2,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,DUBUC Joey - CAN
+GAGNON Thomas - CAN - Canada Cup 2 - 2019 - Qualification 2,61.93,1,Men,14.5,13.7,16.1,15.7,15.4,5.6,5.8,Qualification,2019,2019-Canada Cup 2,Qualification 2,0.0,GAGNON Thomas - CAN
+CLOWATER Dylan - CAN - Canada Cup 1 - 2019 - Qualification 1,41.66,44,Men,12.0,13.2,13.3,13.5,13.4,4.9,4.3,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,CLOWATER Dylan - CAN
+WALKLEY Trent - CAN - Canada Cup 2 - 2019 - Qualification 2,26.43,18,Men,10.0,11.5,9.3,9.7,9.7,5.2,4.9,Qualification,2019,2019-Canada Cup 2,Qualification 2,0.0,WALKLEY Trent - CAN
+ST ONGE Cedric - CAN - Canada Cup 1 - 2019 - Qualification 1,64.73,24,Men,16.0,15.9,14.6,15.8,15.8,6.0,5.8,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,ST ONGE Cedric - CAN
+ALLARD Jesse - CAN - Canada Cup 1 - 2019 - Qualification 2,50.95,34,Men,13.9,14.0,13.9,14.2,13.1,5.9,6.1,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,ALLARD Jesse - CAN
+CAREY Cole - CAN - Canada Cup 2 - 2019 - Final 1,51.77,15,Men,15.0,14.9,14.4,12.7,14.6,6.2,6.1,Finals,2019,2019-Canada Cup 2,Final 1,0.0,CAREY Cole - CAN
+TANNER Marc - CAN - Canada Cup 1 - 2019 - Qualification 1,6.95,50,Men,14.6,12.0,12.3,15.3,14.7,1.5,2.1,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,TANNER Marc - CAN
+PERNISIE Wylie - CAN - Canada Cup 2 - 2019 - Qualification 2,41.16,10,Men,12.5,13.3,14.0,12.6,12.6,5.3,5.4,Qualification,2019,2019-Canada Cup 2,Qualification 2,0.0,PERNISIE Wylie - CAN
+PARSONS Nathan - CAN - Canada Cup 2 - 2019 - Qualification 1,19.25,33,Men,14.5,14.2,13.4,11.1,12.0,1.7,1.8,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,PARSONS Nathan - CAN
+CHARLAND Loic - CAN - Canada Cup 1 - 2019 - Qualification 1,47.58,42,Men,14.0,13.6,13.9,14.7,14.0,4.0,4.1,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,CHARLAND Loic - CAN
+RETZER Mathew - CZE - Canadian Selections 1 - 2019 - Qualification 2,63.44,7,Men,14.6,13.4,16.2,15.5,16.1,6.5,5.8,Qualification,2019,2019-Canadian Selections 1,Qualification 2,0.0,RETZER Mathew - CZE
+COTE Pierre Olivier - CAN - Canada Cup 1 - 2019 - Qualification 1,59.46,33,Men,14.8,14.1,15.1,14.9,15.2,7.8,7.9,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,COTE Pierre Olivier - CAN
+TAKAKU Keisuke - JPN - Canadian Selections 1 - 2019 - Qualification 2,49.55,23,Men,14.3,16.0,13.6,15.1,15.0,4.6,4.2,Qualification,2019,2019-Canadian Selections 1,Qualification 2,0.0,TAKAKU Keisuke - JPN
+CASHMORE Cole - CAN - Canada Cup 1 - 2019 - Qualification 1,32.83,46,Men,11.8,12.0,12.3,12.6,13.2,3.9,3.8,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,CASHMORE Cole - CAN
+DROUIN Xavier - CAN - Canada Cup 1 - 2019 - Final 1,67.83,17,Men,15.6,15.7,16.0,16.2,15.6,7.8,7.5,Finals,2019,2019-Canada Cup 1,Final 1,0.0,DROUIN Xavier - CAN
+CLOWATER Dylan - CAN - Canada Cup 1 - 2019 - Qualification 2,23.85,41,Men,11.0,11.0,11.0,13.0,12.8,4.3,4.3,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,CLOWATER Dylan - CAN
+GRYSPEERDT Maximus - CAN - Canada Cup 1 - 2019 - Qualification 2,30.16,40,Men,11.6,11.8,12.1,12.3,12.7,4.7,4.9,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,GRYSPEERDT Maximus - CAN
+CLOUTIER ASSELIN Felix - CAN - Canada Cup 1 - 2019 - Qualification 1,72.83,5,Men,16.3,16.3,16.1,15.2,16.2,7.8,8.0,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,CLOUTIER ASSELIN Felix - CAN
+PARADIS Louis - CAN - Canada Cup 2 - 2019 - Final 1,72.83,1,Men,17.3,16.9,16.6,18.1,17.5,8.5,8.6,Finals,2019,2019-Canada Cup 2,Final 1,0.0,PARADIS Louis - CAN
+HONORE Pierre Henri - CAN - Canadian Selections 1 - 2019 - Qualification 1,53.47,29,Men,13.2,14.8,13.9,14.7,13.8,4.2,4.5,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,HONORE Pierre Henri - CAN
+BOUCHARD Mathis - CAN - Canada Cup 1 - 2019 - Final 1,68.3,15,Men,15.9,16.0,15.8,15.2,16.0,7.8,7.7,Finals,2019,2019-Canada Cup 1,Final 1,0.0,BOUCHARD Mathis - CAN
+MYSKO Alex - CAN - Canada Cup 1 - 2019 - Final 1,68.23,16,Men,16.1,15.7,15.2,15.7,15.6,8.0,8.2,Finals,2019,2019-Canada Cup 1,Final 1,0.0,MYSKO Alex - CAN
+THIVIERGE Charles  Olivier - CAN - Canada Cup 2 - 2019 - Qualification 1,50.51,17,Men,16.5,16.0,16.0,16.7,16.5,5.2,5.2,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,THIVIERGE Charles  Olivier - CAN
+THIVIERGE Frederic - CAN - Canada Cup 1 - 2019 - Qualification 2,56.23,29,Men,14.3,14.4,14.4,13.9,13.8,6.8,6.8,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,THIVIERGE Frederic - CAN
+CASHMORE Cole - CAN - Canada Cup 1 - 2019 - Qualification 2,42.33,36,Men,12.1,12.2,12.0,12.4,12.8,5.1,5.1,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,CASHMORE Cole - CAN
+ST ONGE Cedric - CAN - Canada Cup 1 - 2019 - Qualification 2,62.49,16,Men,15.6,14.9,15.3,15.5,15.5,4.0,4.8,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,ST ONGE Cedric - CAN
+VAN DER MERWE Dylan - CAN - Canada Cup 2 - 2019 - Qualification 1,61.41,10,Men,16.9,16.3,15.6,17.4,17.1,3.8,3.9,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,VAN DER MERWE Dylan - CAN
+RICE Lewis - CAN - Canada Cup 2 - 2019 - Final 1,61.41,10,Men,15.7,15.8,16.3,15.1,15.5,7.5,7.6,Finals,2019,2019-Canada Cup 2,Final 1,0.0,RICE Lewis - CAN
+THIVIERGE Charles  Olivier - CAN - Canada Cup 2 - 2019 - Qualification 2,12.41,24,Men,15.4,13.0,16.0,14.3,13.9,4.5,4.6,Qualification,2019,2019-Canada Cup 2,Qualification 2,0.0,THIVIERGE Charles  Olivier - CAN
+CAREY Cole - CAN - Canada Cup 2 - 2019 - Qualification 2,46.11,6,Men,15.0,14.0,12.9,13.9,12.4,6.4,6.7,Qualification,2019,2019-Canada Cup 2,Qualification 2,0.0,CAREY Cole - CAN
+ROBERGE Felix - CAN - Canada Cup 1 - 2019 - Qualification 1,51.06,40,Men,13.5,14.3,14.2,13.8,13.2,4.3,4.2,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,ROBERGE Felix - CAN
+NADON Benjamin - CAN - Canada Cup 1 - 2019 - Final 1,73.1,7,Men,15.8,16.4,16.4,17.1,16.4,8.0,7.9,Finals,2019,2019-Canada Cup 1,Final 1,0.0,NADON Benjamin - CAN
+KURODA Brayden - CAN - Canadian Selections 1 - 2019 - Qualification 1,72.24,9,Men,18.2,18.8,18.1,16.8,16.8,5.6,5.7,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,KURODA Brayden - CAN
+DIONNE Justin - CAN - Canada Cup 1 - 2019 - Qualification 2,58.1,26,Men,14.0,13.9,14.2,14.5,14.2,5.3,5.8,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,DIONNE Justin - CAN
+HURRY Conner - CAN - Canada Cup 1 - 2019 - Qualification 2,51.1,33,Men,12.3,13.2,14.4,13.8,13.2,5.8,5.3,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,HURRY Conner - CAN
+CORDELL Sam - CAN - Canadian Selections 1 - 2019 - Qualification 1,69.7,13,Men,17.6,16.8,16.8,16.6,14.7,6.6,6.7,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,CORDELL Sam - CAN
+GAGNON Louis - CAN - Canadian Selections 1 - 2019 - Qualification 2,61.58,11,Men,14.2,15.3,14.2,14.0,14.8,6.3,6.2,Qualification,2019,2019-Canadian Selections 1,Qualification 2,0.0,GAGNON Louis - CAN
+TANNER Daniel - CAN - Canadian Selections 1 - 2019 - Final 1,78.14,1,Men,18.3,18.0,18.8,17.6,18.3,7.1,6.7,Finals,2019,2019-Canadian Selections 1,Final 1,0.0,TANNER Daniel - CAN
+KIMOTO Masahiro - JPN - Canadian Selections 1 - 2019 - Qualification 2,63.6,6,Men,13.9,15.4,16.0,16.2,15.0,3.9,4.2,Qualification,2019,2019-Canadian Selections 1,Qualification 2,0.0,KIMOTO Masahiro - JPN
+GRYSPEERDT Maximus - CAN - Canada Cup 1 - 2019 - Qualification 1,35.83,45,Men,11.5,11.2,13.1,12.9,13.4,5.0,4.8,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,GRYSPEERDT Maximus - CAN
+CARRIER Malcom - CAN - Canada Cup 1 - 2019 - Qualification 2,60.8,20,Men,15.0,14.9,14.7,14.6,14.2,4.8,4.4,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,CARRIER Malcom - CAN
+VAILLANCOURT Elliot - CAN - Canadian Selections 1 - 2019 - Final 1,77.37,2,Men,18.2,17.8,18.0,18.3,18.0,6.4,6.0,Finals,2019,2019-Canadian Selections 1,Final 1,0.0,VAILLANCOURT Elliot - CAN
+BETY Marc Antoine - CAN - Canadian Selections 1 - 2019 - Qualification 2,55.74,14,Men,15.2,15.0,14.6,15.0,14.9,6.0,6.4,Qualification,2019,2019-Canadian Selections 1,Qualification 2,0.0,BETY Marc Antoine - CAN
+PARADIS Louis - CAN - Canada Cup 2 - 2019 - Qualification 1,71.87,5,Men,16.9,17.0,16.2,18.3,16.9,8.1,8.2,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,PARADIS Louis - CAN
+CORDELL Sam - CAN - Canada Cup 1 - 2019 - Final 1,75.13,4,Men,17.2,16.6,17.0,17.2,17.0,8.0,8.0,Finals,2019,2019-Canada Cup 1,Final 1,0.0,CORDELL Sam - CAN
+TAKAGISHI Gaku - JPN - Canadian Selections 1 - 2019 - Final 1,55.44,18,Men,15.1,10.0,13.9,16.1,15.0,5.1,4.7,Finals,2019,2019-Canadian Selections 1,Final 1,0.0,TAKAGISHI Gaku - JPN
+GANNON Daniel - CAN - Canada Cup 2 - 2019 - Qualification 1,49.73,18,Men,13.9,14.3,14.6,13.7,13.0,5.0,5.0,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,GANNON Daniel - CAN
+GOODISON Samuel - CAN - Canada Cup 1 - 2019 - Qualification 1,67.23,15,Men,14.0,15.2,15.4,15.2,15.7,7.9,7.8,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,GOODISON Samuel - CAN
+VAN DER MERWE Dylan - CAN - Canada Cup 1 - 2019 - Qualification 1,68.65,13,Men,17.5,15.2,15.0,15.6,16.8,7.2,7.9,Qualification,2019,2019-Canada Cup 1,Qualification 1,0.0,VAN DER MERWE Dylan - CAN
+STRYDHORST Zachery - CAN - Canada Cup 2 - 2019 - Qualification 1,35.82,24,Men,10.8,10.2,10.8,9.8,10.0,4.8,4.8,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,STRYDHORST Zachery - CAN
+WALKLEY Trent - CAN - Canada Cup 2 - 2019 - Qualification 1,35.82,25,Men,13.4,13.4,10.2,11.8,10.2,4.2,4.1,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,WALKLEY Trent - CAN
+NISHIZAWA Taketo - JPN - Canadian Selections 1 - 2019 - Qualification 2,70.33,2,Men,16.7,15.8,16.4,16.4,16.5,7.9,7.8,Qualification,2019,2019-Canadian Selections 1,Qualification 2,0.0,NISHIZAWA Taketo - JPN
+DESAUTELS Mats - CAN - Canadian Selections 1 - 2019 - Qualification 2,34.68,26,Men,13.6,13.0,14.0,12.0,11.0,7.2,7.0,Qualification,2019,2019-Canadian Selections 1,Qualification 2,0.0,DESAUTELS Mats - CAN
+VAN DER MERWE Dylan - CAN - Canadian Selections 1 - 2019 - Qualification 1,44.78,33,Men,14.6,14.2,15.0,15.6,14.2,3.6,3.8,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,VAN DER MERWE Dylan - CAN
+DAWSON Quinn - CAN - Canadian Selections 1 - 2019 - Qualification 1,66.47,17,Men,12.5,16.2,14.9,15.0,16.0,7.0,7.4,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,DAWSON Quinn - CAN
+MYSKO Alex - CAN - Canada Cup 2 - 2019 - Qualification 1,28.82,29,Men,13.4,13.5,14.7,9.4,9.8,7.2,7.0,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,MYSKO Alex - CAN
+THIVIERGE Charles Olivier - CAN - Canadian Selections 1 - 2019 - Qualification 2,55.2,15,Men,12.8,15.6,15.2,15.3,12.8,4.3,4.5,Qualification,2019,2019-Canadian Selections 1,Qualification 2,0.0,THIVIERGE Charles Olivier - CAN
+BRAUCHT Ethan - CAN - Canada Cup 2 - 2019 - Qualification 2,6.48,27,Men,11.8,12.3,7.8,9.3,10.5,3.8,4.0,Qualification,2019,2019-Canada Cup 2,Qualification 2,0.0,BRAUCHT Ethan - CAN
+THIVIERGE Charles  Olivier - CAN - Canada Cup 1 - 2019 - Final 1,76.08,2,Men,17.3,17.4,16.5,17.4,17.5,7.5,7.7,Finals,2019,2019-Canada Cup 1,Final 1,0.0,THIVIERGE Charles  Olivier - CAN
+DAWSON Quinn - CAN - Canada Cup 1 - 2019 - Final 1,70.65,11,Men,16.5,16.3,16.8,16.8,16.8,8.0,8.1,Finals,2019,2019-Canada Cup 1,Final 1,0.0,DAWSON Quinn - CAN
+TANNER Marc - CAN - Canada Cup 2 - 2019 - Final 1,57.77,13,Men,15.1,15.7,14.3,10.6,14.0,7.0,7.2,Finals,2019,2019-Canada Cup 2,Final 1,0.0,TANNER Marc - CAN
+BURNYEAT Thomas - CAN - Canada Cup 2 - 2019 - Qualification 2,42.74,8,Men,13.6,12.0,13.6,11.5,12.0,5.8,5.9,Qualification,2019,2019-Canada Cup 2,Qualification 2,0.0,BURNYEAT Thomas - CAN
+LEE Xander - CAN - Canada Cup 2 - 2019 - Final 1,42.74,16,Men,14.2,15.0,12.4,12.9,13.0,7.4,7.5,Finals,2019,2019-Canada Cup 2,Final 1,0.0,LEE Xander - CAN
+LESSARD Olivier - CAN - Canadian Selections 1 - 2019 - Qualification 1,75.85,3,Men,17.7,18.3,18.4,17.1,17.8,4.0,4.2,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,LESSARD Olivier - CAN
+TAKAGISHI Gaku - JPN - Canadian Selections 1 - 2019 - Qualification 1,68.12,15,Men,16.9,17.8,17.0,16.6,15.6,5.8,6.2,Qualification,2019,2019-Canadian Selections 1,Qualification 1,0.0,TAKAGISHI Gaku - JPN
+LEE Xander - CAN - Canada Cup 1 - 2019 - Qualification 2,41.68,38,Men,11.9,12.2,12.4,12.7,13.6,7.5,7.6,Qualification,2019,2019-Canada Cup 1,Qualification 2,0.0,LEE Xander - CAN
+BOBYN George - CAN - Canada Cup 2 - 2019 - Qualification 1,51.31,14,Men,14.4,14.4,13.4,15.4,13.9,6.8,6.9,Qualification,2019,2019-Canada Cup 2,Qualification 1,0.0,BOBYN George - CAN
+BELLUCCI Massimo - CAN - Canada Cup 1 - 2019 - Final 1,69.86,13,Men,16.0,15.8,16.2,16.1,15.8,6.4,6.8,Finals,2019,2019-Canada Cup 1,Final 1,0.0,BELLUCCI Massimo - CAN
+SADLER Jack - CAN - Canada Cup 2 - 2019 - Qualification 2,23.17,21,Men,13.3,13.2,14.4,11.8,12.0,2.2,2.1,Qualification,2019,2019-Canada Cup 2,Qualification 2,0.0,SADLER Jack - CAN
+VIEL Julien - CAN - Canada Cup 1 - 2019 - Final 1,74.93,6,Men,17.0,17.2,16.8,16.7,17.3,8.0,8.3,Finals,2019,2019-Canada Cup 1,Final 1,0.0,VIEL Julien - CAN
+MARTEL Devon - CAN - Canada Cup 1 - 2018 - Qualification 1,27.35,46,Men,15.0,15.0,14.0,14.8,15.0,4.0,4.0,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,MARTEL Devon - CAN
+SUGIMOTO Kosuke - JPN - Canadian Selections 1 - 2018 - Qualification 2,69.64,12,Men,14.5,15.5,16.4,15.6,16.6,8.4,7.8,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,SUGIMOTO Kosuke - JPN
+DUFFY Eric - CAN - Canada Cup 2 - 2018 - Qualification 1,67.32,21,Men,16.2,15.4,16.5,16.1,16.5,7.0,7.0,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,DUFFY Eric - CAN
+THIVIERGE Charles  Olivier - CAN - Canada Cup 1 - 2018 - Qualification 2,63.51,25,Men,15.2,16.5,14.2,15.9,15.0,7.0,7.0,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,THIVIERGE Charles  Olivier - CAN
+PERSON Hayden - CAN - Canada Cup 3 - 2018 - Qualification 2,75.52,2,Men,16.9,17.5,17.6,17.5,18.2,7.4,6.4,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,PERSON Hayden - CAN
+BERTRAND Felix - CAN - Canada Cup 1 - 2018 - Qualification 1,22.87,47,Men,14.8,14.6,16.2,16.3,14.8,6.8,6.6,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,BERTRAND Felix - CAN
+DESAUTELS Mats - CAN - Canadian Selections 1 - 2018 - Qualification 2,61.23,20,Men,14.2,13.6,14.8,14.5,13.8,7.9,7.8,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,DESAUTELS Mats - CAN
+AGATSUMA Sora - JPN - Canadian Selections 2 - 2018 - Qualification 1,58.87,28,Men,9.9,13.5,13.3,14.2,13.8,7.5,8.0,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,AGATSUMA Sora - JPN
+HIRAYAMA Shota - JPN - Canadian Selections 2 - 2018 - Qualification 2,63.76,20,Men,13.9,15.0,15.8,16.8,15.6,8.1,7.6,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,HIRAYAMA Shota - JPN
+MARTEL Devon - CAN - Canada Cup 1 - 2018 - Qualification 2,74.71,5,Men,16.8,18.0,17.1,17.6,17.8,7.9,7.4,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,MARTEL Devon - CAN
+CASHMORE Cole - CAN - Canada Cup 1 - 2018 - Qualification 1,36.45,44,Men,13.2,12.9,13.9,12.0,14.0,5.2,5.8,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,CASHMORE Cole - CAN
+PORTELLO Ryan - CAN - Canadian Selections 1 - 2018 - Qualification 2,72.44,9,Men,18.4,16.3,16.7,15.8,16.0,6.9,6.8,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,PORTELLO Ryan - CAN
+GAGNON Thomas - CAN - Canada Cup 1 - 2018 - Qualification 1,66.56,16,Men,16.3,16.3,16.3,16.3,17.2,7.6,7.2,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,GAGNON Thomas - CAN
+GANNON Daniel - CAN - Canada Cup 3 - 2018 - Qualification 1,44.8,32,Men,12.4,13.2,13.4,13.0,13.6,5.0,4.8,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,GANNON Daniel - CAN
+DESAUTELS Mats - CAN - Canada Cup 3 - 2018 - Qualification 1,74.04,4,Men,17.2,17.4,17.3,17.1,17.4,7.3,6.8,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,DESAUTELS Mats - CAN
+KELLY Brenden - CAN - Canadian Championships - 2018 - Qualification 1,80.27,4,Men,17.4,17.5,17.2,17.6,17.3,9.0,8.8,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,KELLY Brenden - CAN
+NADEAU Jean Christophe - CAN - Canadian Selections 2 - 2018 - Qualification 1,71.96,11,Men,16.8,16.7,16.2,15.8,16.9,8.2,8.1,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,NADEAU Jean Christophe - CAN
+THIBAULT Olivier - CAN - Canada Cup 1 - 2018 - Qualification 2,69.78,15,Men,17.0,16.1,15.9,16.9,16.9,7.1,8.0,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,THIBAULT Olivier - CAN
+RICE Lewis - CAN - Canada Cup 1 - 2018 - Qualification 2,46.62,40,Men,15.7,15.3,13.2,13.9,15.5,7.0,6.2,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,RICE Lewis - CAN
+GUY TESSIER Olivier - CAN - Canadian Championships - 2018 - Qualification 1,70.9,16,Men,16.5,16.4,16.0,15.8,16.5,6.9,7.0,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,GUY TESSIER Olivier - CAN
+MARTINEAU Nicolas - CAN - Canada Cup 2 - 2018 - Qualification 1,73.9,10,Men,17.5,16.0,17.0,17.2,16.3,8.0,7.7,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,MARTINEAU Nicolas - CAN
+NADEAU Jean  Christophe - CAN - Canada Cup 2 - 2018 - Qualification 1,78.5,4,Men,17.4,18.7,18.2,18.3,18.2,7.9,8.0,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,NADEAU Jean  Christophe - CAN
+KINGSBURY Mikael - CAN - Canadian Championships - 2018 - Final 1,93.16,1,Men,18.5,19.3,18.9,19.0,19.2,8.9,9.3,Finals,2018,2018-Canadian Championships,Final 1,0.0,KINGSBURY Mikael - CAN
+JOOSTEN Matt - CAN - Canadian Selections 1 - 2018 - Qualification 2,58.53,26,Men,13.9,14.5,14.3,14.1,14.0,6.0,5.7,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,JOOSTEN Matt - CAN
+GOODISON Samuel - CAN - Canada Cup 2 - 2018 - Final 1,75.45,14,Men,17.8,16.1,17.5,16.0,17.4,7.8,7.9,Finals,2018,2018-Canada Cup 2,Final 1,0.0,GOODISON Samuel - CAN
+KOIWA Kai - JPN - Canadian Selections 1 - 2018 - Qualification 1,53.35,29,Men,10.3,12.5,12.6,12.1,12.0,7.1,7.3,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,KOIWA Kai - JPN
+GUY TESSIER Olivier - CAN - Canadian Selections 2 - 2018 - Qualification 2,58.59,25,Men,14.1,15.4,15.9,13.9,15.2,7.7,7.6,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,GUY TESSIER Olivier - CAN
+TANNER Marc - CAN - Canadian Selections 1 - 2018 - Qualification 1,58.59,19,Men,13.9,15.6,15.1,14.8,14.8,5.4,4.5,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,TANNER Marc - CAN
+PHIPPS Koleton - CAN - Canada Cup 3 - 2018 - Qualification 1,72.91,6,Men,17.4,17.9,17.6,17.5,16.9,6.5,7.0,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,PHIPPS Koleton - CAN
+FRECHETTE Christian - CAN - Canada Cup 3 - 2018 - Final 1,36.98,18,Men,14.2,15.7,14.7,14.9,14.8,7.5,7.4,Finals,2018,2018-Canada Cup 3,Final 1,0.0,FRECHETTE Christian - CAN
+DELISLE Simon - CAN - Canada Cup 1 - 2018 - Qualification 1,62.38,22,Men,15.5,15.6,15.6,15.0,15.4,6.5,6.6,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,DELISLE Simon - CAN
+MATTHEWS Aidan - CAN - Canada Cup 1 - 2018 - Qualification 2,43.39,45,Men,13.6,12.4,13.2,12.5,14.0,4.0,4.0,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,MATTHEWS Aidan - CAN
+DESAUTELS Mats - CAN - Canadian Selections 2 - 2018 - Qualification 2,40.34,35,Men,14.3,13.5,13.3,13.8,13.8,8.8,7.9,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,DESAUTELS Mats - CAN
+THIVIERGE Charles  Olivier - CAN - Canada Cup 2 - 2018 - Qualification 1,65.95,24,Men,15.2,16.0,14.2,17.0,17.5,6.3,6.4,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,THIVIERGE Charles  Olivier - CAN
+PARSONS Jackson - CAN - Canadian Selections 2 - 2018 - Qualification 1,11.78,40,Men,12.3,13.3,13.6,12.6,14.0,7.9,7.7,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,PARSONS Jackson - CAN
+HURRY Conner - CAN - Canada Cup 3 - 2018 - Qualification 2,49.47,26,Men,13.0,13.7,14.1,13.7,13.0,6.5,6.4,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,HURRY Conner - CAN
+NGUYEN Matthew - CAN - Canada Cup 2 - 2018 - Qualification 1,40.99,47,Men,11.6,13.8,13.0,12.8,13.6,4.1,3.9,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,NGUYEN Matthew - CAN
+NISHIZAWA Taketo - JPN - Canadian Selections 2 - 2018 - Qualification 1,70.3,17,Men,16.7,15.9,16.0,17.2,16.6,7.0,7.3,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,NISHIZAWA Taketo - JPN
+JOHNSTON Parker - CAN - Canada Cup 1 - 2018 - Qualification 1,74.46,5,Men,17.8,16.8,16.9,17.0,17.2,8.1,7.9,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,JOHNSTON Parker - CAN
+KAPRONCZAI Julian - CAN - Canada Cup 3 - 2018 - Qualification 1,76.92,1,Men,18.1,18.4,17.4,17.4,17.7,6.3,6.2,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,KAPRONCZAI Julian - CAN
+DAWSON Quinn - CAN - Canada Cup 1 - 2018 - Qualification 2,57.66,35,Men,16.2,15.4,14.0,14.3,16.0,7.0,6.4,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,DAWSON Quinn - CAN
+GAGNON Thomas - CAN - Canada Cup 3 - 2018 - Final 1,64.52,14,Men,16.9,15.9,16.9,16.2,14.5,5.0,4.2,Finals,2018,2018-Canada Cup 3,Final 1,0.0,GAGNON Thomas - CAN
+DESAUTELS Mats - CAN - Canadian Championships - 2018 - Qualification 1,42.42,35,Men,14.0,15.6,14.4,14.8,14.0,6.0,5.0,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,DESAUTELS Mats - CAN
+PERSON Hayden - CAN - Canada Cup 3 - 2018 - Final 1,75.27,4,Men,17.3,17.4,17.1,17.1,16.7,8.4,8.0,Finals,2018,2018-Canada Cup 3,Final 1,0.0,PERSON Hayden - CAN
+BERTRAND Felix - CAN - Canada Cup 1 - 2018 - Qualification 2,66.78,20,Men,15.5,15.3,16.0,16.3,15.0,6.8,7.0,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,BERTRAND Felix - CAN
+FRECHETTE Christian - CAN - Canadian Selections 2 - 2018 - Qualification 2,55.87,28,Men,12.9,14.2,14.4,13.0,13.0,6.9,6.1,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,FRECHETTE Christian - CAN
+BETY Marc Antoine - CAN - Canada Cup 1 - 2018 - Qualification 2,75.98,3,Men,16.2,16.9,17.8,17.6,18.1,7.4,7.8,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,BETY Marc Antoine - CAN
+GOSSELIN Pier Alexandre - CAN - Canada Cup 1 - 2018 - Qualification 2,53.85,37,Men,15.8,15.7,16.0,15.6,16.0,7.4,7.7,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,GOSSELIN Pier Alexandre - CAN
+BETY Marc Antoine - CAN - Canada Cup 2 - 2018 - Final 1,81.31,3,Men,18.8,18.4,18.8,18.4,18.2,7.9,8.2,Finals,2018,2018-Canada Cup 2,Final 1,0.0,BETY Marc Antoine - CAN
+NGUYEN Jason - CAN - Canada Cup 1 - 2018 - Qualification 2,45.26,42,Men,15.0,14.0,14.0,15.2,15.6,7.2,7.9,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,NGUYEN Jason - CAN
+CHALIFOUX Louis David - CAN - Canada Cup 2 - 2018 - Final 1,79.07,7,Men,18.8,18.4,18.0,18.4,18.4,7.9,8.0,Finals,2018,2018-Canada Cup 2,Final 1,0.0,CHALIFOUX Louis David - CAN
+HONORE Pierre Henri - CAN - Canada Cup 1 - 2018 - Qualification 1,62.72,21,Men,15.8,14.2,16.2,15.2,16.4,6.1,6.1,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,HONORE Pierre Henri - CAN
+IMBEAU Christophe - CAN - Canadian Selections 2 - 2018 - Qualification 1,71.31,14,Men,17.6,17.7,18.1,16.0,16.8,8.5,7.8,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,IMBEAU Christophe - CAN
+GOSSELIN Pier Alexandre - CAN - Canada Cup 2 - 2018 - Final 1,28.49,22,Men,15.2,15.5,16.5,16.6,16.4,2.2,2.0,Finals,2018,2018-Canada Cup 2,Final 1,0.0,GOSSELIN Pier Alexandre - CAN
+CLOUTIER ASSELIN Felix - CAN - Canada Cup 2 - 2018 - Qualification 1,72.57,11,Men,16.8,16.4,16.0,17.4,17.0,6.8,7.9,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,CLOUTIER ASSELIN Felix - CAN
+DESAUTELS Mats - CAN - Canadian Selections 2 - 2018 - Qualification 1,71.48,13,Men,16.3,16.3,16.0,16.5,16.0,8.2,8.4,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,DESAUTELS Mats - CAN
+MARTEL Devon - CAN - Canadian Selections 2 - 2018 - Qualification 1,68.56,18,Men,16.0,16.4,17.7,16.2,17.7,7.3,8.0,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,MARTEL Devon - CAN
+VIEL Julien - CAN - Canadian Championships - 2018 - Qualification 1,68.56,20,Men,16.0,15.6,16.2,16.5,15.8,7.9,7.3,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,VIEL Julien - CAN
+BONHOMME Zachary - CAN - Canada Cup 2 - 2018 - Qualification 1,49.5,39,Men,15.8,14.3,12.0,11.9,14.8,6.2,6.0,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,BONHOMME Zachary - CAN
+GAUTHIER Julien - CAN - Canada Cup 1 - 2018 - Qualification 2,71.42,12,Men,16.0,16.2,18.0,17.3,17.2,7.7,8.0,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,GAUTHIER Julien - CAN
+BETY Marc Antoine - CAN - Canadian Selections 2 - 2018 - Qualification 2,68.18,11,Men,17.0,16.9,16.9,15.6,15.6,8.6,7.8,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,BETY Marc Antoine - CAN
+CHALIFOUX Louis David - CAN - Canada Cup 1 - 2018 - Qualification 2,62.57,29,Men,15.6,16.1,16.8,17.0,16.5,7.6,7.0,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,CHALIFOUX Louis David - CAN
+THIBAULT Olivier - CAN - Canadian Selections 1 - 2018 - Qualification 2,50.64,36,Men,13.6,14.0,13.4,14.2,13.0,6.2,6.0,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,THIBAULT Olivier - CAN
+GOODISON Samuel - CAN - Canada Cup 1 - 2018 - Qualification 2,69.16,16,Men,15.8,16.2,15.2,14.9,15.8,7.4,7.7,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,GOODISON Samuel - CAN
+FRECHETTE Christian - CAN - Canada Cup 2 - 2018 - Qualification 1,69.16,17,Men,16.6,14.5,14.6,15.9,16.3,8.2,8.2,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,FRECHETTE Christian - CAN
+DROUIN Xavier - CAN - Canada Cup 1 - 2018 - Qualification 1,65.65,18,Men,15.8,15.0,16.6,15.5,15.6,7.4,7.2,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,DROUIN Xavier - CAN
+GOODISON Samuel - CAN - Canada Cup 3 - 2018 - Qualification 1,64.24,17,Men,14.7,15.3,15.9,16.1,15.0,7.1,7.3,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,GOODISON Samuel - CAN
+KOIWA Kai - JPN - Canadian Selections 2 - 2018 - Qualification 2,59.08,24,Men,14.0,14.2,14.4,15.2,14.8,7.8,7.1,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,KOIWA Kai - JPN
+CORDELL Sam - CAN - Canada Cup 3 - 2018 - Qualification 2,44.75,28,Men,16.8,17.1,17.6,17.0,17.4,5.0,5.0,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,CORDELL Sam - CAN
+LESSARD Olivier - CAN - Canada Cup 1 - 2018 - Qualification 2,75.67,4,Men,17.5,17.6,18.4,17.5,18.2,8.0,7.6,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,LESSARD Olivier - CAN
+KINGSBURY Mikael - CAN - Canadian Championships - 2018 - Qualification 1,91.86,1,Men,18.8,19.0,18.8,19.0,18.9,9.2,9.3,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,KINGSBURY Mikael - CAN
+MILLER CLARKE Reece - CAN - Canada Cup 2 - 2018 - Qualification 1,20.14,52,Men,12.5,11.9,12.7,14.1,12.0,7.1,6.7,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,MILLER CLARKE Reece - CAN
+GREANYA Aiden - CAN - Canada Cup 2 - 2018 - Qualification 1,50.56,38,Men,14.0,13.8,13.8,14.8,13.9,5.1,5.9,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,GREANYA Aiden - CAN
+HIRAYAMA Shota - JPN - Canadian Selections 2 - 2018 - Qualification 1,68.38,19,Men,15.1,15.0,16.8,17.8,16.0,8.3,7.7,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,HIRAYAMA Shota - JPN
+GAGNON Thomas - CAN - Canadian Selections 1 - 2018 - Qualification 2,53.06,33,Men,14.1,14.1,16.1,12.4,13.8,7.8,8.3,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,GAGNON Thomas - CAN
+ERB BEAUCHAMP - CAN - Canada Cup 3 - 2018 - Qualification 2,23.56,39,Men,10.3,10.6,10.7,10.3,10.5,7.0,6.2,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,ERB BEAUCHAMP - CAN
+VAILLANCOURT Elliot - CAN - Canadian Selections 2 - 2018 - Qualification 1,78.97,4,Men,18.7,19.0,18.8,17.4,17.5,7.7,8.6,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,VAILLANCOURT Elliot - CAN
+CARRIER Malcom - CAN - Canada Cup 1 - 2018 - Qualification 2,61.5,30,Men,15.6,15.0,15.3,15.2,14.0,7.2,7.1,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,CARRIER Malcom - CAN
+TANNER Daniel - CAN - Canadian Selections 2 - 2018 - Qualification 2,67.2,13,Men,16.9,15.8,15.9,17.2,15.8,7.1,6.6,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,TANNER Daniel - CAN
+BETY Marc Antoine - CAN - Canadian Selections 2 - 2018 - Qualification 1,64.36,25,Men,15.9,15.7,15.7,14.8,15.5,6.9,7.7,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,BETY Marc Antoine - CAN
+MARTEL Devon - CAN - Canada Cup 3 - 2018 - Final 1,71.9,8,Men,17.8,17.3,16.9,16.8,16.8,7.4,7.2,Finals,2018,2018-Canada Cup 3,Final 1,0.0,MARTEL Devon - CAN
+DUBUC Jeremy - CAN - Canada Cup 2 - 2018 - Qualification 1,41.01,46,Men,16.5,14.9,15.8,15.7,16.0,7.1,7.6,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,DUBUC Jeremy - CAN
+GAGNON Marc Antoine - CAN - Canadian Championships - 2018 - Qualification 1,85.54,2,Men,17.5,18.7,18.6,18.0,17.0,9.4,8.8,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,GAGNON Marc Antoine - CAN
+ANDISON Robbie - CAN - Canadian Championships - 2018 - Final 1,76.72,11,Men,17.1,16.8,16.4,17.4,17.2,7.4,8.0,Finals,2018,2018-Canadian Championships,Final 1,0.0,ANDISON Robbie - CAN
+NISHIZAWA Taketo - JPN - Canadian Selections 1 - 2018 - Qualification 2,58.6,24,Men,12.9,13.9,12.3,12.0,12.5,7.1,7.5,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,NISHIZAWA Taketo - JPN
+GUY TESSIER Olivier - CAN - Canadian Selections 1 - 2018 - Qualification 1,15.69,37,Men,8.6,12.1,13.0,10.8,10.0,6.4,5.6,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,GUY TESSIER Olivier - CAN
+KAPRONCZAI Julian - CAN - Canadian Selections 1 - 2018 - Qualification 1,74.96,5,Men,16.9,17.5,17.1,15.8,16.9,7.2,7.1,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,KAPRONCZAI Julian - CAN
+PHIPPS Koleton - CAN - Canada Cup 3 - 2018 - Final 1,72.82,7,Men,17.4,17.6,17.1,17.3,17.2,7.0,7.2,Finals,2018,2018-Canada Cup 3,Final 1,0.0,PHIPPS Koleton - CAN
+PHIPPS Koleton - CAN - Canada Cup 3 - 2018 - Qualification 2,70.0,7,Men,16.0,17.5,17.3,17.3,15.9,6.7,7.2,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,PHIPPS Koleton - CAN
+NADON Benjamin - CAN - Canada Cup 2 - 2018 - Final 1,73.52,16,Men,16.4,15.9,17.0,17.1,17.6,7.7,7.6,Finals,2018,2018-Canada Cup 2,Final 1,0.0,NADON Benjamin - CAN
+TANNER Marc - CAN - Canada Cup 3 - 2018 - Qualification 1,66.87,15,Men,16.4,16.4,15.1,15.4,17.5,6.7,6.2,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,TANNER Marc - CAN
+BEAULIEU Charles - CAN - Canada Cup 2 - 2018 - Qualification 1,70.11,16,Men,15.8,16.3,15.5,16.3,16.5,7.8,7.6,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,BEAULIEU Charles - CAN
+BEAULIEU Charles - CAN - Canada Cup 1 - 2018 - Qualification 2,62.76,27,Men,15.0,14.0,15.1,15.0,16.0,7.2,7.1,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,BEAULIEU Charles - CAN
+VAILLANCOURT Elliot - CAN - Canadian Selections 1 - 2018 - Qualification 1,76.52,4,Men,17.9,18.3,18.3,18.0,17.9,7.7,8.4,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,VAILLANCOURT Elliot - CAN
+KOYAMA Takashi - JPN - Canadian Selections 1 - 2018 - Qualification 1,68.69,9,Men,16.8,15.8,14.8,13.8,16.0,6.6,7.1,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,KOYAMA Takashi - JPN
+CLOUTIER ASSELIN Felix - CAN - Canadian Selections 2 - 2018 - Qualification 1,59.89,27,Men,13.6,13.7,13.3,13.3,13.5,7.0,7.7,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,CLOUTIER ASSELIN Felix - CAN
+GUY TESSIER Olivier - CAN - Canada Cup 1 - 2018 - Qualification 2,67.97,19,Men,17.5,17.5,17.4,17.0,18.0,7.9,7.9,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,GUY TESSIER Olivier - CAN
+BEAULIEU Charles - CAN - Canada Cup 2 - 2018 - Final 1,72.79,17,Men,17.2,17.5,16.6,17.3,17.6,7.6,7.4,Finals,2018,2018-Canada Cup 2,Final 1,0.0,BEAULIEU Charles - CAN
+SUGIMOTO Kosuke - JPN - Canadian Selections 1 - 2018 - Qualification 1,68.48,10,Men,14.2,15.9,15.4,14.8,16.0,6.2,7.3,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,SUGIMOTO Kosuke - JPN
+MARTEL Devon - CAN - Canada Cup 3 - 2018 - Qualification 1,54.83,20,Men,16.1,17.6,16.5,15.9,15.9,8.4,8.6,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,MARTEL Devon - CAN
+CARRIER Malcom - CAN - Canada Cup 1 - 2018 - Qualification 1,57.99,28,Men,15.6,15.2,14.8,13.7,14.6,6.8,6.7,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,CARRIER Malcom - CAN
+MARTINEAU Nicolas - CAN - Canada Cup 2 - 2018 - Final 1,57.99,21,Men,14.0,16.0,15.5,16.1,16.5,7.7,7.7,Finals,2018,2018-Canada Cup 2,Final 1,0.0,MARTINEAU Nicolas - CAN
+BURNYEAT Thomas - CAN - Canada Cup 3 - 2018 - Qualification 2,50.53,23,Men,13.9,14.4,15.0,14.0,14.0,7.0,7.3,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,BURNYEAT Thomas - CAN
+NADEAU Jean  Christophe - CAN - Canada Cup 1 - 2018 - Qualification 2,77.12,2,Men,17.8,18.3,16.8,17.4,17.9,8.2,8.1,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,NADEAU Jean  Christophe - CAN
+NGUYEN Jason - CAN - Canada Cup 1 - 2018 - Qualification 1,56.26,32,Men,15.6,15.6,15.2,14.3,15.2,7.5,7.4,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,NGUYEN Jason - CAN
+KELLY Brenden - CAN - Canadian Selections 1 - 2018 - Qualification 2,76.28,4,Men,16.6,16.7,16.7,17.4,16.6,8.4,8.6,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,KELLY Brenden - CAN
+KAPRONCZAI Julian - CAN - Canada Cup 1 - 2018 - Qualification 2,69.9,14,Men,15.9,16.0,16.8,17.3,16.8,8.0,8.0,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,KAPRONCZAI Julian - CAN
+BERTRAND Felix - CAN - Canadian Championships - 2018 - Qualification 1,33.44,36,Men,14.0,14.4,15.4,15.6,14.6,2.2,1.9,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,BERTRAND Felix - CAN
+SUGIMOTO Kosuke - JPN - Canadian Selections 2 - 2018 - Qualification 2,70.5,9,Men,16.6,16.3,16.6,15.2,16.0,7.4,6.1,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,SUGIMOTO Kosuke - JPN
+GAGNON Thomas - CAN - Canadian Championships - 2018 - Qualification 1,63.28,32,Men,16.1,15.6,15.1,15.4,15.3,6.9,6.3,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,GAGNON Thomas - CAN
+LESSARD Olivier - CAN - Canadian Championships - 2018 - Qualification 1,73.64,14,Men,16.5,16.5,16.3,15.9,16.3,6.9,7.1,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,LESSARD Olivier - CAN
+BELLUCCI Massimo - CAN - Canadian Selections 2 - 2018 - Qualification 1,55.02,33,Men,13.8,13.9,12.3,12.6,14.0,7.6,7.3,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,BELLUCCI Massimo - CAN
+PATTON Cole - CAN - Canada Cup 3 - 2018 - Qualification 2,41.22,31,Men,13.3,12.9,14.5,11.5,11.4,7.4,7.2,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,PATTON Cole - CAN
+DUFFY Eric - CAN - Canadian Selections 2 - 2018 - Qualification 1,54.5,34,Men,12.9,15.5,15.7,13.5,13.8,7.8,7.9,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,DUFFY Eric - CAN
+GAGNON Thomas - CAN - Canada Cup 2 - 2018 - Qualification 1,64.88,25,Men,15.8,15.6,16.5,16.6,16.1,6.2,6.1,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,GAGNON Thomas - CAN
+BETY Marc Antoine - CAN - Canadian Selections 1 - 2018 - Qualification 2,52.08,34,Men,14.6,14.0,13.8,13.8,14.0,5.7,6.6,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,BETY Marc Antoine - CAN
+IMBEAU Christophe - CAN - Canada Cup 2 - 2018 - Final 1,64.51,19,Men,17.8,18.2,17.2,18.4,17.9,7.2,7.9,Finals,2018,2018-Canada Cup 2,Final 1,0.0,IMBEAU Christophe - CAN
+DESAUTELS Mats - CAN - Canada Cup 3 - 2018 - Final 1,71.39,10,Men,16.9,17.1,16.5,16.6,17.0,8.9,8.4,Finals,2018,2018-Canada Cup 3,Final 1,0.0,DESAUTELS Mats - CAN
+GOODISON Samuel - CAN - Canada Cup 3 - 2018 - Qualification 2,65.98,15,Men,15.7,15.2,15.5,16.0,16.2,7.6,7.6,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,GOODISON Samuel - CAN
+JOOSTEN Matt - CAN - Canadian Selections 2 - 2018 - Qualification 1,72.64,10,Men,16.3,17.3,15.7,17.8,17.0,7.0,7.5,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,JOOSTEN Matt - CAN
+GAGNON Thomas - CAN - Canada Cup 3 - 2018 - Qualification 1,68.63,10,Men,16.9,16.7,16.9,16.4,15.5,7.6,7.5,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,GAGNON Thomas - CAN
+MILLER CLARKE Reece - CAN - Canada Cup 1 - 2018 - Qualification 1,61.96,23,Men,14.8,13.8,14.6,17.0,14.8,6.8,6.9,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,MILLER CLARKE Reece - CAN
+PHIPPS Koleton - CAN - Canadian Selections 1 - 2018 - Qualification 2,64.61,17,Men,15.7,15.3,16.7,15.8,16.0,7.1,7.2,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,PHIPPS Koleton - CAN
+TANNER Marc - CAN - Canada Cup 3 - 2018 - Final 1,39.14,17,Men,15.1,15.7,15.1,15.0,14.1,4.0,5.0,Finals,2018,2018-Canada Cup 3,Final 1,0.0,TANNER Marc - CAN
+PHILLIPS Ethan - CAN - Canadian Selections 1 - 2018 - Qualification 2,56.4,29,Men,12.9,13.0,12.9,14.5,14.0,7.0,7.2,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,PHILLIPS Ethan - CAN
+KOYAMA Takashi - JPN - Canadian Selections 1 - 2018 - Qualification 2,74.05,7,Men,17.8,17.3,16.6,15.8,16.6,7.8,7.3,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,KOYAMA Takashi - JPN
+KOYAMA Takashi - JPN - Canadian Selections 2 - 2018 - Qualification 2,72.94,6,Men,14.6,17.6,17.2,15.8,15.8,6.3,7.4,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,KOYAMA Takashi - JPN
+MARTEL Devon - CAN - Canadian Selections 1 - 2018 - Qualification 1,63.96,13,Men,14.3,16.8,16.6,14.4,15.0,6.9,6.2,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,MARTEL Devon - CAN
+GAUTHIER Julien - CAN - Canada Cup 2 - 2018 - Qualification 1,72.26,12,Men,16.0,15.8,16.4,17.7,16.9,7.9,8.0,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,GAUTHIER Julien - CAN
+GILBERT Benoit - CAN - Canada Cup 1 - 2018 - Qualification 2,68.7,17,Men,16.6,17.0,16.4,16.3,16.9,7.8,7.8,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,GILBERT Benoit - CAN
+TANNER Marc - CAN - Canadian Selections 2 - 2018 - Qualification 2,65.0,18,Men,14.4,14.9,14.1,16.3,15.0,6.8,6.7,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,TANNER Marc - CAN
+GOSSELIN Pier Alexandre - CAN - Canadian Selections 2 - 2018 - Qualification 1,56.01,32,Men,13.6,15.0,15.4,13.9,13.8,6.4,7.0,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,GOSSELIN Pier Alexandre - CAN
+JOHNSTON Parker - CAN - Canadian Selections 1 - 2018 - Qualification 1,18.4,36,Men,12.1,12.0,12.2,12.8,11.0,8.8,7.8,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,JOHNSTON Parker - CAN
+NADEAU Jean Christophe - CAN - Canadian Selections 1 - 2018 - Qualification 1,11.88,40,Men,12.9,12.1,12.0,12.8,10.0,8.1,7.4,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,NADEAU Jean Christophe - CAN
+VAILLANCOURT Elliot - CAN - Canadian Selections 1 - 2018 - Qualification 2,75.16,5,Men,17.6,17.2,17.3,17.2,18.0,8.0,8.4,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,VAILLANCOURT Elliot - CAN
+THIBAULT Olivier - CAN - Canadian Championships - 2018 - Qualification 1,70.17,17,Men,16.5,15.8,15.6,16.0,15.6,6.2,7.6,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,THIBAULT Olivier - CAN
+THIBAULT Olivier - CAN - Canada Cup 3 - 2018 - Qualification 2,63.62,17,Men,14.8,14.3,15.4,13.9,14.0,7.1,6.6,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,THIBAULT Olivier - CAN
+IMBEAU Christophe - CAN - Canada Cup 2 - 2018 - Qualification 1,70.28,14,Men,17.8,17.0,16.2,17.0,17.4,7.6,7.7,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,IMBEAU Christophe - CAN
+PHILLIPS Ethan - CAN - Canadian Selections 1 - 2018 - Qualification 1,13.9,38,Men,8.9,10.0,10.0,8.0,8.2,5.2,5.3,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,PHILLIPS Ethan - CAN
+AGATSUMA Sora - JPN - Canadian Selections 1 - 2018 - Qualification 1,50.73,31,Men,10.1,13.0,13.3,12.8,12.0,7.1,7.3,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,AGATSUMA Sora - JPN
+MYSKO Alex - CAN - Canada Cup 1 - 2018 - Qualification 2,57.83,34,Men,15.2,15.5,13.9,14.0,15.0,7.2,6.0,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,MYSKO Alex - CAN
+GILBERT Benoit - CAN - Canada Cup 2 - 2018 - Final 1,68.77,18,Men,16.8,16.5,16.4,16.9,16.2,7.6,7.1,Finals,2018,2018-Canada Cup 2,Final 1,0.0,GILBERT Benoit - CAN
+PHILLIPS Ethan - CAN - Canadian Selections 2 - 2018 - Qualification 2,60.19,22,Men,12.7,13.7,13.8,14.2,14.0,7.0,7.3,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,PHILLIPS Ethan - CAN
+MATTHEWS Aidan - CAN - Canada Cup 2 - 2018 - Qualification 1,62.66,29,Men,15.8,15.0,15.8,15.8,16.4,6.8,6.7,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,MATTHEWS Aidan - CAN
+KURODA Brayden - CAN - Canadian Selections 1 - 2018 - Qualification 2,63.18,19,Men,15.7,15.0,15.4,15.7,15.5,7.5,7.3,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,KURODA Brayden - CAN
+GOSSELIN Pier Alexandre - CAN - Canadian Selections 2 - 2018 - Qualification 2,54.16,30,Men,12.2,13.6,14.6,13.2,13.0,8.5,7.4,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,GOSSELIN Pier Alexandre - CAN
+TREMBLAY Alexis - CAN - Canada Cup 1 - 2018 - Qualification 2,30.94,51,Men,11.8,11.5,15.0,15.2,15.0,2.0,2.0,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,TREMBLAY Alexis - CAN
+KELLY Brenden - CAN - Canadian Championships - 2018 - Final 1,82.9,4,Men,17.4,17.5,17.5,17.2,17.8,7.5,7.7,Finals,2018,2018-Canadian Championships,Final 1,0.0,KELLY Brenden - CAN
+KAPRONCZAI Julian - CAN - Canada Cup 2 - 2018 - Final 1,78.81,8,Men,18.6,18.2,18.0,18.0,18.3,7.4,7.1,Finals,2018,2018-Canada Cup 2,Final 1,0.0,KAPRONCZAI Julian - CAN
+CORDELL Sam - CAN - Canadian Championships - 2018 - Qualification 1,68.03,21,Men,16.2,15.6,15.7,16.0,15.5,6.0,5.0,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,CORDELL Sam - CAN
+LAVOIE Alexandre - CAN - Canada Cup 1 - 2018 - Qualification 1,81.42,1,Men,17.8,18.2,18.1,17.3,17.3,8.2,8.1,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,LAVOIE Alexandre - CAN
+GREANYA Aiden - CAN - Canada Cup 1 - 2018 - Qualification 2,15.02,55,Men,13.5,12.5,12.8,12.0,12.4,2.4,2.1,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,GREANYA Aiden - CAN
+CARRIER Malcom - CAN - Canada Cup 2 - 2018 - Qualification 1,15.02,54,Men,10.0,11.0,12.0,14.0,11.2,3.8,3.4,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,CARRIER Malcom - CAN
+GAGNON Thomas - CAN - Canada Cup 3 - 2018 - Qualification 2,67.1,14,Men,16.7,16.4,16.1,16.3,15.8,8.4,8.3,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,GAGNON Thomas - CAN
+LAPOINTE Jean Nico - CAN - Canada Cup 1 - 2018 - Qualification 2,44.65,43,Men,13.0,12.4,13.8,14.0,14.2,6.0,5.5,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,LAPOINTE Jean Nico - CAN
+NEISH Taye - CAN - Canada Cup 2 - 2018 - Qualification 1,50.92,37,Men,13.8,14.3,15.6,14.8,14.2,7.4,7.6,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,NEISH Taye - CAN
+PATTON Cole - CAN - Canada Cup 3 - 2018 - Qualification 1,15.08,41,Men,13.0,11.7,14.7,12.3,11.4,7.4,6.5,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,PATTON Cole - CAN
+DUFFY Eric - CAN - Canada Cup 3 - 2018 - Qualification 1,59.83,19,Men,15.8,16.5,16.8,16.6,15.5,5.1,4.0,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,DUFFY Eric - CAN
+FRECHETTE Christian - CAN - Canadian Championships - 2018 - Qualification 1,66.48,24,Men,16.3,15.5,15.8,16.3,15.4,5.0,6.0,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,FRECHETTE Christian - CAN
+BELLUCCI Massimo - CAN - Canada Cup 3 - 2018 - Qualification 1,71.29,8,Men,16.6,17.2,17.4,17.0,17.2,6.7,7.4,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,BELLUCCI Massimo - CAN
+CHALIFOUX Louis David - CAN - Canada Cup 2 - 2018 - Qualification 1,71.29,13,Men,17.0,16.5,16.0,17.4,17.6,8.2,8.3,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,CHALIFOUX Louis David - CAN
+CLOUTIER Gabriel - CAN - Canadian Championships - 2018 - Qualification 1,75.93,11,Men,16.2,16.3,16.2,16.4,16.3,9.0,8.3,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,CLOUTIER Gabriel - CAN
+PORTELLO Ryan - CAN - Canadian Selections 2 - 2018 - Qualification 2,81.8,1,Men,18.6,18.5,17.9,16.5,18.0,9.0,8.3,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,PORTELLO Ryan - CAN
+DECORE Pierce - CAN - Canada Cup 3 - 2018 - Qualification 1,50.75,27,Men,14.0,12.6,14.6,15.4,13.7,6.3,5.8,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,DECORE Pierce - CAN
+ULSIFER Luke - CAN - Canadian Selections 2 - 2018 - Qualification 2,75.06,4,Men,18.1,18.0,16.6,17.5,17.0,7.2,7.9,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,ULSIFER Luke - CAN
+THIBAULT Olivier - CAN - Canadian Selections 2 - 2018 - Qualification 1,56.64,31,Men,12.9,13.0,14.4,13.9,14.4,5.3,5.6,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,THIBAULT Olivier - CAN
+MARTEL Devon - CAN - Canada Cup 3 - 2018 - Qualification 2,68.87,10,Men,16.8,17.6,17.0,16.9,17.8,7.7,7.1,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,MARTEL Devon - CAN
+DAWSON Quinn - CAN - Canada Cup 3 - 2018 - Qualification 2,49.51,25,Men,14.6,13.8,15.1,14.7,15.0,6.0,5.0,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,DAWSON Quinn - CAN
+PHIPPS Koleton - CAN - Canadian Championships - 2018 - Qualification 1,64.15,30,Men,16.3,15.8,15.7,16.1,15.4,4.8,4.1,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,PHIPPS Koleton - CAN
+CORDELL Sam - CAN - Canadian Selections 1 - 2018 - Qualification 1,71.38,8,Men,15.0,17.0,16.7,17.2,16.5,8.8,7.9,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,CORDELL Sam - CAN
+CAMPEAU Nicolas - CAN - Canada Cup 3 - 2018 - Qualification 1,71.38,7,Men,16.3,16.6,16.9,16.0,16.8,6.7,6.2,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,CAMPEAU Nicolas - CAN
+KURODA Brayden - CAN - Canada Cup 3 - 2018 - Qualification 1,67.61,14,Men,16.8,16.3,16.4,16.2,16.3,5.5,4.0,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,KURODA Brayden - CAN
+MARTEL Devon - CAN - Canada Cup 2 - 2018 - Final 1,78.38,9,Men,18.6,18.6,17.8,17.1,18.4,8.3,8.2,Finals,2018,2018-Canada Cup 2,Final 1,0.0,MARTEL Devon - CAN
+PERSON Hayden - CAN - Canadian Selections 2 - 2018 - Qualification 1,71.03,16,Men,15.9,16.9,16.8,17.0,6.8,7.4,8.0,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,PERSON Hayden - CAN
+CHALIFOUX Louis David - CAN - Canada Cup 3 - 2018 - Final 1,71.36,11,Men,17.2,17.0,17.0,17.0,17.3,6.0,6.4,Finals,2018,2018-Canada Cup 3,Final 1,0.0,CHALIFOUX Louis David - CAN
+HIRAYAMA Shota - JPN - Canadian Selections 1 - 2018 - Qualification 2,13.37,41,Men,10.9,10.0,14.4,10.5,10.4,6.6,5.4,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,HIRAYAMA Shota - JPN
+CLOUTIER ASSELIN Felix - CAN - Canadian Championships - 2018 - Qualification 1,61.57,33,Men,15.8,15.8,16.0,16.2,15.7,7.2,6.9,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,CLOUTIER ASSELIN Felix - CAN
+MATTHEWS Aidan - CAN - Canada Cup 1 - 2018 - Qualification 1,49.86,35,Men,15.0,15.2,15.0,12.7,13.5,4.0,4.1,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,MATTHEWS Aidan - CAN
+MILLER CLARKE Reece - CAN - Canada Cup 1 - 2018 - Qualification 2,65.16,24,Men,14.8,14.0,15.4,16.9,15.4,7.7,7.5,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,MILLER CLARKE Reece - CAN
+GOODISON Samuel - CAN - Canadian Championships - 2018 - Qualification 1,47.46,34,Men,14.0,15.4,14.0,15.4,15.0,4.0,4.0,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,GOODISON Samuel - CAN
+JOHNSTON Parker - CAN - Canadian Selections 2 - 2018 - Qualification 1,36.43,38,Men,16.2,14.0,14.0,12.5,13.8,7.2,7.6,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,JOHNSTON Parker - CAN
+BELLUCCI Massimo - CAN - Canadian Championships - 2018 - Qualification 1,64.3,29,Men,16.0,15.4,15.9,15.2,15.4,5.2,5.1,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,BELLUCCI Massimo - CAN
+MAGA Joshua - CAN - Canada Cup 3 - 2018 - Qualification 2,53.04,20,Men,14.4,14.3,15.6,13.5,14.5,6.4,6.2,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,MAGA Joshua - CAN
+LAVOIE Alexandre - CAN - Canada Cup 2 - 2018 - Final 1,83.72,1,Men,18.7,18.4,18.6,18.5,18.4,8.1,7.9,Finals,2018,2018-Canada Cup 2,Final 1,0.0,LAVOIE Alexandre - CAN
+CAMIRE Vincent - CAN - Canada Cup 1 - 2018 - Qualification 2,41.47,46,Men,11.8,12.0,13.5,12.9,12.4,6.2,6.5,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,CAMIRE Vincent - CAN
+VAN DER MERWE Dylan - CAN - Canada Cup 1 - 2018 - Qualification 1,65.11,19,Men,15.4,16.2,15.0,15.6,16.2,6.1,6.9,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,VAN DER MERWE Dylan - CAN
+BESSEL Ben - CAN - Canada Cup 3 - 2018 - Qualification 2,43.36,29,Men,12.1,14.4,15.7,13.9,11.7,4.7,4.0,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,BESSEL Ben - CAN
+BESSEL Ben - CAN - Canada Cup 1 - 2018 - Qualification 1,51.01,33,Men,14.4,13.5,14.4,13.6,13.4,5.1,4.2,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,BESSEL Ben - CAN
+NADEAU Jean Christophe - CAN - Canadian Selections 1 - 2018 - Qualification 2,70.64,11,Men,15.8,16.9,16.6,17.4,16.8,9.1,8.9,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,NADEAU Jean Christophe - CAN
+VIEL Julien - CAN - Canadian Selections 1 - 2018 - Qualification 2,22.55,40,Men,12.2,13.7,14.5,14.2,13.4,0.0,0.0,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,VIEL Julien - CAN
+DUBUC Joey - CAN - Canada Cup 1 - 2018 - Qualification 2,60.46,31,Men,14.4,13.8,14.0,14.5,15.0,8.1,6.7,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,DUBUC Joey - CAN
+HONORE Pierre Henri - CAN - Canada Cup 2 - 2018 - Qualification 1,59.96,31,Men,13.8,12.6,14.2,14.4,14.4,7.0,7.0,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,HONORE Pierre Henri - CAN
+MYSKO Alex - CAN - Canada Cup 2 - 2018 - Qualification 1,15.17,53,Men,13.0,14.0,15.0,16.0,14.5,6.2,5.7,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,MYSKO Alex - CAN
+HURRY Conner - CAN - Canada Cup 2 - 2018 - Qualification 1,45.16,44,Men,13.8,11.9,12.0,11.5,11.8,5.8,5.9,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,HURRY Conner - CAN
+PERSON Hayden - CAN - Canada Cup 3 - 2018 - Qualification 1,75.25,2,Men,17.6,17.3,17.4,17.2,17.5,7.6,6.8,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,PERSON Hayden - CAN
+CLOUTIER ASSELIN Felix - CAN - Canadian Selections 1 - 2018 - Qualification 2,65.19,16,Men,15.8,15.8,15.9,15.2,14.8,6.4,7.3,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,CLOUTIER ASSELIN Felix - CAN
+NEISH Taye - CAN - Canada Cup 3 - 2018 - Qualification 2,42.11,30,Men,12.6,10.4,10.6,10.8,13.8,6.1,6.2,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,NEISH Taye - CAN
+DROUIN Xavier - CAN - Canada Cup 2 - 2018 - Qualification 1,62.13,30,Men,16.8,16.2,16.6,15.9,15.9,4.9,5.0,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,DROUIN Xavier - CAN
+TANNER Daniel - CAN - Canadian Championships - 2018 - Final 1,74.8,12,Men,16.8,16.5,16.2,15.8,16.9,8.3,8.3,Finals,2018,2018-Canadian Championships,Final 1,0.0,TANNER Daniel - CAN
+BOUCHER Frederic - CAN - Canada Cup 2 - 2018 - Qualification 1,64.27,26,Men,15.2,15.9,15.3,16.7,14.4,6.4,7.0,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,BOUCHER Frederic - CAN
+VIEL Julien - CAN - Canada Cup 1 - 2018 - Qualification 1,64.08,20,Men,17.8,17.1,15.5,17.0,17.4,7.8,7.6,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,VIEL Julien - CAN
+ANDISON Robbie - CAN - Canadian Championships - 2018 - Qualification 1,75.69,12,Men,17.0,16.8,16.6,17.5,16.7,8.3,7.9,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,ANDISON Robbie - CAN
+PHIPPS Koleton - CAN - Canadian Selections 1 - 2018 - Qualification 1,60.2,17,Men,13.6,15.0,15.8,13.5,14.0,6.2,6.7,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,PHIPPS Koleton - CAN
+NISHIZAWA Taketo - JPN - Canadian Selections 1 - 2018 - Qualification 1,64.91,12,Men,14.1,14.5,14.4,14.8,14.8,6.9,7.6,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,NISHIZAWA Taketo - JPN
+GAUTHIER Julien - CAN - Canada Cup 1 - 2018 - Qualification 1,72.48,9,Men,17.5,18.0,17.5,16.7,16.6,7.7,7.7,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,GAUTHIER Julien - CAN
+CLOUTIER Gabriel - CAN - Canada Cup 1 - 2018 - Qualification 1,78.94,2,Men,17.8,18.2,18.5,19.0,17.8,8.2,8.2,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,CLOUTIER Gabriel - CAN
+DOW Davis - CAN - Canada Cup 3 - 2018 - Qualification 1,48.04,30,Men,12.8,14.0,14.0,13.7,12.1,6.0,5.6,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,DOW Davis - CAN
+GOSSELIN Pier Alexandre - CAN - Canadian Selections 1 - 2018 - Qualification 2,56.47,28,Men,11.7,15.0,14.5,12.6,13.8,6.9,7.4,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,GOSSELIN Pier Alexandre - CAN
+DUFRESNE Gabriel - CAN - Canadian Championships - 2018 - Final 1,79.21,9,Men,17.5,17.8,17.7,17.4,17.2,9.0,8.9,Finals,2018,2018-Canadian Championships,Final 1,0.0,DUFRESNE Gabriel - CAN
+GOSSELIN Pier Alexandre - CAN - Canada Cup 1 - 2018 - Qualification 1,70.39,13,Men,16.0,15.5,17.2,16.4,16.8,7.9,8.0,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,GOSSELIN Pier Alexandre - CAN
+LESSARD Olivier - CAN - Canadian Selections 1 - 2018 - Qualification 1,6.1,41,Men,11.5,12.1,12.4,10.2,9.8,6.9,7.1,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,LESSARD Olivier - CAN
+GAGNON Thomas - CAN - Canadian Selections 1 - 2018 - Qualification 1,55.91,24,Men,14.9,16.0,16.4,14.5,15.0,6.8,7.4,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,GAGNON Thomas - CAN
+ULSIFER Luke - CAN - Canadian Championships - 2018 - Qualification 1,77.67,8,Men,17.1,16.8,16.7,16.8,17.3,7.5,7.9,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,ULSIFER Luke - CAN
+KAPRONCZAI Julian - CAN - Canada Cup 1 - 2018 - Qualification 1,68.54,14,Men,15.3,16.1,16.5,17.4,16.0,7.0,6.2,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,KAPRONCZAI Julian - CAN
+GUY TESSIER Olivier - CAN - Canadian Selections 2 - 2018 - Qualification 1,58.01,29,Men,14.4,14.2,13.9,16.0,14.9,6.6,6.0,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,GUY TESSIER Olivier - CAN
+FRECHETTE Christian - CAN - Canada Cup 2 - 2018 - Final 1,77.57,10,Men,18.4,18.3,18.0,17.3,17.4,8.1,8.1,Finals,2018,2018-Canada Cup 2,Final 1,0.0,FRECHETTE Christian - CAN
+HURRY Conner - CAN - Canada Cup 3 - 2018 - Qualification 1,47.19,31,Men,13.9,14.0,14.5,13.8,13.0,6.4,6.3,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,HURRY Conner - CAN
+LAVOIE Alexandre - CAN - Canada Cup 1 - 2018 - Qualification 2,82.85,1,Men,19.0,18.5,18.4,19.0,18.4,8.3,8.3,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,LAVOIE Alexandre - CAN
+VIEL Julien - CAN - Canada Cup 3 - 2018 - Qualification 2,27.54,37,Men,15.8,17.3,17.2,16.5,17.2,1.0,1.0,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,VIEL Julien - CAN
+CLOUTIER ASSELIN Felix - CAN - Canada Cup 1 - 2018 - Qualification 2,72.5,9,Men,16.5,16.2,16.6,16.8,17.2,8.0,7.7,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,CLOUTIER ASSELIN Felix - CAN
+IMBEAU Christophe - CAN - Canadian Championships - 2018 - Qualification 1,65.5,27,Men,16.5,15.4,15.7,16.4,15.8,5.6,6.0,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,IMBEAU Christophe - CAN
+KIMOTO Masahiro - JPN - Canadian Selections 2 - 2018 - Qualification 1,64.85,24,Men,17.0,15.9,14.4,14.0,14.6,5.7,5.7,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,KIMOTO Masahiro - JPN
+DUFFY Eric - CAN - Canada Cup 2 - 2018 - Final 1,63.41,20,Men,17.0,16.4,16.8,16.7,16.9,5.0,4.7,Finals,2018,2018-Canada Cup 2,Final 1,0.0,DUFFY Eric - CAN
+DESAUTELS Mats - CAN - Canada Cup 1 - 2018 - Qualification 1,74.22,6,Men,17.0,17.0,17.0,16.4,16.4,8.0,7.2,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,DESAUTELS Mats - CAN
+AGATSUMA Sora - JPN - Canadian Selections 2 - 2018 - Qualification 2,10.16,37,Men,10.6,11.6,13.9,13.5,13.8,5.9,5.0,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,AGATSUMA Sora - JPN
+JOHNSTON Parker - CAN - Canada Cup 2 - 2018 - Final 1,79.5,5,Men,18.4,17.5,18.4,17.4,18.2,7.7,7.6,Finals,2018,2018-Canada Cup 2,Final 1,0.0,JOHNSTON Parker - CAN
+LESSARD Olivier - CAN - Canadian Selections 2 - 2018 - Qualification 2,69.92,10,Men,17.4,17.1,15.5,14.0,16.4,7.1,6.8,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,LESSARD Olivier - CAN
+WOLFE Thomas - CAN - Canada Cup 1 - 2018 - Qualification 1,17.64,51,Men,14.6,12.5,13.3,14.3,11.8,7.1,6.3,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,WOLFE Thomas - CAN
+DESAUTELS Mats - CAN - Canada Cup 2 - 2018 - Qualification 1,70.15,15,Men,16.0,15.8,16.6,16.6,16.0,7.7,7.7,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,DESAUTELS Mats - CAN
+MURATA Yutaro - JPN - Canadian Selections 2 - 2018 - Qualification 1,71.59,12,Men,14.6,15.7,17.8,15.8,16.0,8.4,8.3,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,MURATA Yutaro - JPN
+ULSIFER Luke - CAN - Canadian Selections 1 - 2018 - Qualification 1,67.68,11,Men,16.7,15.5,15.7,15.2,15.3,7.0,7.3,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,ULSIFER Luke - CAN
+MILLER CLARKE Reece - CAN - Canada Cup 3 - 2018 - Qualification 1,67.68,13,Men,14.9,16.5,16.3,16.1,15.5,7.3,6.6,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,MILLER CLARKE Reece - CAN
+PHILLIPS Ethan - CAN - Canada Cup 3 - 2018 - Qualification 1,52.68,24,Men,14.7,12.8,12.0,11.1,16.2,6.3,7.8,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,PHILLIPS Ethan - CAN
+BOUCHER Frederic - CAN - Canada Cup 1 - 2018 - Qualification 1,16.36,52,Men,13.6,14.0,14.6,14.8,14.3,6.2,5.4,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,BOUCHER Frederic - CAN
+GANNON Daniel - CAN - Canada Cup 3 - 2018 - Qualification 2,41.11,32,Men,12.0,12.1,13.6,12.7,12.4,4.3,4.1,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,GANNON Daniel - CAN
+KELLY Brenden - CAN - Canadian Selections 1 - 2018 - Qualification 1,78.13,3,Men,18.3,17.9,17.1,18.2,17.5,7.9,7.2,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,KELLY Brenden - CAN
+CLOUTIER ASSELIN Felix - CAN - Canada Cup 1 - 2018 - Qualification 1,47.62,38,Men,17.0,16.9,16.6,16.7,18.0,7.8,7.0,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,CLOUTIER ASSELIN Felix - CAN
+ANDISON Robbie - CAN - Canadian Selections 2 - 2018 - Qualification 1,80.3,3,Men,18.6,18.6,18.4,19.0,17.8,8.8,8.3,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,ANDISON Robbie - CAN
+MILLER CLARKE Reece - CAN - Canada Cup 3 - 2018 - Final 1,64.31,15,Men,15.9,16.2,15.5,15.6,15.0,6.4,6.6,Finals,2018,2018-Canada Cup 3,Final 1,0.0,MILLER CLARKE Reece - CAN
+NEISH Taye - CAN - Canada Cup 1 - 2018 - Qualification 2,53.0,39,Men,13.2,12.9,14.2,13.7,14.8,7.0,6.8,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,NEISH Taye - CAN
+DUBUC Joey - CAN - Canada Cup 1 - 2018 - Qualification 1,21.34,48,Men,17.2,16.4,13.4,13.3,16.0,7.5,7.5,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,DUBUC Joey - CAN
+PHIPPS Koleton - CAN - Canadian Selections 2 - 2018 - Qualification 1,65.2,23,Men,13.9,15.2,15.9,15.8,15.8,6.1,7.1,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,PHIPPS Koleton - CAN
+NADEAU Jean Christophe - CAN - Canadian Selections 2 - 2018 - Qualification 2,66.54,16,Men,16.0,17.5,16.0,16.3,16.0,8.1,7.8,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,NADEAU Jean Christophe - CAN
+GAGNON Thomas - CAN - Canadian Selections 2 - 2018 - Qualification 2,53.23,31,Men,14.4,14.3,15.9,13.9,13.5,5.7,6.0,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,GAGNON Thomas - CAN
+VIEL Julien - CAN - Canada Cup 2 - 2018 - Qualification 1,75.38,7,Men,17.8,17.9,16.8,16.9,17.8,7.8,7.1,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,VIEL Julien - CAN
+DURHAM Joseph - CAN - Canada Cup 3 - 2018 - Final 1,71.64,9,Men,17.9,17.4,17.1,17.2,17.0,7.6,6.9,Finals,2018,2018-Canada Cup 3,Final 1,0.0,DURHAM Joseph - CAN
+DUFFY Eric - CAN - Canadian Selections 1 - 2018 - Qualification 1,53.4,27,Men,14.4,14.7,14.9,13.6,13.6,6.5,7.9,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,DUFFY Eric - CAN
+CLOUTIER Gabriel - CAN - Canadian Championships - 2018 - Final 1,81.05,6,Men,17.2,16.9,16.3,17.5,17.1,9.6,9.5,Finals,2018,2018-Canadian Championships,Final 1,0.0,CLOUTIER Gabriel - CAN
+DESAUTELS Mats - CAN - Canada Cup 3 - 2018 - Qualification 2,73.66,3,Men,17.3,17.5,17.3,17.3,17.7,7.8,6.8,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,DESAUTELS Mats - CAN
+NGUYEN Matthew - CAN - Canada Cup 1 - 2018 - Qualification 1,41.58,42,Men,11.8,12.0,13.8,12.1,12.0,6.1,6.0,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,NGUYEN Matthew - CAN
+RICE Lewis - CAN - Canada Cup 3 - 2018 - Qualification 2,17.48,40,Men,14.9,14.7,14.2,13.5,16.0,6.1,6.2,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,RICE Lewis - CAN
+NADON Benjamin - CAN - Canada Cup 1 - 2018 - Qualification 2,68.46,18,Men,14.8,15.4,16.2,15.5,16.0,7.6,7.9,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,NADON Benjamin - CAN
+KURODA Brayden - CAN - Canada Cup 3 - 2018 - Qualification 2,71.84,5,Men,17.0,16.6,17.4,17.2,17.5,5.9,5.0,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,KURODA Brayden - CAN
+JOHNSTON Parker - CAN - Canada Cup 3 - 2018 - Qualification 2,71.84,4,Men,16.6,17.3,17.3,17.0,17.2,7.6,7.0,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,JOHNSTON Parker - CAN
+FRECHETTE Christian - CAN - Canadian Selections 1 - 2018 - Qualification 2,60.39,22,Men,15.1,14.4,14.3,14.6,14.8,7.7,7.5,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,FRECHETTE Christian - CAN
+GREANYA Aiden - CAN - Canada Cup 3 - 2018 - Qualification 2,37.2,33,Men,12.4,11.1,11.0,10.5,10.7,7.0,7.3,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,GREANYA Aiden - CAN
+JOHNSTON Parker - CAN - Canada Cup 3 - 2018 - Final 1,77.82,1,Men,19.2,17.9,17.6,17.8,17.8,6.3,6.2,Finals,2018,2018-Canada Cup 3,Final 1,0.0,JOHNSTON Parker - CAN
+THIBAULT Olivier - CAN - Canada Cup 3 - 2018 - Qualification 1,66.73,16,Men,14.2,14.8,15.2,15.4,16.0,7.3,7.6,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,THIBAULT Olivier - CAN
+DURHAM Joseph - CAN - Canadian Selections 1 - 2018 - Qualification 1,30.28,35,Men,10.7,12.9,13.0,8.5,11.0,7.3,7.6,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,DURHAM Joseph - CAN
+MARTEL Devon - CAN - Canadian Selections 2 - 2018 - Qualification 2,58.44,26,Men,14.1,14.3,14.8,14.0,14.5,6.8,6.1,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,MARTEL Devon - CAN
+MARTINEAU Nicolas - CAN - Canada Cup 1 - 2018 - Qualification 1,70.75,12,Men,16.6,15.0,16.4,15.9,15.9,8.1,8.0,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,MARTINEAU Nicolas - CAN
+GREANYA Aiden - CAN - Canada Cup 3 - 2018 - Qualification 1,39.19,33,Men,12.8,11.7,11.8,11.3,10.6,5.0,4.1,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,GREANYA Aiden - CAN
+CAMPEAU Nicolas - CAN - Canada Cup 3 - 2018 - Final 1,68.41,12,Men,16.3,15.1,16.0,16.1,16.0,6.6,6.2,Finals,2018,2018-Canada Cup 3,Final 1,0.0,CAMPEAU Nicolas - CAN
+MARTINEAU Nicolas - CAN - Canada Cup 1 - 2018 - Qualification 2,73.82,7,Men,17.2,16.9,16.9,16.9,17.0,7.1,7.0,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,MARTINEAU Nicolas - CAN
+CHUNLAUD Kerrian - CAN - Canadian Championships - 2018 - Final 1,83.53,3,Men,17.7,17.3,17.6,17.5,17.3,9.4,8.6,Finals,2018,2018-Canadian Championships,Final 1,0.0,CHUNLAUD Kerrian - CAN
+CASHMORE Cole - CAN - Canada Cup 1 - 2018 - Qualification 2,34.82,49,Men,10.8,10.6,12.0,11.5,12.8,5.2,5.3,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,CASHMORE Cole - CAN
+VIEL Julien - CAN - Canada Cup 1 - 2018 - Qualification 2,72.06,10,Men,17.2,16.2,16.8,16.6,17.0,7.8,7.9,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,VIEL Julien - CAN
+NADON Benjamin - CAN - Canada Cup 2 - 2018 - Qualification 1,67.05,22,Men,15.0,14.0,15.3,15.0,16.0,7.7,7.7,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,NADON Benjamin - CAN
+CORDELL Sam - CAN - Canada Cup 3 - 2018 - Qualification 1,67.93,12,Men,16.0,14.0,17.3,15.5,16.8,5.5,5.0,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,CORDELL Sam - CAN
+NADEAU Jean  Christophe - CAN - Canada Cup 2 - 2018 - Final 1,82.26,2,Men,18.3,18.7,18.6,18.8,18.6,8.0,7.9,Finals,2018,2018-Canada Cup 2,Final 1,0.0,NADEAU Jean  Christophe - CAN
+GAUTHIER Julien - CAN - Canadian Championships - 2018 - Qualification 1,67.21,22,Men,16.1,15.5,16.1,15.5,15.8,6.1,6.4,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,GAUTHIER Julien - CAN
+HENDERSON Alexander - CAN - Canada Cup 3 - 2018 - Qualification 2,50.2,24,Men,13.2,14.0,14.2,13.8,11.8,6.9,6.2,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,HENDERSON Alexander - CAN
+IMBEAU Christophe - CAN - Canadian Selections 2 - 2018 - Qualification 2,64.87,19,Men,14.1,16.2,16.4,16.6,16.5,7.9,7.4,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,IMBEAU Christophe - CAN
+TANNER Marc - CAN - Canada Cup 3 - 2018 - Qualification 2,64.87,16,Men,16.1,16.1,15.9,16.0,14.6,4.0,3.8,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,TANNER Marc - CAN
+WOLFE Thomas - CAN - Canada Cup 1 - 2018 - Qualification 2,38.94,48,Men,12.5,13.5,13.0,12.8,10.9,5.6,5.9,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,WOLFE Thomas - CAN
+CLOUTIER Gabriel - CAN - Canada Cup 2 - 2018 - Qualification 1,28.21,51,Men,17.8,17.0,18.3,18.5,17.0,8.1,7.5,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,CLOUTIER Gabriel - CAN
+GUY TESSIER Olivier - CAN - Canada Cup 1 - 2018 - Qualification 1,41.41,43,Men,16.5,15.5,17.6,16.2,17.8,1.1,1.1,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,GUY TESSIER Olivier - CAN
+FRECHETTE Christian - CAN - Canada Cup 1 - 2018 - Qualification 2,74.35,6,Men,17.6,18.0,17.8,17.3,18.0,8.1,8.0,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,FRECHETTE Christian - CAN
+LESSARD Olivier - CAN - Canada Cup 2 - 2018 - Qualification 1,74.35,9,Men,17.2,17.4,18.5,18.4,17.4,6.2,6.0,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,LESSARD Olivier - CAN
+VAN DER MERWE Dylan - CAN - Canada Cup 2 - 2018 - Qualification 1,59.73,32,Men,16.8,16.3,15.0,14.7,16.5,5.6,4.9,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,VAN DER MERWE Dylan - CAN
+LESSARD Olivier - CAN - Canada Cup 1 - 2018 - Qualification 1,77.21,3,Men,17.8,18.3,18.2,17.4,18.0,7.8,7.6,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,LESSARD Olivier - CAN
+MURATA Yutaro - JPN - Canadian Selections 1 - 2018 - Qualification 1,78.27,1,Men,18.8,18.1,18.8,17.8,17.8,7.8,8.1,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,MURATA Yutaro - JPN
+LAVOIE Alexandre - CAN - Canadian Selections 1 - 2018 - Qualification 1,78.27,2,Men,18.6,17.6,16.5,17.4,16.5,8.9,8.2,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,LAVOIE Alexandre - CAN
+BESSEL Ben - CAN - Canada Cup 2 - 2018 - Qualification 1,55.39,35,Men,12.8,12.8,14.8,15.2,14.5,6.8,6.8,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,BESSEL Ben - CAN
+THIBAULT Olivier - CAN - Canadian Selections 1 - 2018 - Qualification 1,47.99,33,Men,11.1,13.8,13.4,14.5,13.8,3.4,3.9,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,THIBAULT Olivier - CAN
+PHILLIPS Ethan - CAN - Canadian Selections 2 - 2018 - Qualification 1,37.59,37,Men,12.6,13.0,13.2,14.0,13.0,7.2,7.0,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,PHILLIPS Ethan - CAN
+IMBEAU Christophe - CAN - Canadian Selections 1 - 2018 - Qualification 2,55.15,31,Men,14.1,14.7,14.4,12.8,13.5,6.9,7.1,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,IMBEAU Christophe - CAN
+RAMSAY Max - CAN - Canada Cup 1 - 2018 - Qualification 2,59.41,32,Men,13.8,13.8,15.0,14.0,16.0,6.0,6.8,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,RAMSAY Max - CAN
+MYSKO Alex - CAN - Canada Cup 1 - 2018 - Qualification 1,57.02,30,Men,14.5,14.2,14.2,14.3,14.4,7.2,6.9,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,MYSKO Alex - CAN
+BESSEL Ben - CAN - Canada Cup 3 - 2018 - Qualification 1,52.13,26,Men,13.4,14.6,15.8,14.3,13.0,6.1,6.2,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,BESSEL Ben - CAN
+CHARRON Mattis - CAN - Canada Cup 1 - 2018 - Qualification 2,63.37,26,Men,15.5,15.7,16.2,15.9,16.8,7.1,7.0,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,CHARRON Mattis - CAN
+CHARRON Mattis - CAN - Canada Cup 2 - 2018 - Qualification 1,63.37,28,Men,15.8,14.6,15.9,15.8,14.6,7.3,7.2,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,CHARRON Mattis - CAN
+THIBAULT Olivier - CAN - Canada Cup 1 - 2018 - Qualification 1,49.92,34,Men,16.5,16.0,13.6,16.0,16.4,8.2,8.3,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,THIBAULT Olivier - CAN
+FRECHETTE Christian - CAN - Canadian Selections 1 - 2018 - Qualification 1,53.38,28,Men,13.7,13.6,13.7,13.6,13.8,6.1,5.4,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,FRECHETTE Christian - CAN
+WOLFE Thomas - CAN - Canada Cup 2 - 2018 - Qualification 1,46.95,43,Men,13.6,12.5,13.0,13.0,11.2,6.3,6.1,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,WOLFE Thomas - CAN
+PARSONS Jackson - CAN - Canadian Selections 1 - 2018 - Qualification 2,48.6,37,Men,13.3,13.4,13.8,12.0,12.5,6.8,6.4,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,PARSONS Jackson - CAN
+DESAUTELS Mats - CAN - Canada Cup 2 - 2018 - Final 1,14.73,23,Men,13.8,15.6,16.0,15.9,13.0,7.9,7.9,Finals,2018,2018-Canada Cup 2,Final 1,0.0,DESAUTELS Mats - CAN
+PARSONS Nathan - CAN - Canada Cup 3 - 2018 - Qualification 2,31.43,35,Men,11.6,11.3,14.0,11.4,10.6,6.0,6.6,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,PARSONS Nathan - CAN
+CHARRON Mattis - CAN - Canada Cup 1 - 2018 - Qualification 1,61.73,24,Men,15.9,16.0,15.2,15.8,14.8,7.3,7.3,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,CHARRON Mattis - CAN
+KOYAMA Takashi - JPN - Canadian Selections 2 - 2018 - Qualification 1,75.51,8,Men,17.9,18.1,15.9,16.0,17.9,7.1,7.4,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,KOYAMA Takashi - JPN
+LAVOIE Alexandre - CAN - Canada Cup 2 - 2018 - Qualification 1,83.04,1,Men,19.5,18.3,18.0,18.3,18.4,8.3,8.0,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,LAVOIE Alexandre - CAN
+MARTEL Devon - CAN - Canadian Selections 1 - 2018 - Qualification 2,59.24,23,Men,15.9,16.0,16.6,15.8,16.0,6.1,6.2,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,MARTEL Devon - CAN
+JOOSTEN Matt - CAN - Canadian Selections 1 - 2018 - Qualification 1,59.24,18,Men,16.4,13.5,13.2,15.0,13.8,7.0,6.4,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,JOOSTEN Matt - CAN
+CLOWATER Dylan - CAN - Canada Cup 1 - 2018 - Qualification 2,33.69,50,Men,13.0,13.2,12.6,12.3,11.0,5.0,5.1,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,CLOWATER Dylan - CAN
+RICE Lewis - CAN - Canada Cup 1 - 2018 - Qualification 1,20.17,49,Men,14.5,16.0,14.0,13.2,15.8,6.0,5.5,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,RICE Lewis - CAN
+DAWSON Quinn - CAN - Canada Cup 2 - 2018 - Qualification 1,58.3,33,Men,16.0,16.0,16.7,16.2,15.4,6.0,5.2,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,DAWSON Quinn - CAN
+JOHNSTON Parker - CAN - Canadian Selections 1 - 2018 - Qualification 2,68.16,14,Men,15.6,16.2,17.0,14.5,15.8,8.4,8.2,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,JOHNSTON Parker - CAN
+LEMIEUX Simon - CAN - Canadian Championships - 2018 - Final 1,80.81,7,Men,16.9,17.0,17.3,17.2,17.7,6.6,6.6,Finals,2018,2018-Canadian Championships,Final 1,0.0,LEMIEUX Simon - CAN
+DUBUC Jeremy - CAN - Canada Cup 1 - 2018 - Qualification 2,65.43,23,Men,15.6,15.8,16.0,15.4,16.5,7.4,7.9,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,DUBUC Jeremy - CAN
+GERLE Avery - CAN - Canada Cup 3 - 2018 - Qualification 1,52.92,22,Men,13.6,14.4,15.0,14.2,13.6,6.3,6.6,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,GERLE Avery - CAN
+BERTRAND Felix - CAN - Canada Cup 2 - 2018 - Qualification 1,74.4,8,Men,17.2,16.8,16.4,15.9,16.8,8.5,8.7,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,BERTRAND Felix - CAN
+KAPRONCZAI Julian - CAN - Canada Cup 3 - 2018 - Qualification 2,76.37,1,Men,17.7,17.6,17.4,17.6,18.1,6.5,6.2,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,KAPRONCZAI Julian - CAN
+KAPRONCZAI Julian - CAN - Canadian Selections 1 - 2018 - Qualification 2,71.53,10,Men,16.9,16.8,16.3,15.5,16.5,7.3,6.7,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,KAPRONCZAI Julian - CAN
+HONORE Pierre Henri - CAN - Canada Cup 1 - 2018 - Qualification 2,55.93,36,Men,12.0,12.2,15.8,13.6,14.8,7.0,6.0,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,HONORE Pierre Henri - CAN
+DAWSON Quinn - CAN - Canada Cup 3 - 2018 - Qualification 1,63.9,18,Men,16.1,14.9,15.8,14.9,16.3,7.5,7.1,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,DAWSON Quinn - CAN
+FRECHETTE Christian - CAN - Canada Cup 3 - 2018 - Qualification 2,69.62,8,Men,16.5,16.4,16.3,16.4,14.9,7.3,6.8,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,FRECHETTE Christian - CAN
+NGUYEN Jason - CAN - Canada Cup 2 - 2018 - Qualification 1,63.69,27,Men,15.8,16.2,15.8,15.9,16.5,8.0,8.0,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,NGUYEN Jason - CAN
+NEISH Taye - CAN - Canada Cup 1 - 2018 - Qualification 1,56.3,31,Men,14.5,14.8,14.3,13.1,15.0,7.4,7.2,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,NEISH Taye - CAN
+CORDELL Sam - CAN - Canadian Selections 1 - 2018 - Qualification 2,65.4,15,Men,17.8,15.9,15.7,15.9,15.5,8.5,7.9,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,CORDELL Sam - CAN
+JOOSTEN Matt - CAN - Canadian Championships - 2018 - Qualification 1,66.03,25,Men,15.4,15.7,15.4,15.6,15.7,2.8,2.8,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,JOOSTEN Matt - CAN
+CHALIFOUX Louis David - CAN - Canada Cup 3 - 2018 - Qualification 2,68.66,11,Men,17.3,17.3,16.8,16.9,17.4,6.6,6.2,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,CHALIFOUX Louis David - CAN
+VAN DONGEN Oscar - CAN - Canada Cup 3 - 2018 - Qualification 2,48.98,27,Men,12.3,13.8,14.4,13.7,14.5,7.1,7.7,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,VAN DONGEN Oscar - CAN
+THIBAULT Olivier - CAN - Canada Cup 2 - 2018 - Qualification 1,7.37,55,Men,12.5,10.5,15.0,15.2,12.0,6.1,6.0,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,THIBAULT Olivier - CAN
+CORDELL Sam - CAN - Canadian Selections 2 - 2018 - Qualification 1,67.75,20,Men,17.8,15.8,15.8,17.0,16.0,8.6,8.5,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,CORDELL Sam - CAN
+VAILLANCOURT Elliot - CAN - Canadian Championships - 2018 - Qualification 1,76.2,10,Men,15.8,16.4,17.6,18.0,16.3,8.1,7.8,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,VAILLANCOURT Elliot - CAN
+KAPRONCZAI Julian - CAN - Canada Cup 2 - 2018 - Qualification 1,76.2,6,Men,18.0,18.8,18.0,18.0,18.0,6.9,6.6,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,KAPRONCZAI Julian - CAN
+KOIWA Kai - JPN - Canadian Selections 1 - 2018 - Qualification 2,58.39,27,Men,12.9,13.0,12.8,15.2,13.8,7.4,7.3,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,KOIWA Kai - JPN
+THIVIERGE Charles  Olivier - CAN - Canada Cup 1 - 2018 - Qualification 1,59.02,26,Men,15.6,16.2,14.0,16.0,16.0,5.9,6.1,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,THIVIERGE Charles  Olivier - CAN
+PORTELLO Ryan - CAN - Canadian Selections 1 - 2018 - Qualification 1,56.91,22,Men,14.3,13.6,13.3,12.5,13.0,5.9,6.4,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,PORTELLO Ryan - CAN
+VAN DONGEN Oscar - CAN - Canada Cup 3 - 2018 - Qualification 1,54.22,21,Men,15.0,13.9,14.4,14.3,14.0,8.0,7.2,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,VAN DONGEN Oscar - CAN
+LESSARD Olivier - CAN - Canada Cup 2 - 2018 - Final 1,79.43,6,Men,18.6,18.2,18.6,18.4,18.5,6.8,6.7,Finals,2018,2018-Canada Cup 2,Final 1,0.0,LESSARD Olivier - CAN
+BELLUCCI Massimo - CAN - Canadian Selections 1 - 2018 - Qualification 1,58.29,21,Men,14.2,14.3,14.4,12.8,14.3,6.7,6.1,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,BELLUCCI Massimo - CAN
+VAILLANCOURT Elliot - CAN - Canadian Selections 2 - 2018 - Qualification 2,74.31,5,Men,18.3,18.2,16.3,17.4,17.2,6.0,6.2,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,VAILLANCOURT Elliot - CAN
+LESSARD Olivier - CAN - Canadian Selections 1 - 2018 - Qualification 2,68.5,13,Men,16.2,17.0,17.2,15.8,16.8,6.5,6.4,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,LESSARD Olivier - CAN
+FRECHETTE Christian - CAN - Canada Cup 3 - 2018 - Qualification 1,23.25,39,Men,16.0,15.8,16.3,15.7,15.4,7.9,8.4,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,FRECHETTE Christian - CAN
+GAUTHIER Julien - CAN - Canada Cup 2 - 2018 - Final 1,77.06,11,Men,17.8,17.5,18.4,18.0,17.9,7.1,7.8,Finals,2018,2018-Canada Cup 2,Final 1,0.0,GAUTHIER Julien - CAN
+CAMPEAU Nicolas - CAN - Canadian Selections 2 - 2018 - Qualification 1,61.36,26,Men,14.3,14.8,16.0,13.8,15.0,7.6,7.5,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,CAMPEAU Nicolas - CAN
+GERLE Avery - CAN - Canada Cup 3 - 2018 - Qualification 2,52.29,21,Men,13.4,13.1,13.8,13.2,13.7,7.6,7.0,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,GERLE Avery - CAN
+IMBEAU Christophe - CAN - Canada Cup 1 - 2018 - Qualification 2,44.22,44,Men,15.6,15.5,14.1,16.0,15.0,7.9,7.2,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,IMBEAU Christophe - CAN
+BERTRAND Felix - CAN - Canadian Selections 2 - 2018 - Qualification 1,30.97,39,Men,12.2,15.0,15.1,15.9,14.8,7.9,7.9,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,BERTRAND Felix - CAN
+TREMBLAY Alexis - CAN - Canada Cup 1 - 2018 - Qualification 1,58.32,27,Men,15.0,14.9,14.6,15.6,15.2,7.5,7.1,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,TREMBLAY Alexis - CAN
+CHUNLAUD Kerrian - CAN - Canadian Championships - 2018 - Qualification 1,79.47,6,Men,16.5,16.5,17.9,17.8,16.6,8.7,8.0,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,CHUNLAUD Kerrian - CAN
+TANNER Marc - CAN - Canadian Selections 2 - 2018 - Qualification 1,57.73,30,Men,13.9,14.2,13.8,15.2,15.0,5.4,4.9,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,TANNER Marc - CAN
+GREANYA Aiden - CAN - Canada Cup 1 - 2018 - Qualification 1,11.16,53,Men,12.8,12.5,12.5,12.0,12.0,3.8,4.0,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,GREANYA Aiden - CAN
+JOHNSTON Parker - CAN - Canadian Selections 2 - 2018 - Qualification 2,65.79,17,Men,13.9,15.0,16.0,14.3,15.8,7.3,6.7,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,JOHNSTON Parker - CAN
+CAMPEAU Nicolas - CAN - Canadian Championships - 2018 - Qualification 1,65.79,26,Men,16.2,15.3,15.3,15.7,15.9,5.2,6.0,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,CAMPEAU Nicolas - CAN
+KIMOTO Masahiro - JPN - Canadian Selections 1 - 2018 - Qualification 2,63.22,18,Men,13.7,15.5,15.4,13.5,14.9,6.1,5.7,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,KIMOTO Masahiro - JPN
+DURHAM Joseph - CAN - Canadian Selections 1 - 2018 - Qualification 2,58.54,25,Men,14.4,15.3,15.9,14.0,15.0,6.5,7.1,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,DURHAM Joseph - CAN
+AGATSUMA Sora - JPN - Canadian Selections 1 - 2018 - Qualification 2,46.24,38,Men,10.2,11.5,11.3,10.2,10.8,7.8,7.8,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,AGATSUMA Sora - JPN
+JOHNSTON Parker - CAN - Canada Cup 2 - 2018 - Qualification 1,77.19,5,Men,18.8,18.2,17.6,16.9,17.9,6.8,5.9,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,JOHNSTON Parker - CAN
+DELISLE Simon - CAN - Canada Cup 1 - 2018 - Qualification 2,53.68,38,Men,13.0,12.9,15.6,15.2,14.4,7.0,6.6,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,DELISLE Simon - CAN
+VIEL Julien - CAN - Canada Cup 3 - 2018 - Qualification 1,73.25,5,Men,17.0,17.6,17.1,17.0,17.5,8.2,7.8,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,VIEL Julien - CAN
+GUY TESSIER Olivier - CAN - Canada Cup 2 - 2018 - Qualification 1,79.37,2,Men,18.8,18.0,18.2,18.4,18.1,8.0,7.7,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,GUY TESSIER Olivier - CAN
+DROUIN Xavier - CAN - Canada Cup 1 - 2018 - Qualification 2,66.45,22,Men,16.2,17.2,16.8,15.9,16.7,6.2,6.1,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,DROUIN Xavier - CAN
+BELLUCCI Massimo - CAN - Canadian Selections 1 - 2018 - Qualification 2,54.48,32,Men,13.6,13.9,15.5,12.4,14.0,7.0,7.0,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,BELLUCCI Massimo - CAN
+VAN DER MERWE Dylan - CAN - Canada Cup 1 - 2018 - Qualification 2,62.73,28,Men,16.0,16.2,15.8,16.2,16.8,4.5,5.0,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,VAN DER MERWE Dylan - CAN
+TREMBLAY Alexis - CAN - Canada Cup 2 - 2018 - Qualification 1,28.62,50,Men,12.8,13.3,14.0,14.0,13.4,3.8,2.1,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,TREMBLAY Alexis - CAN
+IMBEAU Christophe - CAN - Canadian Selections 1 - 2018 - Qualification 1,55.51,25,Men,14.9,15.8,15.3,13.9,15.5,6.4,6.1,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,IMBEAU Christophe - CAN
+ANDISON Robbie - CAN - Canadian Selections 1 - 2018 - Qualification 1,73.55,6,Men,17.0,17.0,16.5,16.8,17.2,7.4,8.0,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,ANDISON Robbie - CAN
+JOHNSTON Parker - CAN - Canada Cup 1 - 2018 - Qualification 2,73.55,8,Men,17.6,17.9,18.0,17.0,17.8,8.1,8.2,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,JOHNSTON Parker - CAN
+KOIWA Kai - JPN - Canadian Selections 2 - 2018 - Qualification 1,66.38,21,Men,14.3,14.1,14.4,15.6,15.9,7.8,7.4,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,KOIWA Kai - JPN
+GOSSELIN Pier Alexandre - CAN - Canada Cup 2 - 2018 - Qualification 1,68.67,19,Men,14.5,15.5,16.3,16.3,16.6,7.8,7.8,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,GOSSELIN Pier Alexandre - CAN
+BETY Marc Antoine - CAN - Canada Cup 2 - 2018 - Qualification 1,78.71,3,Men,18.5,18.3,18.0,18.2,17.8,7.8,7.7,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,BETY Marc Antoine - CAN
+IMBEAU Christophe - CAN - Canada Cup 1 - 2018 - Qualification 1,43.75,41,Men,15.8,15.0,14.2,15.9,15.1,7.9,7.9,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,IMBEAU Christophe - CAN
+BOUCHER Frederic - CAN - Canada Cup 1 - 2018 - Qualification 2,58.64,33,Men,15.2,12.6,14.2,14.4,14.2,6.5,6.8,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,BOUCHER Frederic - CAN
+PHIPPS Koleton - CAN - Canadian Selections 2 - 2018 - Qualification 2,58.18,27,Men,14.7,14.4,14.5,13.8,15.0,5.6,6.3,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,PHIPPS Koleton - CAN
+LESSARD Olivier - CAN - Canadian Championships - 2018 - Final 1,58.18,13,Men,15.0,14.5,13.5,14.2,14.1,9.2,8.7,Finals,2018,2018-Canadian Championships,Final 1,0.0,LESSARD Olivier - CAN
+DELISLE Simon - CAN - Canada Cup 2 - 2018 - Qualification 1,32.61,49,Men,11.0,10.5,10.8,11.8,11.0,5.5,5.3,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,DELISLE Simon - CAN
+CLOWATER Dylan - CAN - Canada Cup 1 - 2018 - Qualification 1,32.5,45,Men,12.2,13.0,12.9,12.7,11.6,6.9,7.1,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,CLOWATER Dylan - CAN
+CAMPEAU Nicolas - CAN - Canadian Selections 1 - 2018 - Qualification 2,29.12,39,Men,10.1,12.5,13.0,11.5,11.8,7.0,7.6,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,CAMPEAU Nicolas - CAN
+CASHMORE Cole - CAN - Canada Cup 2 - 2018 - Qualification 1,42.71,45,Men,12.6,12.3,11.2,12.8,10.5,6.9,6.2,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,CASHMORE Cole - CAN
+DURHAM Joseph - CAN - Canada Cup 3 - 2018 - Qualification 2,69.24,9,Men,16.6,17.1,17.4,16.0,16.5,6.8,7.1,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,DURHAM Joseph - CAN
+ULSIFER Luke - CAN - Canadian Selections 2 - 2018 - Qualification 1,80.53,2,Men,18.3,18.2,18.2,18.1,17.9,8.2,8.2,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,ULSIFER Luke - CAN
+BOBYN George - CAN - Canada Cup 3 - 2018 - Qualification 2,31.48,34,Men,10.3,10.7,10.3,10.1,12.1,5.3,5.0,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,BOBYN George - CAN
+VIEL Julien - CAN - Canada Cup 2 - 2018 - Final 1,75.04,15,Men,18.4,18.0,17.2,18.3,18.0,7.6,7.4,Finals,2018,2018-Canada Cup 2,Final 1,0.0,VIEL Julien - CAN
+BOBYN George - CAN - Canada Cup 3 - 2018 - Qualification 1,31.72,36,Men,9.9,11.1,11.3,10.9,12.0,4.9,4.6,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,BOBYN George - CAN
+GOSSELIN Pier Alexandre - CAN - Canadian Selections 1 - 2018 - Qualification 1,12.19,39,Men,10.5,10.1,11.0,11.0,9.8,7.8,7.3,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,GOSSELIN Pier Alexandre - CAN
+JOHNSTON Parker - CAN - Canada Cup 3 - 2018 - Qualification 1,74.76,3,Men,17.4,17.7,17.6,17.5,17.1,7.4,6.2,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,JOHNSTON Parker - CAN
+CAMPEAU Nicolas - CAN - Canadian Selections 1 - 2018 - Qualification 1,58.46,20,Men,12.6,13.7,13.9,13.9,13.9,7.1,7.4,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,CAMPEAU Nicolas - CAN
+RETZER Mathew - CZE - Canadian Championships - 2018 - Qualification 1,69.71,19,Men,15.0,15.1,15.8,15.6,16.0,5.1,6.0,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,RETZER Mathew - CZE
+KELLY Brenden - CAN - Canadian Selections 2 - 2018 - Qualification 1,82.52,1,Men,18.9,19.0,16.7,18.8,17.8,8.8,8.4,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,KELLY Brenden - CAN
+PERSON Hayden - CAN - Canadian Selections 2 - 2018 - Qualification 2,72.58,7,Men,17.0,17.4,17.6,16.2,17.6,7.0,6.1,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,PERSON Hayden - CAN
+NISHIZAWA Taketo - JPN - Canadian Selections 2 - 2018 - Qualification 2,66.79,15,Men,17.7,16.0,15.4,15.2,15.5,7.9,7.4,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,NISHIZAWA Taketo - JPN
+TANNER Daniel - CAN - Canadian Selections 1 - 2018 - Qualification 2,73.85,8,Men,17.0,17.8,17.3,18.0,17.2,6.8,6.8,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,TANNER Daniel - CAN
+TANNER Daniel - CAN - Canadian Championships - 2018 - Qualification 1,73.85,13,Men,16.7,16.0,17.4,17.2,16.0,7.8,7.0,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,TANNER Daniel - CAN
+CLOUTIER ASSELIN Felix - CAN - Canada Cup 2 - 2018 - Final 1,76.84,12,Men,17.6,17.5,18.2,17.3,17.6,6.0,6.8,Finals,2018,2018-Canada Cup 2,Final 1,0.0,CLOUTIER ASSELIN Felix - CAN
+PORTELLO Ryan - CAN - Canadian Championships - 2018 - Qualification 1,76.76,9,Men,16.9,16.2,15.9,16.6,16.7,6.6,7.1,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,PORTELLO Ryan - CAN
+CLOUTIER Gabriel - CAN - Canada Cup 1 - 2018 - Qualification 2,71.32,13,Men,17.5,17.5,18.6,18.5,17.5,7.9,7.8,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,CLOUTIER Gabriel - CAN
+KIMOTO Masahiro - JPN - Canadian Selections 2 - 2018 - Qualification 2,61.65,21,Men,15.6,16.1,13.9,12.5,13.0,5.8,5.0,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,KIMOTO Masahiro - JPN
+PERSON Hayden - CAN - Canadian Championships - 2018 - Qualification 1,66.57,23,Men,16.4,15.6,15.5,15.6,15.6,5.6,5.0,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,PERSON Hayden - CAN
+DURHAM Joseph - CAN - Canada Cup 3 - 2018 - Qualification 1,17.71,40,Men,13.9,13.9,15.1,14.1,14.4,5.6,5.1,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,DURHAM Joseph - CAN
+DUMAIS Laurent - CAN - Canadian Championships - 2018 - Final 1,81.55,5,Men,17.8,17.5,17.2,16.9,17.5,9.3,9.0,Finals,2018,2018-Canadian Championships,Final 1,0.0,DUMAIS Laurent - CAN
+ERB BEAUCHAMP - CAN - Canada Cup 3 - 2018 - Qualification 1,27.47,38,Men,9.9,10.1,11.0,10.2,10.2,5.2,4.8,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,ERB BEAUCHAMP - CAN
+BERTRAND Felix - CAN - Canada Cup 3 - 2018 - Qualification 2,70.61,6,Men,17.0,16.9,17.1,17.0,17.4,7.6,7.5,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,BERTRAND Felix - CAN
+HLADUN Thomas - CAN - Canada Cup 3 - 2018 - Qualification 2,31.26,36,Men,11.3,10.4,10.7,10.9,10.7,4.6,5.0,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,HLADUN Thomas - CAN
+NADEAU Jean Christophe - CAN - Canadian Championships - 2018 - Qualification 1,72.62,15,Men,16.4,16.8,16.0,15.8,16.2,7.2,8.0,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,NADEAU Jean Christophe - CAN
+MAGA Joshua - CAN - Canada Cup 3 - 2018 - Qualification 1,52.4,25,Men,14.6,14.5,15.6,13.9,14.7,5.6,6.0,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,MAGA Joshua - CAN
+GAGNON Thomas - CAN - Canadian Selections 2 - 2018 - Qualification 1,53.63,35,Men,13.6,13.8,15.7,13.2,13.6,6.7,7.0,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,GAGNON Thomas - CAN
+HURRY Conner - CAN - Canada Cup 1 - 2018 - Qualification 2,19.14,54,Men,14.6,14.2,13.8,14.3,15.0,7.0,6.2,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,HURRY Conner - CAN
+PARSONS Jackson - CAN - Canadian Selections 2 - 2018 - Qualification 2,55.81,29,Men,12.6,15.3,15.2,13.5,14.0,8.2,7.9,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,PARSONS Jackson - CAN
+DURHAM Joseph - CAN - Canadian Championships - 2018 - Qualification 1,64.71,28,Men,14.6,15.5,15.3,15.4,15.9,6.6,6.9,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,DURHAM Joseph - CAN
+DUFFY Eric - CAN - Canadian Selections 2 - 2018 - Qualification 2,48.03,32,Men,10.9,13.6,13.8,13.0,14.0,7.6,8.5,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,DUFFY Eric - CAN
+BERTRAND Felix - CAN - Canada Cup 3 - 2018 - Final 1,47.91,16,Men,17.0,16.5,16.4,15.6,16.0,7.4,7.8,Finals,2018,2018-Canada Cup 3,Final 1,0.0,BERTRAND Felix - CAN
+PERSON Hayden - CAN - Canadian Selections 1 - 2018 - Qualification 2,60.73,21,Men,13.9,13.9,14.4,16.0,15.5,6.7,5.8,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,PERSON Hayden - CAN
+NGUYEN Matthew - CAN - Canada Cup 1 - 2018 - Qualification 2,46.26,41,Men,12.6,13.0,13.4,13.0,13.0,6.8,6.5,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,NGUYEN Matthew - CAN
+RICE Lewis - CAN - Canada Cup 2 - 2018 - Qualification 1,48.17,41,Men,14.8,15.3,14.2,14.7,15.4,7.0,6.7,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,RICE Lewis - CAN
+TANNER Daniel - CAN - Canadian Selections 2 - 2018 - Qualification 1,74.62,9,Men,17.8,17.5,17.7,17.4,16.9,7.1,6.4,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,TANNER Daniel - CAN
+NADON Benjamin - CAN - Canada Cup 1 - 2018 - Qualification 1,73.03,8,Men,16.6,17.1,16.2,16.5,17.4,7.8,7.9,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,NADON Benjamin - CAN
+BONHOMME Zachary - CAN - Canada Cup 1 - 2018 - Qualification 2,21.55,53,Men,13.8,12.5,14.4,13.4,13.6,6.1,5.9,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,BONHOMME Zachary - CAN
+CLOUTIER ASSELIN Felix - CAN - Canadian Selections 1 - 2018 - Qualification 1,53.03,30,Men,12.9,13.6,13.8,10.8,10.8,6.4,7.0,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,CLOUTIER ASSELIN Felix - CAN
+BELLUCCI Massimo - CAN - Canada Cup 3 - 2018 - Qualification 2,68.04,13,Men,16.3,17.2,17.3,16.7,16.8,7.7,6.9,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,BELLUCCI Massimo - CAN
+TANNER Marc - CAN - Canadian Championships - 2018 - Qualification 1,69.93,18,Men,16.2,15.4,16.1,15.8,16.2,4.9,4.3,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,TANNER Marc - CAN
+BESSEL Ben - CAN - Canada Cup 1 - 2018 - Qualification 2,40.97,47,Men,14.0,12.9,13.0,13.3,13.5,7.2,6.7,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,BESSEL Ben - CAN
+KELLY Brenden - CAN - Canadian Selections 2 - 2018 - Qualification 2,80.1,2,Men,18.2,18.2,17.7,18.4,17.8,7.4,8.1,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,KELLY Brenden - CAN
+RICE Lewis - CAN - Canada Cup 3 - 2018 - Qualification 1,48.16,29,Men,13.0,15.0,15.7,15.3,14.7,6.9,7.0,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,RICE Lewis - CAN
+GARBY Noah - CAN - Canada Cup 3 - 2018 - Qualification 1,29.75,37,Men,9.1,12.1,11.5,11.5,11.5,4.3,4.6,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,GARBY Noah - CAN
+CAMIRE Vincent - CAN - Canada Cup 1 - 2018 - Qualification 1,18.49,50,Men,14.0,15.9,15.0,15.4,15.2,5.3,6.3,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,CAMIRE Vincent - CAN
+GILBERT Benoit - CAN - Canada Cup 2 - 2018 - Qualification 1,66.53,23,Men,15.8,16.0,16.5,16.6,17.0,8.1,7.8,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,GILBERT Benoit - CAN
+BURNYEAT Thomas - CAN - Canada Cup 3 - 2018 - Qualification 1,49.72,28,Men,13.3,14.2,15.0,13.8,14.1,6.1,5.9,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,BURNYEAT Thomas - CAN
+LEMIEUX Simon - CAN - Canadian Championships - 2018 - Qualification 1,80.02,5,Men,17.0,17.4,17.5,17.6,17.6,6.9,6.9,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,LEMIEUX Simon - CAN
+GILBERT Benoit - CAN - Canada Cup 1 - 2018 - Qualification 1,66.41,17,Men,15.9,16.9,16.2,16.0,15.8,7.6,7.9,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,GILBERT Benoit - CAN
+ULSIFER Luke - CAN - Canadian Championships - 2018 - Final 1,80.65,8,Men,17.3,17.2,16.8,17.2,17.3,8.4,8.8,Finals,2018,2018-Canadian Championships,Final 1,0.0,ULSIFER Luke - CAN
+DECORE Pierce - CAN - Canada Cup 3 - 2018 - Qualification 2,51.04,22,Men,14.1,14.5,14.1,14.9,11.5,6.6,6.2,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,DECORE Pierce - CAN
+LAVOIE Alexandre - CAN - Canadian Selections 1 - 2018 - Qualification 2,78.25,2,Men,17.7,18.2,18.4,16.3,17.6,8.7,8.0,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,LAVOIE Alexandre - CAN
+HLADUN Thomas - CAN - Canada Cup 3 - 2018 - Qualification 1,32.48,35,Men,10.2,10.2,10.1,10.3,10.0,4.0,4.2,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,HLADUN Thomas - CAN
+KURODA Brayden - CAN - Canada Cup 3 - 2018 - Final 1,75.49,3,Men,17.1,16.9,16.6,16.9,17.1,8.1,7.6,Finals,2018,2018-Canada Cup 3,Final 1,0.0,KURODA Brayden - CAN
+GOODISON Samuel - CAN - Canada Cup 1 - 2018 - Qualification 1,70.92,10,Men,15.8,16.0,15.2,14.4,16.0,7.5,7.9,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,GOODISON Samuel - CAN
+CORDELL Sam - CAN - Canada Cup 3 - 2018 - Final 1,68.35,13,Men,16.7,16.5,16.3,16.3,16.7,5.1,5.2,Finals,2018,2018-Canada Cup 3,Final 1,0.0,CORDELL Sam - CAN
+THIBAULT Olivier - CAN - Canadian Selections 2 - 2018 - Qualification 2,59.29,23,Men,13.9,14.1,15.1,13.6,13.8,5.8,5.5,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,THIBAULT Olivier - CAN
+BERTRAND Felix - CAN - Canadian Selections 1 - 2018 - Qualification 1,56.52,23,Men,10.9,14.7,14.3,12.6,13.8,6.5,5.5,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,BERTRAND Felix - CAN
+DAWSON Quinn - CAN - Canada Cup 1 - 2018 - Qualification 1,44.81,40,Men,15.2,14.1,14.0,15.5,15.0,7.8,7.9,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,DAWSON Quinn - CAN
+DUBUC Joey - CAN - Canada Cup 2 - 2018 - Qualification 1,55.14,36,Men,15.0,15.0,14.4,14.7,15.1,3.8,3.0,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,DUBUC Joey - CAN
+BETY Marc Antoine - CAN - Canadian Selections 1 - 2018 - Qualification 1,61.58,15,Men,14.8,14.3,14.2,12.8,14.0,7.8,7.9,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,BETY Marc Antoine - CAN
+CLOWATER Dylan - CAN - Canada Cup 2 - 2018 - Qualification 1,32.67,48,Men,12.0,11.9,12.9,12.6,13.0,4.9,5.4,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,CLOWATER Dylan - CAN
+GARBY Noah - CAN - Canada Cup 3 - 2018 - Qualification 2,26.45,38,Men,10.1,11.6,11.4,11.6,9.0,5.2,5.5,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,GARBY Noah - CAN
+GAGNON Thomas - CAN - Canada Cup 1 - 2018 - Qualification 2,25.11,52,Men,16.0,15.8,15.5,16.9,16.4,7.2,7.0,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,GAGNON Thomas - CAN
+GUY TESSIER Olivier - CAN - Canadian Championships - 2018 - Final 1,53.9,14,Men,16.2,17.0,15.0,15.8,12.0,6.2,6.0,Finals,2018,2018-Canadian Championships,Final 1,0.0,GUY TESSIER Olivier - CAN
+TANNER Daniel - CAN - Canadian Selections 1 - 2018 - Qualification 1,72.19,7,Men,16.6,17.3,17.5,16.0,16.8,6.5,7.4,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,TANNER Daniel - CAN
+GAGNON Marc Antoine - CAN - Canadian Championships - 2018 - Final 1,85.12,2,Men,18.0,18.1,18.4,18.0,17.4,8.2,9.0,Finals,2018,2018-Canadian Championships,Final 1,0.0,GAGNON Marc Antoine - CAN
+BEAULIEU Charles - CAN - Canada Cup 1 - 2018 - Qualification 1,67.29,15,Men,16.2,17.1,13.8,15.3,17.4,7.8,7.9,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,BEAULIEU Charles - CAN
+DUFFY Eric - CAN - Canada Cup 1 - 2018 - Qualification 1,70.77,11,Men,17.5,18.1,16.6,16.2,15.6,7.5,8.0,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,DUFFY Eric - CAN
+DUMAIS Laurent - CAN - Canadian Championships - 2018 - Qualification 1,78.02,7,Men,16.8,18.4,17.0,17.0,16.0,9.1,8.9,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,DUMAIS Laurent - CAN
+DURHAM Joseph - CAN - Canadian Selections 2 - 2018 - Qualification 1,65.52,22,Men,16.6,16.5,16.6,13.8,14.8,8.3,7.8,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,DURHAM Joseph - CAN
+KANG Phillip - CAN - Canada Cup 3 - 2018 - Qualification 1,52.73,23,Men,14.3,15.1,15.2,14.9,16.4,7.0,5.6,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,KANG Phillip - CAN
+KURODA Brayden - CAN - Canadian Selections 1 - 2018 - Qualification 1,61.34,16,Men,16.1,14.2,14.8,12.5,14.8,7.0,7.1,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,KURODA Brayden - CAN
+RAMSAY Max - CAN - Canada Cup 2 - 2018 - Qualification 1,49.29,40,Men,14.6,15.0,14.0,13.8,15.8,6.4,7.2,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,RAMSAY Max - CAN
+CAMPEAU Nicolas - CAN - Canadian Selections 2 - 2018 - Qualification 2,41.43,34,Men,12.7,13.3,12.4,12.8,12.8,8.0,7.8,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,CAMPEAU Nicolas - CAN
+NADEAU Jean Christophe - CAN - Canadian Championships - 2018 - Final 1,77.98,10,Men,17.0,17.6,16.6,16.6,16.9,9.5,9.4,Finals,2018,2018-Canadian Championships,Final 1,0.0,NADEAU Jean Christophe - CAN
+BELLUCCI Massimo - CAN - Canada Cup 3 - 2018 - Final 1,74.32,5,Men,18.0,17.6,17.3,17.1,17.4,7.9,7.8,Finals,2018,2018-Canada Cup 3,Final 1,0.0,BELLUCCI Massimo - CAN
+VIEL Julien - CAN - Canadian Selections 1 - 2018 - Qualification 1,35.82,34,Men,12.1,12.0,11.8,12.0,12.0,5.6,4.7,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,VIEL Julien - CAN
+BERTRAND Felix - CAN - Canada Cup 3 - 2018 - Qualification 1,70.33,9,Men,16.9,16.6,16.9,16.7,17.1,8.0,7.2,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,BERTRAND Felix - CAN
+DUBUC Jeremy - CAN - Canada Cup 1 - 2018 - Qualification 1,57.25,29,Men,16.2,16.5,16.2,17.0,16.8,7.4,6.7,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,DUBUC Jeremy - CAN
+MURATA Yutaro - JPN - Canadian Selections 2 - 2018 - Qualification 2,75.56,3,Men,17.6,18.3,18.2,16.8,17.2,8.5,7.3,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,MURATA Yutaro - JPN
+BONHOMME Zachary - CAN - Canada Cup 1 - 2018 - Qualification 1,47.06,39,Men,13.9,12.8,15.4,12.6,13.0,6.2,6.4,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,BONHOMME Zachary - CAN
+NADEAU Jean  Christophe - CAN - Canada Cup 1 - 2018 - Qualification 1,73.32,7,Men,16.5,16.9,15.5,17.8,17.0,8.0,7.9,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,NADEAU Jean  Christophe - CAN
+HURRY Conner - CAN - Canada Cup 1 - 2018 - Qualification 1,49.21,37,Men,14.5,14.0,14.2,14.3,14.5,7.8,7.7,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,HURRY Conner - CAN
+CLOUTIER ASSELIN Felix - CAN - Canadian Selections 2 - 2018 - Qualification 2,37.16,36,Men,12.2,11.3,11.5,12.0,12.8,6.7,5.9,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,CLOUTIER ASSELIN Felix - CAN
+SUGIMOTO Kosuke - JPN - Canadian Selections 2 - 2018 - Qualification 1,76.06,7,Men,17.8,18.0,18.0,16.6,17.2,7.4,7.8,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,SUGIMOTO Kosuke - JPN
+GOODISON Samuel - CAN - Canada Cup 2 - 2018 - Qualification 1,67.41,20,Men,16.2,16.6,15.8,15.9,16.5,6.3,6.1,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,GOODISON Samuel - CAN
+DESAUTELS Mats - CAN - Canada Cup 1 - 2018 - Qualification 2,66.47,21,Men,16.3,15.8,16.0,16.8,17.0,7.3,7.4,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,DESAUTELS Mats - CAN
+LAVOIE Alexandre - CAN - Canadian Selections 2 - 2018 - Qualification 2,45.65,33,Men,17.9,17.5,18.2,18.5,18.2,8.3,7.8,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,LAVOIE Alexandre - CAN
+GUY TESSIER Olivier - CAN - Canada Cup 2 - 2018 - Final 1,80.38,4,Men,18.4,18.1,18.5,18.1,18.0,7.6,7.7,Finals,2018,2018-Canada Cup 2,Final 1,0.0,GUY TESSIER Olivier - CAN
+KAPRONCZAI Julian - CAN - Canada Cup 3 - 2018 - Final 1,76.68,2,Men,18.7,17.7,17.4,17.5,17.2,5.4,5.2,Finals,2018,2018-Canada Cup 3,Final 1,0.0,KAPRONCZAI Julian - CAN
+KIMOTO Masahiro - JPN - Canadian Selections 1 - 2018 - Qualification 1,63.27,14,Men,12.8,15.2,15.1,15.0,15.1,6.5,5.0,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,KIMOTO Masahiro - JPN
+PORTELLO Ryan - CAN - Canadian Selections 2 - 2018 - Qualification 1,77.36,6,Men,18.2,17.6,17.2,16.8,18.0,9.0,8.7,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,PORTELLO Ryan - CAN
+BERTRAND Felix - CAN - Canada Cup 2 - 2018 - Final 1,76.08,13,Men,17.2,17.6,17.0,18.1,17.5,8.2,8.2,Finals,2018,2018-Canada Cup 2,Final 1,0.0,BERTRAND Felix - CAN
+LAPOINTE Jean Nico - CAN - Canada Cup 2 - 2018 - Qualification 1,47.14,42,Men,13.2,11.8,13.8,13.0,13.4,5.8,6.1,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,LAPOINTE Jean Nico - CAN
+CORDELL Sam - CAN - Canadian Selections 2 - 2018 - Qualification 2,66.98,14,Men,17.6,17.5,15.9,17.2,16.8,7.9,7.1,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,CORDELL Sam - CAN
+MURATA Yutaro - JPN - Canadian Selections 1 - 2018 - Qualification 2,74.11,6,Men,16.3,17.1,18.4,16.5,17.8,8.1,8.0,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,MURATA Yutaro - JPN
+LAPOINTE Jean Nico - CAN - Canada Cup 1 - 2018 - Qualification 1,49.67,36,Men,13.8,14.0,13.6,13.6,14.0,6.7,6.9,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,LAPOINTE Jean Nico - CAN
+DUFFY Eric - CAN - Canadian Selections 1 - 2018 - Qualification 2,51.54,35,Men,11.1,13.3,14.3,13.2,14.0,7.4,7.6,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,DUFFY Eric - CAN
+RAMSAY Max - CAN - Canada Cup 1 - 2018 - Qualification 1,61.45,25,Men,15.8,15.9,14.4,13.6,16.5,6.0,5.8,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,RAMSAY Max - CAN
+CHALIFOUX Louis David - CAN - Canada Cup 3 - 2018 - Qualification 1,68.12,11,Men,17.0,17.4,17.3,17.0,18.1,6.0,6.2,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,CHALIFOUX Louis David - CAN
+PERSON Hayden - CAN - Canadian Selections 1 - 2018 - Qualification 1,48.01,32,Men,10.2,13.2,13.1,13.2,13.0,7.2,7.9,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,PERSON Hayden - CAN
+HIRAYAMA Shota - JPN - Canadian Selections 1 - 2018 - Qualification 1,54.49,26,Men,13.7,14.5,14.8,12.8,13.0,6.5,6.7,Qualification,2018,2018-Canadian Selections 1,Qualification 1,0.0,HIRAYAMA Shota - JPN
+DUFFY Eric - CAN - Canada Cup 1 - 2018 - Qualification 2,71.51,11,Men,17.2,18.0,17.0,16.0,17.0,7.3,8.2,Qualification,2018,2018-Canada Cup 1,Qualification 2,0.0,DUFFY Eric - CAN
+VIEL Julien - CAN - Canada Cup 3 - 2018 - Final 1,73.24,6,Men,16.8,17.0,16.7,16.9,17.0,8.8,8.6,Finals,2018,2018-Canada Cup 3,Final 1,0.0,VIEL Julien - CAN
+MARTEL Devon - CAN - Canadian Championships - 2018 - Qualification 1,63.65,31,Men,15.3,15.8,15.4,15.8,16.1,6.8,6.9,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,MARTEL Devon - CAN
+LESSARD Olivier - CAN - Canadian Selections 2 - 2018 - Qualification 1,51.31,36,Men,14.2,12.9,12.4,12.6,12.0,6.1,6.3,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,LESSARD Olivier - CAN
+KURODA Brayden - CAN - Canadian Selections 2 - 2018 - Qualification 1,71.26,15,Men,16.5,16.8,16.6,16.8,17.0,7.4,7.6,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,KURODA Brayden - CAN
+MARTEL Devon - CAN - Canada Cup 2 - 2018 - Qualification 1,69.06,18,Men,15.8,16.0,17.2,17.6,17.0,8.1,8.0,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,MARTEL Devon - CAN
+TANNER Marc - CAN - Canadian Selections 1 - 2018 - Qualification 2,56.12,30,Men,12.9,12.4,12.4,14.0,13.0,7.0,6.8,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,TANNER Marc - CAN
+FRECHETTE Christian - CAN - Canada Cup 1 - 2018 - Qualification 1,75.87,4,Men,17.9,18.2,17.5,18.2,17.0,8.3,8.2,Qualification,2018,2018-Canada Cup 1,Qualification 1,0.0,FRECHETTE Christian - CAN
+JOOSTEN Matt - CAN - Canadian Selections 2 - 2018 - Qualification 2,70.71,8,Men,17.9,17.8,15.9,16.0,16.2,7.0,7.0,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,JOOSTEN Matt - CAN
+CAMPEAU Nicolas - CAN - Canada Cup 3 - 2018 - Qualification 2,68.62,12,Men,16.0,16.2,16.3,16.0,15.0,6.5,5.8,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,CAMPEAU Nicolas - CAN
+KANG Phillip - CAN - Canada Cup 3 - 2018 - Qualification 2,56.19,18,Men,15.3,14.6,15.0,14.9,15.8,7.0,5.6,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,KANG Phillip - CAN
+ULSIFER Luke - CAN - Canadian Selections 1 - 2018 - Qualification 2,82.32,1,Men,18.2,18.1,17.1,18.4,18.4,9.0,8.2,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,ULSIFER Luke - CAN
+LAVOIE Alexandre - CAN - Canadian Selections 2 - 2018 - Qualification 1,77.72,5,Men,16.9,17.3,19.5,17.2,18.4,8.0,8.1,Qualification,2018,2018-Canadian Selections 2,Qualification 1,0.0,LAVOIE Alexandre - CAN
+PARSONS Nathan - CAN - Canada Cup 3 - 2018 - Qualification 1,38.92,34,Men,11.9,11.4,14.5,13.1,11.8,6.5,6.7,Qualification,2018,2018-Canada Cup 3,Qualification 1,0.0,PARSONS Nathan - CAN
+ANDISON Robbie - CAN - Canadian Selections 1 - 2018 - Qualification 2,77.84,3,Men,18.6,18.2,18.1,18.0,18.5,8.3,8.3,Qualification,2018,2018-Canadian Selections 1,Qualification 2,0.0,ANDISON Robbie - CAN
+CAMIRE Vincent - CAN - Canada Cup 2 - 2018 - Qualification 1,56.05,34,Men,13.8,14.5,15.0,15.0,13.0,4.1,4.0,Qualification,2018,2018-Canada Cup 2,Qualification 1,0.0,CAMIRE Vincent - CAN
+PHILLIPS Ethan - CAN - Canada Cup 3 - 2018 - Qualification 2,55.47,19,Men,14.5,13.9,13.6,11.2,16.0,6.1,6.4,Qualification,2018,2018-Canada Cup 3,Qualification 2,0.0,PHILLIPS Ethan - CAN
+KURODA Brayden - CAN - Canadian Selections 2 - 2018 - Qualification 2,67.42,12,Men,17.0,16.3,14.5,16.6,15.6,5.9,6.4,Qualification,2018,2018-Canadian Selections 2,Qualification 2,0.0,KURODA Brayden - CAN
+DUFRESNE Gabriel - CAN - Canadian Championships - 2018 - Qualification 1,81.11,3,Men,17.6,17.9,17.8,17.6,17.3,9.5,9.0,Qualification,2018,2018-Canadian Championships,Qualification 1,0.0,DUFRESNE Gabriel - CAN
